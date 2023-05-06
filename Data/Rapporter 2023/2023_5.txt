@@ -1,0 +1,2749 @@
+Att släcka bränder
+– Polismyndighetens arbete med 
+särskilda händelser riktade mot grov 
+brottslighet  
+RiR 2023:5
+
+Riksrevisionen  är  en  myndighet  under  riksdagen  med  uppgift  att  granska  statliga 
+myndigheter och verksamheter. Vi bedriver både årlig revision och effektivitetsrevision. 
+Genom ett grundlagsskyddat oberoende har Riksrevisionen ett starkt mandat och är en 
+viktig del av riksdagens kontrollmakt som bidrar till förbättringar och demokratisk insyn.
+Denna rapport har tagits fram inom effektivitetsrevisionen, vars uppgift är att granska hur 
+effektiv den statliga verksamheten är. Vi lämnar även rekommendationer för att förbättra 
+den granskade verksamheten. Effektivitetsgranskningar lämnas direkt till riksdagen som 
+bereder dem tillsammans med en svarsskrivelse från regeringen.
+Riksrevisionen
+
+Beslutad: 2023-03-14 
+Diarienummer: 3.1.1-2022-0175 
+RiR 2023:5 
+Till: Riksdagen 
+Härmed överlämnas enligt 9 § lagen (2002:1022) om revision av statlig verksamhet m.m. 
+följande granskningsrapport: 
+Att släcka bränder 
+– Polismyndighetens arbete med särskilda händelser riktade 
+mot grov brottslighet 
+Riksrevisionen har granskat om Polismyndighetens särskilda händelser är en 
+effektiv ledningsform för att bekämpa grov brottslighet. Resultatet av granskningen 
+redovisas i denna granskningsrapport. Den innehåller slutsatser och 
+rekommendationer som avser Polismyndigheten. 
+Riksrevisor Helena Lindberg har beslutat i detta ärende. Revisionsledare Linda 
+Jönsson har varit föredragande. Revisor Linnéa Olander, revisor Alexander Rohdin 
+och enhetschef Jesper Antelius har medverkat i den slutliga handläggningen. 
+Helena Lindberg 
+  Linda Jönsson 
+För kännedom 
+Regeringskansliet; Justitiedepartementet 
+Polismyndigheten 
+
+Innehåll 
+Sammanfattning  5 
+1  Inledning  9 
+1.1  Motiv till granskning  9 
+1.2  Övergripande revisionsfråga  10 
+1.3  Avgränsningar  10 
+1.4  Bedömningsgrunder  11 
+1.5  Metod och genomförande  14 
+1.6  Disposition  16 
+2  Särskilda händelser och andra former av resursförflyttningar  17 
+2.1  Vad är en särskild händelse?  17 
+2.2  Tillfälliga resursförflyttningar  19 
+2.3  Omorganisationen och ett effektivt resursutnyttjande  19 
+2.4  Utvärderingar av särskilda händelser riktade mot grov brottslighet  20 
+3  Det saknas underlag för att mäta om särskilda händelser har gett 
+effekt  23 
+3.1  Det finns brister i Polismyndighetens registrering och 
+dokumentation av särskilda händelser  23 
+3.2  Särskilda händelser kopplas till övergripande målsättningar som 
+sällan följs upp  25 
+3.3  Särskilda händelser riktade mot grov brottslighet uppges ha störst 
+effekt under kort tid  27 
+4  Polismyndigheten genomför inte särskilda händelser på ett 
+effektivt sätt  30 
+4.1  Det finns inga tydliga kriterier för att besluta om särskilda händelser  31 
+4.2  En stor del av de särskilda händelserna kunde ha hanterats av 
+linjeverksamheten  32 
+4.3  Grov brottslighet var det tredje vanligaste skälet till att besluta om 
+särskild händelse 2015–2021  33 
+4.4  Särskilda händelser uppges pågå under längre tid och används i 
+fler typer av situationer  35 
+4.5  Den totala merkostnaden för särskilda händelser riktade mot grov 
+brottslighet går inte att spåra  36 
+4.6  Tillfällig resursförflyttning har använts för att skicka resurser 
+under längre tid  37 
+4.7  Handboken och riktlinjerna för särskilda händelser är ett stöd  42 
+4.8  Det lokala lägesbildsarbetet drabbas hårt av särskilda händelser  44 
+4.9  Den operativa personalen har olika erfarenheter av särskilda 
+händelser  48 
+4.10  Samverkan med kommunen kan förbättras i samband med 
+särskilda händelser  50 
+
+5  Erfarenheter och kunskap om särskilda händelser tillvaratas sällan  55 
+5.1  Uppföljning och utvärdering av särskilda händelser görs sällan  56 
+5.2  Det saknas en strukturerad process för kunskapsspridning om 
+särskilda händelser  57 
+5.3  Vissa goda exempel har implementerats i linjearbetet  60 
+6  Slutsatser och rekommendationer  62 
+6.1  Slutsatser  62 
+6.2  Rekommendationer  67 
+Referenslista  69 
+Bilaga 1. Metod  73 
+Bilaga 2. Stabens organisation  79 
+ 
+Elektroniska bilagor 
+Till rapporten finns en bilaga i pdfformat att ladda ner från Riksrevisionens 
+webbplats. Bilagan kan även begäras ut från ärendets akt genom registraturen.  
+Bilaga 3. Enkätfrågor 
+ 
+
+Sammanfattning 
+Grov brottslighet såsom skjutningar och sprängningar är ett stort problem i Sverige 
+som sprider sig alltmer utanför storstäderna. För att bekämpa sådan brottslighet 
+kan Polismyndigheten besluta om särskilda händelser, vilket innebär att 
+verksamheten leds i särskild ordning och gör det möjligt att snabbt mobilisera 
+resurser och kompetens. Det finns dock problemindikationer som visar på brister i 
+Polismyndighetens arbete med särskilda händelser. Riksrevisionen har därför 
+granskat om särskilda händelser är en effektiv ledningsform för att bekämpa grov 
+brottslighet.  
+Granskningens resultat 
+Riksrevisionens övergripande slutsats är att särskilda händelser kan vara ett 
+effektivt sätt att leda arbetet under de första timmarna eller dagarna efter att ett 
+grovt brott har begåtts. Riksrevisionens bedömning är emellertid att särskilda 
+händelser som pågår under längre tid än så gör större skada än nytta eftersom de 
+ofta innebär resursförflyttningar som ger negativa konsekvenser i de lokalpolisområden som måste bistå med resurser. Riksrevisionen bedömer därför att 
+bekämpning av grov brottslighet inte bör ske genom långvariga särskilda händelser. 
+Granskningen visar att Polismyndigheten inte kan redogöra för vare sig det totala 
+antalet särskilda händelser eller antalet särskilda händelser med inriktning mot 
+grov brottslighet, eller den totala merkostnaden för dessa. Därutöver saknas det 
+information i Polismyndighetens administrativa system om hur länge de särskilda 
+händelserna pågick, hur många årsarbetskrafter som involverades och från vilka 
+delar av myndigheten resurser skickades. Vidare är det inte möjligt att avgöra vilka 
+polisiära eller utredningsmässiga åtgärder som genomfördes inom ramen för den 
+särskilda händelsen. Riksrevisionens bedömning är att det i dagsläget inte är 
+möjligt att mäta om särskilda händelser riktade mot grov brottslighet ger effekt.  
+Riksrevisionens genomgång och sammanställning av särskilda händelser visar att 
+grov brottslighet var det tredje vanligaste skälet till att fatta beslut om särskild 
+händelse under perioden 2015–2021. För över hälften av dessa händelser 
+(53,5 procent) är de eventuella merkostnaderna inte möjliga att spåra. För övriga 
+händelser uppgår merkostnaderna till 116 miljoner. Den bristande spårbarheten 
+beror enligt Polismyndigheten bland annat på att polisregionerna inte alltid bokför 
+merkostnader för särskilda händelser, och på brister i Polismyndighetens system, 
+vilket försvårar möjligheten att säkerställa en god hushållning med statens medel.  
+
+Polismyndigheten har tagit fram en handbok och riktlinjer som underlättar 
+genomförandet av särskilda händelser, men det saknas tydliga kriterier för beslut 
+om att inleda en särskild händelse. Granskningen visar att det är viktigt att 
+Polismyndigheten gör väl avvägda bedömningar, både inför ett eventuellt beslut om 
+en särskild händelse och under tiden händelsen pågår, för att säkerställa att 
+resurserna används på ett effektivt sätt. Närmare en tredjedel av 
+lokalpolisområdescheferna i Riksrevisionens enkätundersökning anser att särskilda 
+händelser riktade mot grov brottslighet till största delen kunde ha hanterats av 
+linjeverksamheten i stället, med hjälp av tydligare ledning och styrning.  
+De lokalpolisområden som får bistå med resurser drabbas hårt av långvarig 
+resursförflyttning i samband med särskilda händelser riktade mot grov brottslighet. 
+Brottsförebyggande aktiviteter ställs in och samverkan med externa aktörer 
+prioriteras ned, vilket medför att det blir svårare att upptäcka och förhindra 
+nyrekrytering av unga till grov kriminalitet. Det blir svårare för polisen att hantera 
+den grova brottsligheten lokalt och att vara synlig i lokalsamhället, vilket kan leda till 
+ökad otrygghet för medborgarna. Även ökade ärendebalanser drabbar medborgarna 
+negativt då de får vänta längre på att få sina polisanmälningar omhändertagna.  
+Slutligen visar granskningen att Polismyndigheten sällan följer upp eller utvärderar 
+arbetet inom ramen för särskilda händelser. Det saknas ett system för 
+kunskapsspridning, och i den mån ny kunskap sprids sker det främst muntligen 
+och på den enskilda medarbetarens initiativ. Riksrevisionen bedömer att 
+uppföljning, utvärdering och kunskapsspridning är av stor vikt för att tillvarata 
+kunskaper och erfarenheter och för att öka förutsättningarna för att implementera 
+goda exempel i den ordinarie linjeverksamheten. 
+Rekommendationer  
+Med utgångspunkt i granskningens resultat lämnar Riksrevisionen följande 
+rekommendationer till Polismyndigheten:  
+•  Utveckla kriterier som underlag inför beslut om en situation ska hanteras 
+inom ramen för en regional respektive nationell särskild händelse. 
+•  Ta fram en nationell lägesbild att utgå från inför beslut om resursförflyttningar. 
+Lägesbilden bör uppdateras regelbundet och delas vid behov. 
+•  Utveckla dokumentationen av särskilda händelser så att det är möjligt att 
+kontinuerligt följa antal, omfattning, kostnader, resursmobilitet samt 
+aktuella polisiära och utredningsmässiga åtgärder.  
+
+•  Följ upp och utvärdera särskilda händelser. Underlagen bör dokumenteras 
+och ge information om eventuella framgångsfaktorer eller risker med 
+särskilda händelser som kan utveckla arbetet framåt.  
+•  Säkerställ att kunskaper och erfarenheter om särskilda händelser sprids på 
+ett systematiserat sätt till alla berörda delar av organisationen. 
+
+1  Inledning 
+1.1  Motiv till granskning 
+Grov brottslighet är ett högaktuellt problem i Sverige som sprider sig alltmer 
+utanför storstäderna.1 Det visar sig bland annat genom att Sverige både ligger i topp 
+när det gäller dödligt skjutvapenvåld i Europa och är det enda landet som har en 
+ökande trend av skjutningar.2 En följd av det ökade skjutvapenvåldet är att allt fler 
+utomstående drabbas.3 För att bekämpa den grova brottsligheten kan 
+Polismyndigheten besluta om särskilda händelser, vilket innebär att verksamheten 
+leds i särskild ordning och möjliggör snabb mobilisering av resurser och 
+kompetens.4 Den senaste nationella särskilda händelsen riktad mot grov 
+brottslighet är nationell särskild händelse (NSH) Rimfrost, som pågick från 
+december 2019 till juni 2020.5 Sedan dess har ett flertal särskilda händelser riktade 
+mot grov brottslighet genomförts på regional nivå. 
+Regeringen tillförde Polismyndigheten sammanlagt 9,8 miljarder kronor under 
+perioden 2015–2021, vilket motsvarar en ökning av anslaget med närmare 
+50 procent. Under samma period prioriterade regeringen arbetet med att bekämpa 
+grov brottslighet, till exempel genom att besluta om ett flertal straffskärpningar och 
+uppdrag.6 Riksdagen har framfört att det brottsförebyggande och 
+trygghetsskapande arbetet har hög prioritet, och att Polismyndighetens beslut om 
+att initiera NSH Rimfrost var mycket angeläget.7 
+Det finns dock flera indikationer på brister i Polismyndighetens arbete med 
+särskilda händelser riktade mot grov brottslighet, både när det gäller huruvida 
+händelserna har haft effekt och om effekten ens är möjlig att bedöma.8 9 Särskilda 
+händelser är kostsamma i form av personalresurser och övriga kostnader, och får 
+ 
+1   TT, “Polisen: Inga tecken på minskning av skjutvapenvåldet”. 
+2   Brottsförebyggande rådet, Dödligt skjutvapenvåld i Sverige och andra europeiska länder – 
+En jämförande studie av nivåer, trender och våldsmetoder, 2021, s 7–11. 
+3   Halldén, “Kriminolog: Därför skadas allt oftare utomstående vid gängskjutningar”. 
+4   Ivarsson Westerberg, Reform i uniform, 2020, s. 164, 170. 
+5   Polismyndigheten, Årsredovisning för 2020, 2021, s. 75.  
+6   Riksrevisionen, Rätt insats på rätt plats – polisens arbete i utsatta områden, RiR 2020:20, s. 34–35. 
+7   Bet. 2019/20:JuU25, s. 92. 
+8   Rikspolisstyrelsen, Inspektion av Operation Alfred och Selma vid Polismyndigheten i Skåne, 2013. 
+9   Malmö universitet, Effektutvärdering av Sluta skjut – en strategi för att minska det grova våldet, 
+2021. 
+
+konsekvenser för resurssättningen i linjeverksamheten.10 11 Dessa brister och 
+konsekvenser gör det angeläget för Riksrevisionen att granska om särskilda 
+händelser är en effektiv ledningsform för att bekämpa grov brottslighet.  
+1.2  Övergripande revisionsfråga 
+Den övergripande revisionsfrågan är om Polismyndighetens särskilda händelser är 
+en effektiv ledningsform för att bekämpa grov brottslighet. 
+Granskningen omfattar tre delfrågor: 
+1.  Har särskilda händelser riktade mot grov brottslighet gett effekt? 
+2.  Genomför Polismyndigheten de särskilda händelserna på ett effektivt sätt? 
+3.  Gör Polismyndigheten tillräckligt för att säkerställa att kunskap och 
+erfarenheter från tidigare särskilda händelser tillvaratas? 
+Granskningen avser i huvudsak Polismyndigheten. Vi har dock även granskat 
+regeringens styrning utifrån dess eventuella dialog med och uppföljning av 
+Polismyndigheten avseende arbetet med särskilda händelser.  
+Granskningen omfattar samtliga regionala och nationella särskilda händelser samt 
+särskilda händelser på Nationella operativa avdelningen (Noa) som inleddes under 
+perioden 1 januari 2015–31 december 2021. Granskningens huvudsakliga 
+inriktning avser särskilda händelser riktade mot grov brottslighet vilket innebär att 
+merparten av informationsinhämtningen och analysen avser sådana händelser. 
+Vi har utgått från Polismyndighetens definition av grov brottslighet som ingår i 
+myndighetens IT-stöd för registrering av i förväg kända särskilda händelser 
+(PUM-A). Denna definition inkluderar exempelvis skjutningar, sprängningar, 
+människorov och grova bedrägerier.12 
+1.3  Avgränsningar 
+Granskningen avser Polismyndighetens särskilda händelser, inte särskilda 
+satsningar eller andra former av kraftsamlingar mot specifika problem som inte 
+ 
+10   Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, s.4. 
+11   Delin och Jakobson, ”Polischefen varnar: Rimfrost kan kastrera lokala polisen”. 
+12   Definitionen Grov brottslighet – annat utanför GOB-uppdraget i PUM-A inkluderar 
+underkategorierna Grov organiserad brottslighet, Grov systemhotande brottslighet och Övrig grov 
+brottslighet. Vi har valt att inte inkludera definitionen Grov brottslighet – GOB-uppdraget som 
+också finns i PUM-A eftersom den avser det myndighetsgemensamma arbetet mot grov 
+organiserad brottslighet och omfattar flera myndigheter utöver Polismyndigheten. 
+
+utgår från den särskilda ledningsform som särskilda händelser har. I vissa fall kan 
+tillfälliga resursförflyttningar ske inom ramen för särskilda händelser. Vår 
+granskning inkluderar ett fall av tillfällig resursförflyttning riktad mot grov 
+brottslighet som övergick i en regional särskild händelse under granskningens 
+gång. Granskningen omfattar inte särskilda händelser som i sin helhet är belagda 
+med sekretess.13  
+Efter att ha analyserat intervjuer och underlag från Justitiedepartementet kan vi 
+konstatera att regeringen formellt inte styrde Polismyndighetens arbete med 
+särskilda händelser under granskningsperioden 2015–2021, genom till exempel 
+återrapporteringskrav i regleringsbreven eller andra uppdrag. Rapporten innehåller 
+i övrigt inga iakttagelser avseende regeringens styrning. 
+1.4  Bedömningsgrunder 
+Bedömningsgrunder är de kriterier som Riksrevisionen tillämpar för att värdera 
+sina iakttagelser. Nedan redogör vi för vår övergripande bedömningsgrund och för 
+de bedömningsgrunder vi har granskat de tre delfrågorna utifrån. 
+Övergripande bedömningsgrund 
+Polismyndigheten ska bedriva verksamheten rättssäkert och enhetligt vid 
+ingripanden mot störningar av allmän ordning och säkerhet, och vid utredning och 
+beivrande av brott. Detsamma gäller när Polismyndigheten förebygger brottslig 
+verksamhet och fullgör andra uppgifter som myndigheten har.14 
+Till Polismyndighetens uppgifter hör bland annat att förebygga, förhindra och 
+upptäcka brottslig verksamhet och andra störningar av den allmänna ordningen 
+eller säkerheten. Vidare ska myndigheten övervaka den allmänna ordningen och 
+säkerheten och ingripa när störningar har inträffat.15  
+ 
+13   Vi har valt att inte inkludera särskilda händelser som i sin helhet är belagda med sekretess 
+eftersom möjligheten att redogöra för dessa innehållsmässigt är begränsad i en öppen 
+granskningsrapport. Att inkludera dem hade även begränsat möjligheten att undersöka och 
+beskriva vilken uppfattning samverkande aktörer och Polismyndighetens operativa personal 
+har om särskilda händelser (se bilaga 1). 
+14   2 § förordningen (2014:1102) med instruktion för Polismyndigheten. Motsvarande krav 
+framgår numera av 2 § förordningen (2022:1718) med instruktion för Polismyndigheten som 
+ersatt den tidigare instruktionen från och med den 1 januari 2023. 
+15   2 § polislagen (1984:387). 
+
+Delfråga 1: Har särskilda händelser riktade mot grov brottslighet gett 
+effekt?  
+Riksdagen har framfört att uppföljningen av polisens resultat måste förbättras i 
+syfte att öka effektiviteten och uppnå en större likvärdighet över landet när det 
+gäller arbetssätt, brottsutredningars kvalitet och utredningsresultat. För detta krävs 
+enligt riksdagen att Polismyndigheten har tydliga och mätbara mål för 
+verksamheten. Målen behöver följas upp såväl internt inom myndigheten som av 
+en extern aktör.16 Med anledning av riksdagens tillkännagivande om tydliga och 
+mätbara mål har regeringen vidtagit en rad åtgärder.17 
+Vår bedömning av om särskilda händelser riktade mot grov brottslighet har gett 
+effekt baseras på att 
+•  Polismyndigheten och samverkande aktörer kan redogöra för hur och i 
+vilken utsträckning särskilda händelser har bidragit till att bekämpa grov 
+brottslighet 
+•  Polismyndighetens strategi för att utforma särskilda händelser är utformad 
+på ett sådant sätt att det är möjligt att bedöma insatsens effekt, till exempel 
+genom olika mått i syfte att kunna bedöma om genomförda aktiviteter har 
+bidragit till att uppnå de övergripande målen.  
+Delfråga 2: Genomför Polismyndigheten de särskilda händelserna på ett 
+effektivt sätt? 
+Enligt myndighetsförordningen (2007:515) ska myndighetens ledning bland annat 
+se till att verksamheten bedrivs effektivt och redovisas på ett tillförlitligt och 
+rättvisande sätt. Förordningen ställer även krav på att myndigheterna hushållar väl 
+med statens medel.18  
+Av polislagen framgår att Polismyndigheten och Säkerhetspolisen ska samarbeta 
+med andra myndigheter och organisationer vilkas verksamhet berör 
+polisverksamheten. Polismyndigheten ska även fortlöpande samarbeta med 
+myndigheterna inom socialtjänsten och snarast underrätta dessa om förhållanden 
+som bör föranleda någon åtgärd av dem. Därutöver framgår att andra myndigheter 
+ska ge polisen stöd i dess arbete.19 
+ 
+16   Bet. 2017/18:JuU1, s. 86. 
+17   Se regeringsbeslut Ju2016/08896/LP(delvis), Ju2014/07900/PO(delvis), Ju2015/05405/PO 
+m.fl. och regeringsbeslut Ju2017/09598/LP(delvis), Ju2007/01154/Å, Ju2016/07818/PO m.fl. 
+18   3 § myndighetsförordningen (2007:515). 
+19   6 § polislagen (1984:387). 
+
+Vår bedömning av om Polismyndigheten genomför de särskilda händelserna på ett 
+effektivt sätt baseras på att 
+•  Polismyndigheten har tydliga kriterier för att initiera särskilda händelser 
+•  Polismyndighetens strategi för att utforma särskilda händelser är ett stöd i 
+arbetet och inkluderar en plan för avslut av den särskilda händelsen 
+•  Polismyndigheten kan redogöra för hur de har styrt och prioriterat sina 
+resurser inom ramen för särskilda händelser så att de ger mest nytta i syfte 
+att bekämpa grov brottslighet 
+•  Polismyndigheten har beaktat hur den ordinarie verksamheten påverkas av 
+att skicka resurser till särskilda händelser  
+•  Polismyndigheten har involverat berörda aktörer i förberedelsen och 
+genomförandet av de särskilda händelserna, till exempel genom att lämna 
+nödvändig information. 
+Delfråga 3: Gör Polismyndigheten tillräckligt för att säkerställa att 
+kunskap och erfarenheter från tidigare särskilda händelser tillvaratas? 
+Enligt regeringen är ett kunskapsbaserat arbetssätt, genomarbetade lokala 
+problembilder och uppföljningsbara aktiviteter centrala för ett framgångsrikt 
+brottsförebyggande och brottsbekämpande arbete. Polismyndigheten bör därför 
+utveckla metoder för att följa upp och utvärdera effekterna av de åtgärder som 
+vidtas.20 
+Vår bedömning av om Polismyndigheten gör tillräckligt för att säkerställa att 
+erfarenheter från tidigare särskilda händelser tillvaratas baseras på att 
+•  Polismyndigheten har följt upp och genomfört utvärderingar av de åtgärder 
+som vidtas inom ramen för de särskilda händelserna 
+•  Polismyndigheten har inhämtat berörda aktörers perspektiv och upplevelser i 
+arbetet med utvärderingar, till exempel från olika samverkanspartners och 
+allmänhet 
+•  Polismyndigheten har ett system för att sprida kunskap på alla nivåer i 
+organisationen och har använt detta för att sprida kunskap 
+•  Polismyndigheten har tagit med sig goda exempel utifrån resultat från 
+tidigare genomförda särskilda händelser och implementerat dem i 
+linjeverksamheten. 
+ 
+20   Bet. 2019/20:JuU1 s. 55. 
+
+1.5  Metod och genomförande 
+Granskningen har genomförts av en projektgrupp bestående av Linda Jönsson 
+(projektledare), Linnéa Olander och Alexander Rohdin. Joakim Hveem och Fredrik 
+Bonander har bidragit med underlag till den slutliga rapporten. En referensperson 
+har lämnat synpunkter på granskningsupplägg och på ett utkast till 
+granskningsrapport: Anders Nilsson, professor i kriminologi vid Stockholms 
+universitet. Företrädare för Polismyndigheten och Justitiedepartementet har fått 
+tillfälle att faktagranska och i övrigt lämna synpunkter på ett utkast till 
+granskningsrapport. 
+För att besvara den övergripande revisionsfrågan med underliggande delfrågor har 
+vi använt en kombination av statistikbearbetning, intervjuer, fallstudie, 
+enkätundersökning, dokumentstudier och observationer. Nedan redogörs kort för 
+dessa metoder. 
+1.5.1  Statistikbearbetning 
+Mot bakgrund av att Polismyndigheten inte själv har någon sammanställning av 
+antalet särskilda händelser, varken generellt eller med inriktning mot grov 
+brottslighet, genomförde vi inledningsvis en kartläggning av antalet särskilda 
+händelser på nationell och regional nivå, samt särskilda händelser på Noa. 
+Kartläggningen genomfördes med hjälp av statistikbearbetning av myndighetens 
+ärendehanteringssystem (Pär) och IT-stöd för dokumentation av planlagd 
+verksamhet (PUM-A) (se utförlig beskrivning av metoden i bilaga 1). För att 
+beskriva antalet särskilda händelser som avser grov brottslighet har vi utgått från 
+Polismyndighetens motsvarande definition i PUM-A. Statistikbearbetningen har 
+sedan använts som utgångspunkt för att inhämta underlag om merkostnaden för 
+särskilda händelser riktade mot grov brottslighet under perioden 2015–2021.  
+1.5.2  Intervjuer 
+För att få en övergripande bild av hur Polismyndigheten genomför och följer upp 
+arbetet med särskilda händelser riktade mot grov brottslighet, på nationell och 
+regional nivå, intervjuade vi två erfarna kommenderingschefer i varje polisregion 
+och två vid Noa. Kommenderingscheferna valdes ut genom ett strategiskt urval där 
+våra regionala kontaktpersoner i granskningen fick utse två kommenderingschefer 
+i varje polisregion med erfarenhet av att leda särskilda händelser riktade mot grov 
+brottslighet. På nationell nivå intervjuade vi de kommenderingschefer som lett de 
+två nationella särskilda händelserna riktade mot grov brottslighet som genomfördes 
+under undersökningsperioden. Vi intervjuade även handläggare vid dåvarande 
+
+Utvecklingscentrum (UC) Bergslagen21, handläggare vid ekonomiavdelningen och 
+operativa enheten vid Noa. Därutöver intervjuade vi företrädare för 
+Justitiedepartementet angående regeringens styrning och uppföljning av särskilda 
+händelser.  
+1.5.3  Fallstudie 
+I syfte att få fördjupad kunskap om hur lokalpolisområdet och det lokala 
+lägesbildsarbetet påverkas i samband med särskilda händelser genomförde vi en 
+fallstudie i fyra lokalpolisområden under perioden augusti–oktober 2022. 
+Fallstudien innebar att besöka områdena samt intervjua lokalpolisområdeschefer, 
+områdespoliser, poliser från ingripandeverksamheten (IGV) och utredare. 
+Fallstudien genomfördes i Botkyrka, Storgöteborg Nordost, Kristianstad och 
+Örebro. Dessa lokalpolisområden valdes mot bakgrund av att de har erfarenhet 
+både av att besluta om särskilda händelser samt av att skicka och ta emot resurser 
+till särskilda händelser riktade mot grov brottslighet.  
+För att undersöka samverkande aktörers uppfattning om Polismyndighetens 
+särskilda händelser riktade mot grov brottslighet genomförde vi även intervjuer 
+med kommunala säkerhetssamordnare och brottsförebyggande 
+samordnare/trygghetssamordnare i Botkyrka, Göteborg, Kristianstad och Örebro. 
+Beroende på de särskilda händelsernas inriktning och omfattning kan antalet och 
+typ av samverkande aktörer variera stort. Vi valde att intervjua representanter för 
+kommunen eftersom de i stort sett alltid berörs på något sätt av Polismyndighetens 
+särskilda händelser riktade mot grov brottslighet. 
+1.5.4  Enkätundersökning 
+Med utgångspunkt i de iakttagelser som framkommit i fallstudierna, och i syfte att 
+skapa en heltäckande bild av om och hur Polismyndigheten beaktar hur den 
+ordinarie verksamheten påverkas av att skicka och ta emot resurser till särskilda 
+händelser, har vi genomfört en enkätundersökning till samtliga 
+95 lokalpolisområden. Enkäten ställdes till lokalpolisområdeschefen i respektive 
+lokalpolisområde. Enkätsvaren samlades in under oktober 2022. Svarsfrekvensen 
+uppgick till 76 procent. 
+ 
+21   Sedan 1 januari 2023 ligger UC Bergslagen organisatoriskt under enheten för utveckling av 
+brottsbekämpning vid Noa. Källa: Polismyndigheten, Faktagranskning av Riksrevisionens 
+rapport 2023-02-01. 
+
+1.5.5  Dokumentstudier 
+Vi har begärt in och analyserat relevanta underlag från Polismyndigheten som 
+ligger till grund för beslut om och uppföljning av särskilda händelser, till exempel 
+initieringsbeslut, styrdokument och utvärderingar. 
+1.5.6  Observationer 
+Vi har deltagit som observatörer i det operativa genomförandet av två särskilda 
+händelser: en på nationell nivå och en på regional nivå. Vi har även intervjuat 
+kommenderingschefen för ytterligare en regional särskild händelse som enbart var 
+av administrativ karaktär. Därutöver har vi deltagit som observatörer i ett möte med 
+regionalt driftcenter i en polisregion (se beskrivning i avsnitt 5.3). 
+1.6  Disposition 
+Kapitel 2 är ett bakgrundskapitel som bland annat beskriver vad som kännetecknar 
+en särskild händelse och andra former av resursförflyttningar. I kapitel 3–5 
+presenteras de iakttagelser vi har gjort utifrån de delfrågor och bedömningsgrunder 
+som framgår av kapitel 1. I kapitel 6 framgår de slutsatser som Riksrevisionen har 
+dragit inom ramen för granskningen och de rekommendationer som lämnas till 
+Polismyndigheten. 
+
+2  Särskilda händelser och andra former av 
+resursförflyttningar 
+I detta kapitel beskriver vi vad en särskild händelse och vad tillfälliga 
+resursförflyttningar är. Därutöver ingår en beskrivning av regeringens intentioner 
+med omorganisationen av Polismyndigheten gällande resursutnyttjande, samt 
+exempel på tidigare utvärderingar av särskilda händelser.  
+2.1  Vad är en särskild händelse? 
+Om en händelse är eller förväntas bli så omfattande, allvarlig eller komplex att 
+Polismyndigheten måste planera, organisera eller leda sin verksamhet i särskild 
+ordning får en polisregion eller Noa besluta om särskild händelse och utse en 
+kommenderingschef.22 23 Det kan handla om att det behövs förstärkning av resurser 
+eller specialistkompetens. Polismyndigheten kan även besluta om särskilda 
+händelser i syfte att avlasta den ordinarie polisverksamheten.24  
+Beroende på händelsens omfattning och behov av ledning kan Polismyndigheten 
+besluta om särskilda händelser på tre nivåer; nationell nivå, regional nivå eller 
+särskild händelse vid Noa. En nationell särskild händelse omfattar fler än en 
+polisregion eller är av sådan karaktär att den nationella nivån har bäst 
+förutsättningar att leda Polismyndighetens arbete vid den särskilda händelsen.25 En 
+händelse som omfattar en polisregion utgör en regional särskild händelse och en 
+händelse som avser Noa hanteras som en särskild händelse inom avdelningen. 
+Vid en nationell särskild händelse eller en särskild händelse vid Noa utses en 
+nationell kommenderingschef, och vid en regional särskild händelse utses en 
+regional kommenderingschef att leda arbetet.26 En nationell eller regional 
+kommenderingschef får fatta alla beslut som föranleds av eller kan komma att 
+påverka den särskilda händelsen. Rätten omfattar dock inte beslut som enligt 
+ 
+22   5 kap. 36 § Arbetsordning för Polismyndigheten, PM 2020:26. 
+23   Aktuell arbetsordning gäller sedan den 1 juni 2022 (PM 2022:11). Arbetsordningen 
+reviderades vid ett flertal tillfällen under granskningsperioden 2015–2021 (PM 2015:39, PM 
+2016:01, PM 2017:43, PM 2018:21, PM 2019:23 och PM 2020:26). I rapporten utgår vi från 
+den skrivning som finns i PM 2020:26 som är den senaste arbetsordningen under 
+granskningsperioden. Bestämmelserna om när en särskild händelse får beslutas och vem 
+som beslutar om en sådan har utvecklats över tid men är i allt väsentligt desamma sedan 2017.  
+24   Polisen, ”Särskild händelse – polisens arbete”, hämtad 2022-09-22. 
+25   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 4. 
+26   Polischef i beredskap vid polisregion eller inom Noa får under de förutsättningar som anges i 
+62 § vad gäller kravet på skyndsamhet också besluta om särskild händelse och utse en 
+kommenderingschef. 
+
+författning ska fattas av rikspolischefen eller chefen för Noa. Rätten att fatta beslut 
+begränsas även i de fall beslut enligt arbetsordningen ska fattas av rikspolischefen, 
+chefen för Noa eller, chefen för avdelningen för särskilda utredningar, om inte 
+annat framgår av beslutet om den särskilda händelsen.27 Kommenderingschefen 
+ansvarar för de målkonflikter och motstående intressen mellan verksamhetens 
+olika delar som kan uppstå vid en särskild händelse, vilket innebär att balansera de 
+olika intressena och besluta om prioriteringar mellan dem.28  
+Vid en regional särskild händelse kan polisregionen begära stöd och förstärkning 
+från Noa eller från andra polisregioner. I båda fallen är det Noa som beslutar om en 
+begäran ska beviljas eller inte.29 Den särskilda händelsen kan vara hastigt 
+uppkommen eller i förväg känd.30  
+Exempel på situationer där Polismyndigheten beslutar om särskilda händelser kan 
+vara hastigt uppkomna händelser såsom naturkatastrofer, terrordåd och stora 
+olyckor. I förväg kända händelser kan handla om till exempel större 
+demonstrationer, högriskfotbollsmatcher och statsbesök.31 Genomförda särskilda 
+händelser riktade mot grov brottslighet har till exempel handlat om att 
+punktmarkera kriminella nätverk i syfte att bryta våldskurvan, minska 
+vapeninnehavet och att eliminera den öppna narkotikahandeln. Andra händelser 
+har haft fokus på att tillföra resurser för att säkra mordutredningar i direkt 
+anslutning till det inträffade och att öka polisnärvaron i specifika områden.32 
+En särskild händelse organiseras och leds som en polisoperation eller en 
+polisinsats.33 34 Vid beslut om en särskild händelse kan en stab organiseras till stöd 
+för kommenderingschefens ledning av polisoperationen eller polisinsatsen. 
+Stabens storlek och de funktioner som ingår anpassas utifrån ledningsbehovet (se 
+bilaga 2 för information om hur staben organiseras). 
+ 
+27   5 kap. 37 § Arbetsordning för Polismyndigheten. Se även Polismyndigheten, 
+Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 6. 
+28   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 6. 
+29   Polisen, ”Särskild händelse – polisens arbete”, hämtad 2022-09-22. 
+30   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s 4, 13. 
+31   Polisen, ”Särskild händelse – polisens arbete”, hämtad 2022-09-22. 
+32   SVT nyheter, ”Operation Lynx riktar sig mot kriminella nätverk”; SVT nyheter, ”Så ska 
+polisen bryta våldskurvan”; Sveriges radio, ”Efter skjutningarna – polisen inleder särskild 
+händelse”; Sveriges radio, ”Polisens drag efter dödsskjutningarna: Startar särskild händelse”; 
+SVT nyheter, ”Polisen: ”Första timmarna är viktiga i mordutredningar”. 
+33   En polisoperation är en sammanfattande benämning på flera polisinsatser eller andra 
+åtgärder som tillsammans syftar till att nå bestämda målsättningar. 
+34   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 5. 
+
+2.2  Tillfälliga resursförflyttningar 
+Vid sidan av särskilda händelser kan Polismyndigheten enligt arbetsordningen 
+även fatta beslut om tillfälliga resursförflyttningar på nationell och regional nivå. 
+Dessa kan ske både inom och utom ramen för särskilda händelser. Chefen för Noa, 
+eller den som han eller hon utser får besluta om tillfälliga resursförflyttningar 
+inom Polismyndighetens operativa verksamhet, med undantag för personal vid 
+avdelningen för särskilda utredningar. Ett sådant beslut ska beredas i den 
+nationella operativa ledningsgruppen. I brådskande fall får beslut fattas utan sådan 
+beredning.35  
+Ett exempel på en tillfällig resursförflyttning är den så kallade nationella 
+förstärkningsorganisationen (NFO). NFO är en resurs för polisen som använder 
+enhetliga arbetsmetoder vid stora och krävande kommenderingar, oavsett var i 
+landet en insats görs. NFO tillämpar arbetsmetoden särskild polistaktik (SPT) som 
+används vid arbete med folksamlingar där risken för våldsamheter är särskilt hög 
+och därmed förutsätter en särskild arbetsmetod. Särskild polistaktik består av flera 
+olika funktioner såsom uniformerat mobilt insatskoncept, civila gripandeenheter, 
+transportenheter, dialogpoliser, supporterpoliser, rytteri, hundenheter och 
+nationella operativa chefer.36 
+Tillfälliga resursförflyttningar som enbart rör två polisregioner får beslutas i 
+samverkan mellan de två polisregionerna. I sådana fall ska vakthavande befäl vid 
+Noa informeras.37 Om det råder oenighet mellan polisregionerna beslutar chefen 
+för Noa.38  
+2.3  Omorganisationen och ett effektivt resursutnyttjande 
+Ett av regeringens mål med ombildningen av Polismyndigheten till en 
+sammanhållen myndighet var ett mer effektivt resursutnyttjande och en större 
+flexibilitet. Omorganisationen skulle göra det möjligt för den högsta ledningen i 
+Polismyndigheten att styra direkt i enskilda ärenden i och med att det finns en 
+tydlig befälslinje uppifrån och ner. Detta var inte möjligt före 2015 när 
+Rikspolisstyrelsen enbart var en administrativ chefsmyndighet utan operativa 
+befogenheter gentemot de självständiga polismyndigheterna.39  
+ 
+35   5 kap. 38 § Arbetsordning för Polismyndigheten, PM 2020:26. 
+36   Polisen, ”Nationella förstärkningsorganisationen – polisens arbete”, hämtad 2022-09-20. 
+37   5 kap. 39 § Arbetsordning för Polismyndigheten, PM 2020:26. 
+38   5 kap. 39 § Arbetsordning för Polismyndigheten, PM 2020:26. Se även Polismyndigheten, 
+Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 6. 
+39   Ivarsson Westerberg, Reform i uniform, 2020. s. 164, 170.  
+
+Regeringens intention med ombildningen var att polisregionerna skulle vara 
+bärkraftiga, vilket innebär att de skulle ha ett tillräckligt verksamhetsunderlag för 
+att i ökad utsträckning bedriva polisverksamhet som kräver särskild utrustning, 
+specialistkompetens eller dygnet runtbemanning. Bärkraftiga polisregioner skulle 
+göra det möjligt att i högre utsträckning flytta ut verksamhet från den nationella 
+nivån till polisregionerna, där också ett nationellt ansvar för en fråga kan och bör 
+läggas ut. Detta skulle också ge bättre möjligheter att med kort varsel omfördela 
+resurser och därmed utnyttja den samlade resursen på ett mer effektivt sätt.40  
+Ett viktigt syfte med ombildningen av Polismyndigheten var att säkerställa en lokal 
+polisiär närvaro i brottsutsatta områden såväl i större städer som i glesbygd.41 
+Riksrevisionens granskning av polisens arbete i utsatta områden visar att lokalt 
+förankrade arbetsmetoder i samverkan med berörda aktörer ger kunskap om vilka 
+problem som finns i ett område och möjlighet att bygga kontakter med de boende. 
+Därutöver finns en rad vedertagna arbetsmetoder som underlättar polisens arbete 
+med att bekämpa grov brottslighet.42 
+I Statskontorets rapport om ombildningen till en sammanhållen polismyndighet 
+konstateras att möjligheterna till att utnyttja resurserna mer flexibelt har blivit 
+bättre till följd av omorganisationen, framför allt på regional och nationell nivå. 
+Omorganisationen har dock inte lika tydligt påverkat möjligheterna att utnyttja 
+resurserna flexibelt på lokal nivå. Enligt Statskontorets utvärdering från 2018 fanns 
+det ingen verksamhetsstatistik för att följa upp resursmobilitet inom 
+Polismyndigheten, till exempel inom eller mellan polisregioner, och därför var det 
+inte möjligt att bekräfta denna bild med kvantitativa uppgifter.43  
+2.4  Utvärderingar av särskilda händelser riktade mot 
+grov brottslighet 
+Brottsförebyggande rådet (Brå) har utvärderat två av Polismyndighetens särskilda 
+händelser, operationerna Alfred och Selma, som tillsammans pågick i cirka två år. 
+Bakgrunden till dessa händelser var flera grova våldsbrott som inträffade i Malmö 
+under 2011–2012, och en bakomliggande problembild med kopplingar till 
+organiserad brottslighet.44 Brås utvärdering från 2014 visar bland annat att beslutet 
+om att initiera en särskild händelse underlättade resursförförflyttningar inom 
+ 
+40   Dir. 2012:129, s. 2–5. 
+41   Dir. 2012:129, s. 3. 
+42   Riksrevisionen, Rätt insats på rätt plats – polisens arbete i utsatta områden, 2020:20, s 21–23. 
+43   Statskontoret, Ombildningen till en sammanhållen polismyndighet, 2018, s. 35. 
+44   Rikspolisstyrelsen, Inspektion av Operation Alfred och Selma vid Polismyndigheten i Skåne, 2013, s. 3. 
+
+Polismyndigheten. I stället för att arbeta mot linjeverksamhetens45 alla 
+verksamhetsmål kunde polisarbetet fokuseras på ett givet uppdrag. Dock minskar 
+motivationen över tid hos den personal som deltar i händelsen, och de uppgifter 
+som på grund av den särskilda händelsen hade prioriterats ned gör sig alltmer 
+påminda.46  
+Brås utvärdering visar också att polisens arbete med att bekämpa grov organiserad 
+brottslighet förutsätter en styrningsform som är bättre anpassad för långa och 
+omfattande insatser än särskilda händelser. Det bör finnas en flexibilitet som 
+möjliggör både att koncentrera resurser under lång tid och samtidigt ta hänsyn till 
+linjeverksamhetens behov. Om insatsen innebär ett delat ledarskap är det viktigt att 
+tillsätta ett strategiskt råd som planerar hur insatsen ska bedrivas. En löpande 
+omprövning av mål och inriktningar bör göras i takt med att ny kunskap genereras 
+för att kunna revidera och uppdatera problembilder. Kontinuerliga uppföljningar 
+med såväl kvalitativa som kvantitativa data under insatsens gång är viktigt.47 
+Polismyndigheten drar liknande slutsatser i sin egen utvärdering av operationerna 
+Alfred och Selma. Myndigheten framhåller bland annat att särskilda händelser bör 
+användas för insatser som är mer begränsade i tid än det aktuella fallet. En plan för 
+avslut av den särskilda händelsen och arbetet med uppföljning och utvärdering bör 
+påbörjas tidigt för att säkra insatsens kvalitet. Även Polismyndigheten konstaterar, 
+trots att myndigheten bedömdes ha uppnått delmålen och förvaltat resurserna väl, 
+att det hade funnits utrymme för att ”göra rätt från början”, det vill säga att arbeta 
+fokuserat mot den problembild som sedan eskalerade och ”tvingade fram” de 
+särskilda händelserna.48  
+Polismyndighetens utvärdering av den nationella särskilda händelsen NSH 
+Rimfrost visar att polisen inte lyckades nå det huvudsakliga målet att minska 
+antalet skjutningar och sprängningar på nationell nivå. Myndigheten anser dock att 
+målet nåddes i polisregionerna Syd och Mitt dit resursförstärkningen 
+koncentrerades. Utvärderingen visar även att det inledningsvis saknades ett 
+gemensamt bedömande och en planerad samordning av den särskilda händelsen. 
+ 
+45   Planlagd linjeverksamhet avser all operativ polisverksamhet som är planlagd men som kan 
+avbrytas av ingripandeverksamhet, insats eller särskild händelse. Källa: Polismyndigheten, 
+beslutsprotokoll 2018-11-14, dnr A043.255/2018. 
+46   Brottsförebyggande rådet, Operationerna Alfred och Selma. Myndighetssamverkan mot 
+organiserad brottslighet i Malmö 2012–2014. 2014, s. 27–29, 31. 
+47   Brottsförebyggande rådet, Operationerna Alfred och Selma. Myndighetssamverkan mot 
+organiserad brottslighet i Malmö 2012–2014, 2014, s. 8, 65–66. 
+48   Rikspolisstyrelsen, Inspektion av Operation Alfred och Selma vid Polismyndigheten i Skåne, 2013, 
+s. 3–4. 
+
+De övergripande målformuleringarna var lätta att förstå men svåra att heltäckande 
+arbeta med och följa upp.49  
+Därutöver visar tidigare utvärderingar att det saknas administrativt stöd för att 
+samla information kopplad till genomförda åtgärder. Det innebär att det svårt att 
+avgöra om det var den särskilda händelsen i sig som bidrog till utfallet, snarare än 
+den ordinarie polisverksamheten eller andra aktörer. Andra exempel på brister är 
+styrningsproblem med parallella ledarskap och bristande samsyn mellan olika 
+arbetsgrupper.50 
+ 
+49   Polismyndigheten, Uppföljning av NSH Rimfrost – Sammanställning av erfarenheter, lärdomar 
+och identifierade problem, 2021. 
+50   Brottsförebyggande rådet, Operationerna Alfred och Selma. Myndighetssamverkan mot 
+organiserad brottslighet i Malmö 2012–2014, 2014, s. 41 ff., Malmö universitet, Effektutvärdering 
+av Sluta skjut – en strategi för att minska det grova våldet, 2021, s. 28, och Rikspolisstyrelsen, 
+Inspektion av Operation Alfred och Selma vid Polismyndigheten i Skåne, 2013, s. 10. 
+
+3  Det saknas underlag för att mäta om 
+särskilda händelser har gett effekt 
+I det här kapitlet besvarar vi delfrågan: Har särskilda händelser riktade mot grov 
+brottslighet gett effekt?  
+Vår bedömning av om särskilda händelser riktade mot grov brottslighet har gett 
+effekt baseras på att 
+•  Polismyndigheten och samverkande aktörer kan redogöra för hur och i vilken 
+utsträckning särskilda händelser har bidragit till ett bekämpa grov brottslighet 
+•  Polismyndighetens strategi för att utforma särskilda händelser är utformad på 
+ett sådant sätt att det är möjligt att bedöma insatsens effekt, till exempel genom 
+olika mått i syfte att kunna bedöma om genomförda aktiviteter har bidragit till 
+att uppnå de övergripande målen. 
+Riksrevisionens sammantagna bedömning är att det saknas underlag för att mäta 
+om särskilda händelser riktade mot grov brottslighet har gett effekt. 
+Granskningen visar att varken Polismyndigheten eller de tillfrågade kommunerna 
+kan redogöra för hur eller i vilken utsträckning särskilda händelser har bidragit till 
+att bekämpa grov brottslighet. Polismyndigheten har ingen total sammanställning 
+av antalet särskilda händelser eller särskilda händelser med inriktning mot grov 
+brottslighet. Därutöver saknas information och dokumentation om åtgärder som är 
+kopplade till de särskilda händelserna, till exempel uppgifter om under hur lång tid 
+en särskild händelse pågick, hur många resurstimmar den omfattade eller från 
+vilken eller vilka delar av myndigheten som resurser skickades. Särskilda händelser 
+kopplas ofta till övergripande målsättningar som sällan följs upp. 
+Granskningen visar även att majoriteten av respondenterna upplever att särskilda 
+händelser riktade mot grov brottslighet har störst effekt under kort tid. Ju längre tid 
+de särskilda händelserna pågår, desto större uppges konsekvenserna bli i och med 
+att händelserna är resurskrävande och kan leda till att det bildas parallella 
+ledningssystem. 
+3.1  Det finns brister i Polismyndighetens registrering 
+och dokumentation av särskilda händelser 
+Granskningen visar att det finns skillnader inom Polismyndigheten både avseende 
+vilka system som används för att registrera särskilda händelser och vilka händelser 
+
+som registreras. Polismyndigheten har ingen total sammanställning av särskilda 
+händelser och den dokumentation som finns är begränsad. Riksrevisionen kan 
+konstatera att registrering och dokumentation av relevanta underlag avseende 
+särskilda händelser är en förutsättning för att skapa en bild av hur polisen arbetar 
+med särskilda händelser och hur utvecklingen sett ut över tid.  
+Information om särskilda händelser ska enligt Polismyndighetens riktlinjer 
+dokumenteras och diarieföras.51 Enligt Polismyndighetens handbok för särskilda 
+händelser är det viktigt att säkerställa att den dokumentation som den särskilda 
+händelsen har genererat diarieförs vid avslut av händelsen. Kommenderingschefen 
+är ytterst ansvarig för detta och stabschefen ska se till att det genomförs.52 Enligt 7 § 
+Rikspolisstyrelsens föreskrifter och allmänna råd om användning av IT-stödet 
+Polisens underrättelsemodell – Applikationer (PUM-A) ska samtliga i förväg 
+planerade särskilda händelser registreras i systemet.53  
+Inledningsvis i granskningen uppgav Noa att det inte fanns någon digital 
+sammanställning av särskilda händelser på regional nivå. Att skapa en sådan skulle 
+förutsätta en tidkrävande manuell hantering av fysiska akter. Nationella särskilda 
+händelser och särskilda händelser på Noa dokumenterades enligt företrädarna 
+digitalt i ett lokalt mappsystem.54 I samband med att vi undersökte 
+förutsättningarna för att begära ut kostnaden för särskilda händelser visade det sig 
+dock att både regionala, nationella och särskilda händelser på Noa registreras dels i 
+Polismyndighetens allmänna diarium (Pär), dels i myndighetens IT-stöd för 
+dokumentation av planlagd verksamhet (PUM-A). I det senare systemet registreras 
+främst i förväg planerade särskilda händelser.55 
+Majoriteten av kommenderingscheferna uppger att särskilda händelser registreras 
+digitalt. Granskningen visar dock att det finns skillnader i vilket system som 
+används för registrering, där vissa polisregioner använder programmet OneNote, 
+som inte är sökbart. Handläggare vid ekonomiavdelningen uppger att särskilda 
+händelser även registreras i Polismyndighetens bemanningssystem COPS. Det 
+finns dock ingen märkning av ärendena vilket gör att det inte går att göra en 
+ 
+51   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 15. 
+52   Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, 2020, s. 112. 
+53   Rikspolisstyrelsens föreskrifter och allmänna råd om användning av IT-stödet Polisens 
+underrättelsemodell – Applikationer (PUM-A) (RPSFS 2012:20, FAP 193-1). Enligt 7 § PUM-
+A ska dokumentationen innehålla uppgifter om vilka åtgärder som ska utföras, hur de ska 
+genomföras och följas upp samt om den planlagda verksamheten ska utvärderas. Utöver 
+detta ska alla beslut samt planerade, målrelaterade och förbrukade resurstimmar 
+dokumenteras. Beslut ska signeras av behörig beslutsfattare.  
+54   Intervju med företrädare för Polismyndigheten, 2022-04-08. 
+55   Tjänsteanteckning 2022-05-24. 
+
+sökning på särskilda händelser.56 Vidare finns det skillnader i vilka händelser 
+polisregionerna registrerar som särskilda händelser. Det är till exempel i huvudsak 
+bara två polisregioner som registrerar händelsen Säkerhetskontroll i domstol som en 
+särskild händelse.57  
+Utifrån Polismyndighetens system är det i dagsläget inte möjligt att få fram 
+tillförlitliga uppgifter över hur lång tid en särskild händelse pågick, hur många 
+resurstimmar den omfattade eller från vilken eller vilka delar av myndigheten som 
+resurser skickades. Det faktum att Polismyndigheten inte kan redovisa antalet 
+resurstimmar innebär att det inte går att avgöra hur många årsarbetskrafter som 
+deltog i de särskilda händelserna, och därmed inte arbetade på sin ordinarie 
+arbetsplats. Handläggare vid ekonomiavdelningen uppger att Polismyndighetens 
+tidredovisningssystem inte är pålitligt då personalen inte alltid fyller i rätt tidkoder 
+för vad de arbetar med.58  
+Underlag om särskilda händelser finns inte heller samlade i samma system, vilket 
+gör det svårt att få en överblick över det totala antalet särskilda händelser. I ett av 
+systemen saknas det tydlig kategorisering av för vilket syfte den särskilda händelsen 
+genomfördes. Båda systemen innehåller, utöver renodlade särskilda händelser, 
+även olika administrativa åtgärder som är kopplade till dessa, till exempel beslut om 
+förlängning. Det gör det svårt att avgöra hur många unika särskilda händelser som 
+faktiskt har genomförts. För att skapa en total sammanställning av de särskilda 
+händelser som finns registrerade i Polismyndighetens system har vi genomfört en 
+statistikbearbetning (se avsnitt 4.3).59 
+Därutöver är det inte möjligt att isolera de polisiära eller utredningsmässiga 
+åtgärder som genomförts inom ramen för särskilda händelser riktade mot grov 
+brottslighet från de åtgärder som genomförs av ordinarie linjeverksamhet.60 
+Granskningen visar även att det inte är möjligt att spåra den totala merkostnaden 
+för särskilda händelser (se avsnitt 4.5). 
+3.2  Särskilda händelser kopplas till övergripande 
+målsättningar som sällan följs upp 
+Granskningen visar att det finns riktlinjer i Polismyndighetens handbok för 
+särskilda händelser om att ta fram målsättningar och framgångsfaktorer vid 
+ 
+56   Mejl från handläggare vid Polismyndighetens ekonomiavdelning, 2022-06-16. 
+57   Tjänsteanteckning 2022-05-31. 
+58   Intervju med företrädare för Polismyndigheten, 2022-04-08. 
+59   Riksrevisionens sammanställning av särskilda händelser registrerade i Pär och PUM-A. 
+60   Intervjuer med kommenderingschefer maj–september 2022. 
+
+utformningen av särskilda händelser. Riksrevisionen kan konstatera att det är 
+positivt att det finns framtagna riktlinjer för detta men att det är viktigt att 
+Polismyndigheten tillämpar dem i praktiken. 
+Enligt Polismyndighetens handbok för särskilda händelser ska polisoperationen 
+eller polisinsatsen som den särskilda händelsen omfattar inkludera bestämda 
+målsättningar. En utgångspunkt för design och planering av särskilda händelser är 
+så kallade planeringskomponenter. Dessa ska ge en spårbarhet under såväl 
+planering som genomförande så att alla uppgifter leder mot uppsatta 
+målsättningar.61 Målsättningarna ska enligt handboken kopplas till identifierade 
+framgångsfaktorer. Framgångsfaktorerna kan även ses som delmålsättningar som 
+utgör en brygga mellan genomförda åtgärder och övergripande mål inom ramen 
+för den särskilda händelsen.62 Ett exempel på en framgångsfaktor kan vara att 
+kraftigt minska tillgången på vapen.63 
+Flera kommenderingschefer uppger att de uppsatta målen inom ramen för 
+särskilda händelser ofta är på en övergripande nivå och att de kan vara svåra att 
+följa upp. Exempel på målsättningar kan vara ”uppnå lagföring”, ”rädda liv” eller 
+”öka tryggheten”. Huruvida lagföring har uppnåtts är dock något som i de flesta fall 
+inte är känt förrän när den särskilda händelsen har avslutats. En 
+kommenderingschef uppger att det målet generellt ändå inte följs upp i efterhand, 
+vilket innebär att det inte går att veta om målsättningen uppnåddes.64 
+Framgångsfaktorer identifieras med hjälp av handboken för särskilda händelser. En 
+viktig utgångspunkt är att polisoperationen eller polisinsatsen inte kan drivas 
+vidare förrän framgångsfaktorerna är på en godkänd nivå. En kommenderingschef 
+uppger att Polismyndigheten ofta identifierar framgångsfaktorer, men brister i att 
+säkerställa att dessa blir uppfyllda. Det är viktigt att genomföra en återkommande 
+operationsvärdering i den särskilda händelsen för att bedöma om insatsen går i rätt 
+riktning för att uppnå önskat slutläge. I det ideala läget används 
+framgångsfaktorerna för att mäta när det är läge att avsluta den särskilda 
+händelsen. Ett skäl till att detta inte alltid görs uppges vara att analysfunktionen i 
+den särskilda händelsens stab i vissa fall saknar tillräcklig kompetens.65  
+De framgångsfaktorer som användes i samband med NSH Rimfrost avsåg bland 
+annat antal frihetsberövade, antal beslag av narkotika, vapen, sprängmedel och 
+ 
+61   Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, 2020, s. 27 ff. 
+62   Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, 2020, s. 30. 
+63   Tjänsteanteckning 2022-11-01. 
+64   Intervjuer med kommenderingschefer maj–september 2022, Tjänsteanteckning 2022-11-01. 
+65   Tjänsteanteckning 2022-11-01. 
+
+kontanter.66 Vi kan konstatera att den sortens mått huvudsakligen avser mått på 
+polisiär aktivitet snarare än effektivitet, eftersom det inte är möjligt att bedöma 
+resultaten mot jämförelsetal. Som framgår av avsnitt 3.1 är det inte möjligt att 
+isolera åtgärder som genomförts inom ramen för särskilda händelser riktade mot 
+grov brottslighet från den ordinarie linjeverksamheten, eftersom det inte finns 
+någon särskild märkning av sådana ärenden i Polismyndighetens system.67  
+Majoriteten av kommenderingscheferna uppger att det är svårt att mäta effekten av 
+särskilda händelser riktade mot grov brottslighet på både kort och lång sikt. Det 
+beror bland annat på att det inte är möjligt att bryta ut den särskilda händelsen från 
+ordinarie linjeverksamhet och att det är svårt att veta vad som egentligen gav effekt 
+av vad. Därutöver finns det många olika faktorer som påverkar 
+samhällsutvecklingen och som inte bara rör polisens arbete.68 För att kunna mäta 
+effekten av en särskild händelse uppger en kommenderingschef att det behöver 
+finnas kvantitativa målsättningar, vilket är svårt att ta fram då de allvarliga problem 
+som rör grov brottslighet snarare handlar om mer kvalitativa effekter såsom en 
+ökad känsla av trygghet, ett bättre samhälle och en minskad rekrytering till 
+kriminella gäng.69  
+3.3  Särskilda händelser riktade mot grov brottslighet 
+uppges ha störst effekt under kort tid 
+Granskningen visar att majoriteten av kommenderingscheferna, företrädarna för 
+Polismyndigheten i vår fallstudie samt i enkätundersökningen anser att deras 
+upplevelse är att särskilda händelser har störst effekt under kort tid, vilket innebär 
+under några timmar upp till ungefär en vecka. De första 48 timmarna uppges ofta 
+vara avgörande för utredningen när polisen behöver prioritera jakten på 
+gärningsmannen, säkra bevisning och skapa en robust förundersökning.70  
+Majoriteten av kommenderingscheferna uppger att särskilda händelser i grunden 
+är en effektiv ledningsform, som även kan ge en stark avkylning i händelser som 
+rör grov brottslighet. En ökad polisiär resurs försvårar ofta vedergällningar och ökar 
+förutsättningarna för att nå framgång tidigt i utredningsskedet. Särskilda händelser 
+ 
+66   Polismyndigheten, Uppföljning av NSH Rimfrost – Sammanställning av erfarenheter, lärdomar 
+och identifierade problem, 2021. 
+67   Intervju med företrädare för Polismyndigheten, 2022-04-08. 
+68   Intervjuer med kommenderingschefer maj–september 2022. 
+69   Intervjuer med kommenderingschefer maj–september 2022. 
+70   Intervjuer med kommenderingschefer maj–september 2022, Riksrevisionens fallstudie 
+augusti–oktober 2022 och Riksrevisionens enkätundersökning oktober 2022. 
+
+kan även verka trygghetsskapande mot allmänheten då de sänder en signal om att 
+polisen är handlingskraftig.71 
+Särskilda händelser som pågår under längre tid uppges inte vara effektiva, eftersom 
+de är för resurskrävande och riskerar att leda till parallella ledningssystem mellan 
+kommenderingschef och ordinarie linjechef. Det kan leda till att ingen känner 
+ägarskap över frågan och ge upphov till målkonflikter. Det finns även en risk för att 
+särskilda händelser passiviserar linjeverksamheten som kan sitta och vänta på ett 
+beslut om särskild händelse när något har hänt i stället för att agera direkt. Ju längre 
+tid den särskilda händelsen pågår desto större blir nackdelarna (se avsnitt 4.8).72 
+En annan risk med särskilda händelser är att kommenderingschefen kan disponera 
+resursen fritt och ta in resurser på övertid, vilket innebär stora kostnader för 
+myndigheten. Genom att se till att nyttja den befintliga resursen i ett 
+lokalpolisområde så mycket som möjligt kan kostnader för resor, traktamente och 
+hotell undvikas. En kommenderingschef uppger dock att det kortsiktigt kostar mer 
+att besluta om en särskild händelse, men att det på sikt kan bli dyrare att inte göra 
+det, i och med att förutsättningarna för att utreda brottet blir sämre.73 
+3.3.1  Kommunerna har svårt att avgöra om polisens särskilda 
+händelser är effektiva 
+Representanterna för kommunerna i vår fallstudie uppger att det är svårt att avgöra 
+om polisens särskilda händelser är effektiva för att bekämpa grov brottslighet. De 
+uppger dock att det finns en tydlighet i att polisen kraftsamlar och organiserar sig i 
+stab när det inträffar större händelser. Kommunerna får en naturlig ingång genom 
+att det tilldelas en samverkansfunktion som strukturerat samverkar med 
+kommunen och andra aktörer, vilket ger bättre förutsättningar att fatta beslut. 
+Tyngden i begreppet särskild händelse kan hjälpa kommunen att prioritera det som 
+inträffat och motivera en resursförstärkning.74 
+Den kraftsamling av resurser som särskilda händelser ofta innebär uppges vara 
+trygghetsskapande och ha stor betydelse för stadsdelsområdena. På kort sikt skapar 
+det en tillit till samhället och högre samarbetsförmåga för de aktörer som finns i 
+området. På längre sikt behöver polisen och kommunen samverka inför att polisen 
+ 
+71   Intervjuer med kommenderingschefer maj–september 2022, Riksrevisionens fallstudie 
+augusti–oktober 2022 och Riksrevisionens enkätundersökning oktober 2022. 
+72   Intervjuer med kommenderingschefer maj–september 2022, Riksrevisionens fallstudie 
+augusti–oktober 2022 och Riksrevisionens enkätundersökning oktober 2022. 
+73   Intervjuer med kommenderingschefer maj–september 2022. 
+74   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+avslutar sin särskilda händelse eftersom kommunen då kan behöva prioritera 
+trygghetsskapande insatser.75  
+Fallstudien visar även att det, utifrån det kommunala perspektivet, finns vissa 
+nackdelar med polisens särskilda händelser riktade mot grov brottslighet. En 
+nackdel kan vara att polisens brottsförebyggande arbete nedprioriteras vilket skapar 
+möjligheter till ytterligare grov brottslighet och nyrekrytering till kriminella 
+nätverk. När polisen inte kan arbeta förebyggande mot till exempel de öppna 
+drogscenerna får det även effekter för kommunens arbete. En respondent uppger 
+att polisen generellt skulle kunna ta mer hjälp av kommun, civilsamhälle och 
+näringsliv och att de skulle kunna bidra, inte minst i det brottsförebyggande arbetet 
+genom ökad synlighet.76  
+En annan nackdel är risken för att två parallella samverkansspår uppstår i samband 
+med en särskild händelse. Därmed är det viktigt att kommunen har kontakt både 
+med samverkansfunktionen i staben för en särskild händelse och med andra 
+funktioner hos polisen som kommunen normalt sett arbetar med. Vid långvariga 
+särskilda händelser finns det en risk för att de ordinarie kontaktvägarna släpps lite 
+och att det vanliga arbetet inte blir lika fokuserat. Över tid kan det leda till att det 
+uppstår ett glapp mellan de två samverkansspåren.77  
+ 
+75   Riksrevisionens fallstudie augusti–oktober 2022. 
+76   Riksrevisionens fallstudie augusti–oktober 2022. 
+77   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+4  Polismyndigheten genomför inte 
+särskilda händelser på ett effektivt sätt  
+I det här kapitlet besvarar vi delfrågan: Genomför Polismyndigheten de särskilda 
+händelserna på ett effektivt sätt?  
+Vår bedömning av om Polismyndigheten genomför de särskilda händelserna på ett 
+effektivt sätt baseras på att 
+•  Polismyndigheten har tydliga kriterier för att initiera särskilda händelser 
+•  Polismyndighetens strategi för att utforma särskilda händelser är ett stöd i 
+arbetet och inkluderar en plan för avslut av den särskilda händelsen 
+•  Polismyndigheten kan redogöra för hur de har styrt och prioriterat sina resurser 
+inom ramen för särskilda händelser så att de ger mest nytta i syfte att bekämpa 
+grov brottslighet 
+•  Polismyndigheten har beaktat hur den ordinarie verksamheten påverkas av att 
+skicka resurser till särskilda händelser 
+•  Polismyndigheten har involverat berörda aktörer i förberedelsen och 
+genomförandet av de särskilda händelserna, till exempel genom att lämna 
+nödvändig information. 
+Riksrevisionens sammantagna bedömning är att Polismyndigheten inte genomför 
+de särskilda händelserna på ett effektivt sätt.  
+Granskningen visar att det inte finns några tydliga kriterier för att initiera särskilda 
+händelser och att beslutet därmed bygger på en subjektiv bedömning. 
+Polismyndigheten kan inte heller redogöra för hur de styrt och prioriterat sina 
+resurser inom ramen för särskilda händelser. Vidare visar Riksrevisionens 
+sammanställning att grov brottslighet var det tredje vanligaste skälet till att besluta 
+om särskild händelse under perioden 2015–2021. Den totala merkostnaden för 
+dessa händelser är dock inte möjlig att spåra. 
+Vidare har Polismyndigheten inte beaktat hur den ordinarie linjeverksamheten 
+påverkas av att skicka resurser till särskilda händelser, vilket har lett till ett 
+ineffektivt resursutnyttjande och en sårbarhet i lokalpolisområdena som ökar ju 
+längre tid de särskilda händelserna pågår. 
+Polismyndighetens strategi för att genomföra särskilda händelser inkluderar 
+riktlinjer och en handbok som uppges vara ett stöd i arbetet, men det saknas en 
+plan för avslut av särskilda händelser vilket är särskilt viktigt när det gäller grov 
+
+brottslighet. Granskningen visar även att polisen i låg grad involverar kommunerna 
+i förberedelsen av de särskilda händelserna. 
+4.1  Det finns inga tydliga kriterier för att besluta om 
+särskilda händelser 
+Granskningen visar att det saknas tydliga kriterier för att besluta om särskilda 
+händelser, till exempel i form av en checklista med olika uppställda krav som ska 
+vara uppfyllda. Riksrevisionen kan konstatera att frånvaron av tydliga kriterier 
+innebär att beslutet om att inleda en särskild händelse, oavsett inriktning, bygger 
+på en subjektiv bedömning. Det kan innebära en risk för att beslut om särskilda 
+händelser fattas för ofta och vid fel tillfällen. 
+I Polismyndighetens arbetsordning framgår att en händelse som är eller förväntas 
+bli så omfattande, allvarlig eller komplex att Polismyndigheten måste planera, 
+organisera eller leda sin verksamhet i särskild ordning får hanteras som en särskild 
+händelse.78 Majoriteten av kommenderingscheferna anser att det utöver denna 
+definition inte finns några tydliga kriterier för att besluta om särskilda händelser 
+oavsett vilken händelse som avses. Flera respondenter framhåller att behörig 
+beslutsfattare bör besluta om en särskild händelse i det fall ärendet är så 
+komplicerat att linjeverksamheten inte bedöms klara av det.79  
+En nationell kommenderingschef uppger att ett ärende som kvalificerar sig för en 
+nationell särskild händelse ska vara omfattande, utspela sig över flera polisregioner 
+och inkludera ett resursbehov som inte redan är tillgodosett inom den ordinarie 
+linjeverksamheten. Det ska även finnas ett samverkansbehov, ett särskilt starkt 
+påkallat ledningsbehov och ärendet ska beröra flera intressenter såsom 
+underrättelseenheten, operativa enheten eller internationella enheten. En regional 
+kommenderingschef uppger att huruvida till exempel en skjutning bör hanteras 
+som en särskild händelse bland annat kan avgöras av om den som är skjuten ingår 
+i en röd konflikt80, om rätt kompetenser finns lokalt samt om polisen bedömer att 
+skjutningen riskerar att leda till fler händelser som pågår under längre tid och 
+kräver att arbetet leds i särskild ordning.81 
+ 
+78   5 kap. 36 § Arbetsordning för Polismyndigheten, PM 2020:26. 
+79   Intervjuer med kommenderingschefer maj–september 2022. 
+80   För att kategorisera läget i kända gängkonflikter använder sig polisen av en färgskala, från 
+grön till gul och röd. I en röd konflikt bedöms risken vara stor för nya våldsdåd. Källa: TT, 
+”Gängkrigen som lyser rött – "Skört läge"”. 
+81   Intervjuer med kommenderingschefer maj–september 2022. 
+
+4.2  En stor del av de särskilda händelserna kunde ha 
+hanterats av linjeverksamheten 
+Närmare en tredjedel av lokalpolisområdescheferna i vår enkätundersökning anser 
+att särskilda händelser riktade mot grov brottslighet till största delen kunde ha 
+hanterats av linjeverksamheten i stället för genom en särskild händelse. Knappt 
+60 procent svarar ja, men bara i viss omfattning, på samma påstående. Flera av 
+kommenderingscheferna och respondenterna i vår fallstudie delar den 
+uppfattningen.  
+Att hantera grov brottslighet i linjeverksamheten uppges dock ställa höga krav på 
+ledning och styrning, vilken enligt flera respondenter inte är tillräcklig i 
+linjeverksamheten. Att besluta om en särskild händelse uppges därmed i vissa fall 
+vara ett uttryck för att ledningssystemet i vissa delar av Polismyndigheten inte 
+fungerar.82 Flera respondenter uppger att ledningen och styrningen fungerar bättre 
+i en särskild händelse eftersom det då handlar om att hantera ett specifikt problem 
+som får högsta prioritet. I den ordinarie linjeverksamheten är det ständigt flera 
+olika problem som ska hanteras parallellt. Att dessutom få tillgång till den resurs 
+som bedöms vara nödvändig underlättar styrningen. Att leda arbetet genom en 
+särskild händelse innebär även en annan snabbhet jämfört med i den ordinarie 
+linjeverksamheten, med bland annat kraftigt förkortade beslutsvägar. Den ordinarie 
+linjeverksamheten är långsammare och bygger på att polisen arbetar mot 
+långsiktiga effekter.83  
+En kommenderingschef uppger att den bristande ledningen och styrningen i 
+linjeverksamheten handlar om dels information och kommunikation, dels tillit. 
+Särskilda händelser inkluderar regelbundna lägesuppdateringsmöten som ökar 
+möjligheten att dela information och rikta styrsignaler. Motsvarande möten 
+genomförs inte i den ordinarie linjeverksamheten. Ett problem för 
+linjeverksamheten är att det inkommer ett stort antal styrsignaler som kräver en 
+god simultankapacitet för polisen. Det förutsätter att det finns en tillit inom 
+organisationen där beslut fattas på rätt nivå. Därmed är det viktigt att polisen 
+delegerar beslut och litar på chefer på lägre nivåer i organisationen.84  
+ 
+82   Riksrevisionens enkätundersökning oktober 2022. 
+83   Intervjuer med kommenderingschefer maj–september 2022 och tjänsteanteckning 2023-01-18. 
+84   Tjänsteanteckning 2023-01-18. 
+
+Flera respondenter i granskningen uppger att särskilda händelser är ett lättare sätt 
+att få till sig resurser snarare än att ta krafttag avseende ledning och styrning i 
+linjeverksamheten.85 En lokalpolisområdeschef uppger: 
+”Vi har provat särskild händelse så många gånger vid grov brottslighet utan 
+speciella framgångar. Det kan vara bra initialt om det råder stor konkurrens. 
+Men i det längre perspektivet är särskild händelse förödande för 
+ledningssystemet. Jobba i stället med att stärka lokalpolisområdena och dess 
+ledningsförmåga.”86 
+Utöver en tydligare ledning och styrning uppger några lokalpolisområdeschefer att 
+en förstärkt resurs i lokalpolisområdet är nödvändig för att hantera grov 
+brottslighet lokalt.87 Riksrevisionen kan konstatera att användningen av särskilda 
+händelser kan vara ett symtom på ett större problem inom Polismyndigheten 
+rörande ledning och styrning. 
+4.3  Grov brottslighet var det tredje vanligaste skälet till 
+att besluta om särskild händelse 2015–2021 
+Polismyndigheten kan inte redogöra för hur många särskilda händelser 
+myndigheten har beslutat om, varken generellt eller specifikt riktade mot grov 
+brottslighet. För att skapa en total sammanställning av de särskilda händelser som 
+finns registrerade i Pär och PUM-A har vi genomfört en statistikbearbetning 
+(se avsnitt 3.1 och bilaga 1). Nedanstående sammanställning visar de särskilda 
+händelsernas inriktning och storleksordningen dem emellan. De exakta siffrorna 
+bör tolkas med viss försiktighet då det finns kvalitetsbrister88 i Polismyndighetens 
+register. 
+ 
+85   Riksrevisionens enkätundersökning oktober 2022, Riksrevisionens fallstudie augusti–oktober 
+2022 och intervjuer med kommenderingschefer maj–september 2022. 
+86   Riksrevisionens enkätundersökning oktober 2022. 
+87   Riksrevisionens enkätundersökning oktober 2022. 
+88   Se bilaga 1 för närmare beskrivning av dessa brister.  
+
+Diagram 1 Antal särskilda händelser registrerade i Pär och PUM-A, uppdelade efter 
+inriktning, 2015–2021 
+Offentliga tillställningar
+Bevakningsuppdrag
+Grov brottslighet –utanför GOB-uppdraget
+Allmänna sammankomster
+Våld
+Sabotage och bombhot
+Ordningsstörande händelser
+Räddningstjänst
+Övrigt
+Krisberedskap
+Gemensam verksamhet
+Grov brottslighet –GOB-uppdraget
+Övriga BrB-brott
+Övriga specialstraffrättsliga brott
+Trygghet
+Mängd- och seriebrottslighet
+Skadegörelse
+Bedrägeri
+Narkotika
+Tillsynsarbete
+Trafik
+Livsstilskriminella
+Tillgrepp
+Övriga brott mot person
+0 40 80 120 160 200 240 280 320
+Källa: Riksrevisionens sammanställning av särskilda händelser registrerade i Pär och PUM-A 
+2015–2021. 
+Diagrammet ovan omfattar totalt 1 556 särskilda händelser som inleddes under 
+perioden 2015–2021.89 Av dessa har 230 inriktningen Grov brottslighet – annat 
+utanför GOB-uppdraget90, vilket innebär att grov brottslighet under den aktuella 
+ 
+89   De särskilda händelserna har inletts på Noa, på nationell nivå eller regional nivå. Nationella 
+särskilda händelser har i vissa fall även inneburit att det funnits regionala särskilda händelser 
+varpå dessa i sådana fall utgör flera observationer i sammanställningen.  
+90   GOB-uppdraget syftar på det myndighetsgemensamma regeringsuppdraget till tolv 
+myndigheter att tillsammans arbeta mot organiserad brottslighet. 
+
+tidsperioden var det tredje vanligaste skälet till att inleda en särskild händelse. 
+Kategorin innefattar bland annat mord, mordförsök, människorov och 
+sprängningar. Vi kan konstatera att även exempelvis kategorierna Våld och 
+Narkotika skulle kunna omfatta händelser som rör grov brottslighet även om 
+Polismyndigheten inte kategoriserat dem som det. 
+Vår sammanställning visar också att antalet särskilda händelser mot grov 
+brottslighet låg relativt konstant under tidsperioden, ungefär 30 per år, bortsett från 
+2017 och 2019 då de uppgick till 41 respektive 47. Majoriteten av de särskilda 
+händelserna har genomförts på regional nivå. De särskilda händelser som rör grov 
+brottslighet är inte jämnt fördelade över landet. Flest särskilda händelser har 
+genomförts i storstadsregionerna och den polisregion som har beslutat om flest 
+särskilda händelser riktade mot grov brottslighet står för ungefär 40 procent.91 
+Det kan inte uteslutas att coronapandemin bidrog till ett minskat antal särskilda 
+händelser under 2020 och 2021. Utifrån vår sammanställning kan vi konstatera att 
+de särskilda händelserna i stort minskade under dessa år. 
+4.4  Särskilda händelser uppges pågå under längre tid och 
+används i fler typer av situationer 
+Som framgår av avsnitt 3.1. finns det inga tillförlitliga uppgifter avseende hur länge 
+de särskilda händelserna har pågått. Vi har därför frågat kommenderingscheferna 
+och lokalpolisområdescheferna om deras upplevelse av huruvida antalet särskilda 
+händelser på nationell och regional nivå har ökat eller minskat i omfattning sedan 
+2015.  
+Flera kommenderingschefer uppger att framför allt de nationella särskilda 
+händelserna pågår under allt längre tid. En kommenderingschef uppger att det är 
+svårare att avsluta en särskild händelse i dagsläget jämfört med 2015, vilket kan 
+bero på att det finns en oro över vad som ska hända efteråt. Det kan också handla 
+om en önskan om att visa andra polisregioner och nationell nivå att polisregionen 
+verkligen har ansträngt sig till det yttersta för att lösa det uppkomna problemet.92 
+Även Polismyndighetens internrevision har sett tecken på att en del av de särskilda 
+händelserna pågår under längre tid.93 
+ 
+91   Riksrevisionens sammanställning av särskilda händelser registrerade i Pär och PUM-A. 
+92   Intervjuer med kommenderingschefer maj–september 2022. 
+93   Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, 2022, s. 4. 
+
+Vidare uppger flera kommenderingschefer att Polismyndigheten beslutar om 
+särskilda händelser i fler typer av situationer nu jämfört med för några år sedan. 
+Tidigare beslutade myndigheten sällan om särskilda händelser vid brott som rör 
+grov brottslighet, utan det handlade snarare om till exempel fall med en 
+försvunnen person. NSH Corona och NSH Pass är exempel på nya typer av 
+särskilda händelser som Polismyndigheten har beslutat om på senare år.94  
+Ett skäl till att särskilda händelser används i fler typer av situationer uppges vara att 
+myndigheten behöver en tydligare ledning och styrning. Det fungerar bra under 
+tiden den särskilda händelsen pågår, men blir svårare när linjeverksamheten ska ta 
+över. En kommenderingschef uppger att det faktum att passhanteringen och 
+coronapandemin har utgjort särskilda händelser visar att Polismyndigheten inte 
+klarar av att hantera avvikelser. Det handlar snarare om ett organisationsfel än 
+allvarlighetsgraden i den särskilda händelsen.95 Riksrevisionen kan konstatera att 
+det finns en risk för att användningen av särskilda händelser för olika typer av 
+situationer eskalerar mot bakgrund av bristande ledning och styrning inom 
+Polismyndigheten som respondenterna hänvisar till.  
+4.5  Den totala merkostnaden för särskilda händelser 
+riktade mot grov brottslighet går inte att spåra 
+Granskningen visar att särskilda händelser, utöver grundlönen för berörd personal, 
+även kan generera merkostnader beroende på den särskilda händelsens omfattning 
+och utsträckning i tid. Merkostnader kan exempelvis utgöras av kostnader för resor, 
+hotell, traktamente, övertidstillägg eller tidsförskjutningstillägg. Vi har begärt in 
+underlag om merkostnader för alla särskilda händelser med inriktning mot grov 
+brottslighet under perioden 2015–2021. Underlaget omfattar totalt 230 särskilda 
+händelser, och vår sammanställning visar att det enbart finns merkostnader 
+kopplade till totalt 77 händelser (33 procent) av dessa. Sammantaget uppgår 
+merkostnaden till 115,6 miljoner kronor, varav 60,9 miljoner kronor utgörs av 
+kostnaden för den nationella särskilda händelsen NSH Rimfrost.  
+Majoriteten av polisregionerna och Noa uppger att det är mycket svårt att redogöra 
+för merkostnader för särskilda händelser.96 För över hälften (53,5 procent) av de 
+särskilda händelserna riktade mot grov brottslighet är det inte möjligt att spåra 
+eventuella merkostnader. Skälen till det uppges vara att det inte går att spåra 
+diarienummer från Polismyndighetens ärendehanteringssystem i 
+ 
+94   Intervjuer med kommenderingschefer maj–september 2022. 
+95   Intervjuer med kommenderingschefer maj–september 2022. 
+96   Tjänsteanteckning 2022-11-15, 2022-11-09, 2022-11-04 och 2022-11-03. 
+
+ekonomisystemet, att polisregionerna inte alltid bokför sådana merkostnader eller 
+att de bokförs på olika sätt.97 Det kan också bero på att händelsen inte blev så 
+allvarlig, omfattande eller komplex. Den särskilda händelsen avslutas då utan att ha 
+orsakat merkostnader och ingen kod för uppföljning av merkostnader läggs upp. 
+Det kan också vara så att den särskilda händelsen gått upp i en annan händelse. 
+Handläggare vid ekonomiavdelningen uppger att de mot bakgrund av ovanstående 
+förklaringar inte kan garantera att merkostnaderna är exakta och att de bör 
+betraktas som ungefärliga.98 Eftersom Polismyndigheten inte kan redogöra för den 
+fullständiga merkostnaden för särskilda händelser kan vi inte ge en fullständig bild 
+av dessa i granskningen. 
+Förmågan att redovisa merkostnader för särskilda händelser varierar mellan 
+polisregionerna. En polisregion har inte kunnat redovisa några merkostnader alls. 
+Den polisregion som har beslutat om flest särskilda händelser riktade mot grov 
+brottslighet uppger att det inte går att spåra eventuella merkostnader i 71 procent 
+av fallen99.100 Polismyndighetens internrevision har konstaterat att det finns ett 
+behov av att löpande följa upp resursåtgången för särskilda händelser.101 
+4.6  Tillfällig resursförflyttning har använts för att skicka 
+resurser under längre tid 
+Tillfälliga resursförflyttningar kan ske inom eller utom ramen för särskilda 
+händelser.102 Vår granskning inkluderar ett fall av en tillfällig resursförflyttning 
+som övergick till en regional särskild händelse under granskningens gång. Vi valde 
+att inkludera denna resursförflyttning eftersom flertalet av respondenterna i 
+granskningen uppgav att den har genererat negativa konsekvenser för 
+verksamheten som kan likställas med en särskild händelse. Det är även första 
+gången som Polismyndigheten använder denna metod under lång tid i syfte att 
+bekämpa grov brottslighet.103 Riksrevisionen kan konstatera att den långvariga 
+ 
+97   Riksrevisionens sammanställning av särskilda händelser oktober 2022. 
+98   Polismyndigheten, faktagranskning av Riksrevisionens rapport 2023-02-01. 
+99   Denna polisregion redovisade även merkostnader för andra särskilda händelser som inte 
+ingår i vår sammanställning motsvarande cirka 2,5 mnkr. Dessa merkostnader har inte 
+räknats med i totalen eftersom vi inte kan säkerställa att de avser särskilda händelser riktade 
+mot grov brottslighet. 
+100   Riksrevisionens sammanställning av särskilda händelser oktober 2022. 
+101   Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, 2022, s. 3. 
+102   En tillfällig resursförflyttning som sker utom ramen för en särskild händelse är inte kopplad 
+till en kommenderingschef med en stab såsom i särskilda händelser. 
+103   Intervju med handläggare vid Noa, 2022-11-07. 
+
+resursförflyttningen har medfört samma typ av negativa konsekvenser som 
+långvariga särskilda händelser i syfte att bekämpa grov brottslighet. I båda fallen är 
+det viktigt att basera beslutet om begärd resurs på en väl avvägd bedömning.  
+Noa beslutade om den tillfälliga resursförflyttningen den 14 december 2021. Syftet 
+var att förstärka linjeverksamheten i polisregion Stockholm för att bryta den 
+negativa utvecklingen avseende skjutvapenvåld och grov organiserad brottslighet i 
+polisregionen.104 105 Det är den antalsmässigt största resursförflyttningen som har 
+genomförts i syfte att bekämpa grov brottslighet, och resurser har skickats från hela 
+landet.106 Beslutet baserades på en förstärkningsbegäran som skickats in av 
+polisregion Stockholm. Förstärkningsbegäran omfattade initialt ett äskande om 
+sammanlagt 238 individer, varav 175 skulle förstärka linjeverksamheten.107  
+Noa beslutade att den tillfälliga resursförflyttningen skulle pågå under perioden 
+17 januari–17 juni 2022.108 Beslutet har senare förlängts i flera omgångar t.o.m. 
+18 juni 2023.109 Det finns en ytterligare förstärkningsbegäran om att beslutet 
+därefter ska förlängas till och med den 3 september 2023, där Noa ännu inte har 
+fattat beslut.110 Vid årsskiftet 2022/2023 hade närmare 38,8 miljoner kronor i 
+merkostnader för den tillfälliga resursförflyttningen bokförts hos Noa. En del 
+merkostnader kan även ha genererats och kostnadsförts på polisregionerna, till 
+exempel kostnader för drivmedel samt övertidskostnader.111 I samband med det 
+senaste beslutet om förlängning i september 2022 övergick den tillfälliga 
+resursförflyttningen i en regional särskild händelse.112 Skälet till detta uppges vara 
+att problemen med skjutvapenvåld eskalerade och förutsatte ett mer riktat arbete 
+mot ett specifikt lokalpolisområde.113  
+Flera kommenderingschefer uppger att den tillfälliga resursförflyttningen i 
+praktiken var detsamma som en särskild händelse, men utan ansvarig 
+kommenderingschef. Det faktum att resursförflyttningen inledningsvis inte var en 
+ 
+104   Polismyndigheten, beslutsprotokoll 2021-12-14, dnr HD 5300-35/2021. 
+105   Vår granskning avser inte tillfälliga resursförflyttningar utanför särskilda händelser, men 
+eftersom denna resursförflyttning i hög grad uppges ha påverkat lokalpolisområdena och 
+efter en tid övergick till en regional särskild händelse har vi ändå inkluderat den i 
+granskningen. 
+106   Intervju med handläggare vid Noa, 2022-11-07. 
+107   Polismyndigheten, biträdesbegäran/förstärkning 2021-10-28, dnr HD 5300-35/2021.  
+108   Polismyndigheten, beslutsprotokoll 2021-12-14, dnr HD 5300-35/2021. 
+109   Polismyndigheten, beslutsprotokoll 2023-02-16, dnr A714.017/2022. 
+110   Mejl från handläggare vid Noa, 2023-01-16. 
+111   Mejl från handläggare vid Polismyndighetens ekonomiavdelning, 2022-11-02. 
+112   Polismyndigheten, beslutsprotokoll 2022-10-05, dnr A560.908/2022. 
+113   Intervju med handläggare vid Noa, 2022-11-07. 
+
+särskild händelse utan en förstärkning av linjeverksamheten betyder enligt flera 
+kommenderingschefer att Polismyndigheten har fördelat sina resurser på ett 
+felaktigt sätt. Region Stockholm uppges inte ha lyckats attrahera och rekrytera 
+medarbetare i enlighet med regionens fördelningsnyckel, vilket den pågående 
+resursförflyttningen kompenserar för.114 
+4.6.1  Bedömningen vid beslut om tillfällig resursförflyttning har 
+främst utgått från förtroende 
+Granskningen visar att Noa främst har utgått från förtroende vid beslut om 
+tillfälliga resursförflyttningar, och inte ställt några krav på att den mottagande 
+regionen ska kunna redovisa hur resurserna använts. Riksrevisionen konstaterar att 
+det är anmärkningsvärt, och bedömer att underlagen som används inför 
+bedömning om beslut behöver utvecklas.  
+Varken Noa eller ledningen för region Stockholm har styrt på vilket sätt resurserna 
+har använts utan överlåtit till linjeverksamheten att identifiera vad som utgör 
+specifika framgångsfaktorer i de aktuella lokalpolisområdena.115 Fram till och med 
+beslutet om förlängning har Noa utgått från polisregionernas förmåga att hjälpa 
+till, vilket innebär att Noa har frågat polisregionerna om vilka resurser de har och 
+hur många de kan avvara i samband med att en förstärkningsbegäran har kommit 
+in. Därefter har det skett en förhandling mellan Noa och polisregionerna. 
+Handläggare vid Noa uppger att man sällan har kört över polisregionernas egna 
+bedömningar av sin förmåga att skicka personal.116 
+Vidare uppger handläggare vid Noa att Noa har haft bristande förmåga att syna 
+polisregionernas kort. Processen har byggt på förtroende om att ingen region 
+hävdar ett behov som de inte har eller att de inte har resurser att avvara även om det 
+hade varit möjligt. Noa har inte heller ställt några krav på att de polisregioner som 
+har fått beslut om förstärkning av resurser från andra delar av landet ska redovisa 
+några resultat om vad resurserna har använts till eller vilken nytta de har gjort för 
+verksamheten. Skälet till detta uppges vara att det är svårt att redovisa sådana 
+uppgifter.117 
+Handläggare vid Noa uppger att det är polisregion Stockholms ansvar att ta fram en 
+plan för avslut av den tillfälliga resursförflyttningen som numera utgör en särskild 
+händelse, men att det inte finns något formellt krav på en polisregion som äskar 
+ 
+114   Intervjuer med kommenderingschefer maj–september 2022. 
+115   Intervju med handläggare vid Noa, 2022-06-20. 
+116   Intervju med handläggare vid Noa, 2022-11-07. 
+117   Intervju med handläggare vid Noa, 2022-11-07. 
+
+resurser att presentera en sådan plan. Resursförstärkningen skulle dock kunna 
+upphöra vilken dag som helst om läget i övriga landet förändras radikalt, och Noa 
+behöver göra andra prioriteringar. En tillfällig resursförflyttning uppges inte ha en 
+given början eller ett givet slut på samma sätt som en särskild händelse.118 
+4.6.2  Arbetet med att utveckla bedömningsarbetet är i sin linda 
+Inför beslutet om att den pågående resursförflyttningen skulle övergå i en särskild 
+händelse har Noa börjat utveckla ett IT-system för att stärka sitt underlag inför 
+bedömning. Än så länge omfattar systemet enbart statistik som rör 
+utredningsverksamheten. I samband med att beslutet om förlängning skulle fattas 
+visade det sig att region Stockholm hade betydligt lägre ärendebalanser än de andra 
+polisregionerna. Noa avslog därför deras förstärkningsbegäran avseende 
+mängdbrottsutredare.119  
+Handläggare vid Noa uppger att det är viktigt att fortsätta arbetet med att hitta 
+instrument för att bättre kunna granska och bedöma läget i polisregionerna. 
+Samtidigt är det få saker inom polisen som är standardiserade vilket försvårar dessa 
+möjligheter. I dagsläget finns inga bra verktyg för att jämföra belastningen för den 
+uniformerade personalen i de olika polisregionerna, detta är ett utvecklingsområde. 
+En annan lärdom är att det är viktigt att göra bedömningar löpande då läget snabbt 
+kan förändras i polisregionerna. Besluten om resursförflyttning kan därför inte 
+löpa under en längre period. Samtidigt behöver perioden för beslutet vara tillräcklig 
+lång för att ge den mottagande regionen möjlighet att planera för sin verksamhet.120 
+Noa har sedan december 2021 haft en bedömandegrupp som har deltagit i arbetet 
+med att fatta beslut om resursförflyttningar. Bedömandegruppen permanentades i 
+november 2022 och består av representanter från alla sju polisregioner samt Noa. 
+Bedömandegruppen har regelbundna möten där resursläget i polisregionerna och 
+eventuella kommande begäranden om resurser diskuteras.121  
+4.6.3  Den tillfälliga resursförflyttningen uppges inte vara 
+resurseffektiv 
+Inom ramen för vår fallstudie har vi intervjuat flera respondenter som genom den 
+tillfälliga resursförflyttningen har skickats till region Stockholm. Några poliser vid 
+IGV/områdespolisverksamheten uppger att de har haft tillräckliga arbetsuppgifter 
+ 
+118   Intervju med handläggare vid Noa, 2022-11-07. 
+119   Intervju med handläggare vid Noa, 2022-11-07. 
+120   Intervju med handläggare vid Noa, 2022-11-07. 
+121   Intervju med handläggare vid Noa, 2022-11-07. 
+
+och upplever att deras insats har gjort en positiv skillnad i det lokalpolisområde 
+som de har förstärkt. Både i enkätundersökningen och i fallstudien framgår dock 
+att det finns poliser inom både IGV/områdespolisverksamheten och utredningsverksamheten som uppger att deras erfarenhet är att resursförflyttningen till 
+Stockholm inte har varit effektiv.  
+Flera respondenter uppger att de inte har haft full sysselsättning under tiden de 
+arbetat inom den särskilda händelsen och uppger att de hade behövts bättre i det 
+egna lokalpolisområdet. Flera uppger att de har känt sig överflödiga i arbetet när de 
+skickats till Stockholm och att polisregion Stockholm inte har varit träffsäker i sin 
+begäran av kompetens. I vissa fall har fel kompetens begärts utifrån vad uppdraget 
+har inneburit. I ett fall skickades kritiska resurser som arbetar med 
+ingripandespaning till att arbeta med brottsförebyggande arbete. Det medförde att 
+spaningsarbetet under tiden uteblev i det ordinarie lokalpolisområdet. Därutöver 
+har ärendebalanserna konstaterats vara betydligt lägre i Stockholm jämfört med i 
+det egna lokalpolisområdet, vilket har gjort att nyttan med kommenderingen har 
+ifrågasatts.122 En lokalpolisområdeschef uppger: 
+”De som lånas ut, upplever att det finns endast lite arbetsuppgifter, att det är 
+mer att göra i eget område. Eftersom vi är få, endast minimistyrka, blir 
+effekten att alla andra hemma får betydligt mer arbete.”123 
+I fallstudien har det även framkommit att kommenderingen till Stockholm 
+inledningsvis var frivillig, men att medarbetare över tid har varit tvungna att arbeta 
+kvar eftersom de har ansetts ha blivit för involverade i arbetet. Detta har gällt även 
+om det har inträffat allvarliga brott på hemmaplan och den kommenderade 
+resursen ansett sig kunna ha gjort större nytta i det egna lokalpolisområdet i och 
+med lokalkännedom etc.124  
+Närmare 90 procent av lokalpolisområdescheferna uppger i vår enkätundersökning 
+att de har skickat resurser till den tillfälliga resursförflyttningen. I likhet med 
+långvariga särskilda händelser riktade mot grov brottslighet uppges 
+resursförflyttningen generera negativa konsekvenser i lokalpolisområdena vad 
+gäller till exempel ökade ärendebalanser, stort övertidsuttag och minskad förmåga 
+att arbeta brottsförebyggande (se avsnitt 4.8). Flera respondenter uppger att 
+Polismyndigheten borde se över vilka metoder polisen arbetar med i Stockholm 
+ 
+122   Riksrevisionens fallstudie augusti–oktober 2022. 
+123   Riksrevisionens enkätundersökning oktober 2022. 
+124   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+innan myndigheten fattar beslut om tillfällig resursförflyttning.125 En 
+lokalpolisområdeschef uppger att det hade varit möjligt att undvika den tillfälliga 
+resursförflyttningen till region Stockholm genom att enbart förflytta resurser inom 
+den egna regionen.126  
+Granskningen visar även att en polisregion beslutade om en särskild händelse i 
+samband med att Noa beslutade om den tillfälliga resursförflyttningen, för att 
+tillgodose Noas beslut om begärd resurs.127 Mot bakgrund av att 
+resursförflyttningen till Stockholm har pågått under lång tid och omfattar mycket 
+resurser har den drabbat övriga landet hårt, och flera lokalpolisområdeschefer 
+uppger att de själva har problem med skjutningar och annan grov brottslighet. 
+Resursförflyttningen har även förlängts i flera omgångar och några respondenter 
+uppger att det finns en rädsla för att den aldrig ska ta slut.128 
+4.7  Handboken och riktlinjerna för särskilda händelser 
+är ett stöd 
+Polismyndigheten har tagit fram riktlinjer och en handbok för ledning vid särskilda 
+händelser. Riktlinjerna syftar till att uppnå en rättssäker, effektiv och enhetlig 
+hantering av särskilda händelser i hela hotskalan, från fred till krig.129 Handboken 
+ska ge stöd för att inrikta och samordna polisverksamheten när verksamheten 
+organiseras och leds i särskild ordning. Handboken ska även ge stöd när 
+aktörsgemensamma åtgärder ska inriktas och samordnas.130 Utöver dessa underlag 
+tillhandahåller Polismyndigheten även en utbildning för blivande 
+kommenderingschefer.131  
+Majoriteten av kommenderingscheferna uppger att handboken och riktlinjerna är 
+ett bra stöd i arbetet med särskilda händelser. En kommenderingschef uppger att 
+varje polismyndighet hade sin egen doktrin vad gällde genomförandet av särskilda 
+händelser före omorganisationen, och att det finns stora vinster i att alla numera 
+utgår från samma standard. Alla funktioner i kommenderingschefens stab vet vad 
+de ska göra och kommenderingschefen kan ägna sig åt att stå för ett gott 
+omdöme.132 En kommenderingschef uppger att handboken inte är skriven för en 
+ 
+125   Riksrevisionens enkätundersökning oktober 2022. 
+126   Riksrevisionens fallstudie augusti–oktober 2022. 
+127   Intervju med polisintendent vid Polismyndigheten, 2022-10-28. 
+128   Riksrevisionens enkätundersökning, oktober 2022, Riksrevisionens fallstudie augusti–
+oktober 2022. 
+129   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 4. 
+130   Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, 2020, s. 5. 
+131   Intervjuer med kommenderingschefer maj–september 2022. 
+132   Intervjuer med kommenderingschefer maj–september 2022. 
+
+särskild händelse som hanterar utredningsfrågor, utan att den snarare utgår från 
+det uniformerade polisarbetet.133 
+Utöver utbildning, handbok och riktlinjer finns mentorskap att tillgå som stöd till 
+blivande kommenderingschefer. Detta sker till exempel genom att den blivande 
+kommenderingschefen får arbeta som biträdande kommenderingschef 
+tillsammans med någon som är mer erfaren. Rollerna kan även vara ombytta, där 
+den erfarna kommenderingschefen stödjer den ordinarie genom att vara 
+biträdande kommenderingschef.134 
+4.7.1  Det saknas vägledning för att avsluta särskilda händelser 
+I Polismyndighetens handbok vid ledning av särskilda händelser framgår att 
+planering för avslut av en pågående särskild händelse ska påbörjas tidigt. 
+Polisoperationen eller polisinsatsen ska avslutas när den har uppnått de fastställda 
+målen eller när det inte längre finns skäl att organisera och leda polisverksamheten 
+i särskild ordning. Skäl för avslut kan även vara att polisoperationen eller 
+polisinsatsen kräver för mycket resurser eller konkurrerar med annan viktigare 
+polisverksamhet.135 
+Avslut av den särskilda händelsen kan ske på tre sätt: 
+•  Den särskilda händelsen avslutas utan att det föreligger några behov av 
+fortsatt arbete utanför den särskilda händelsen. 
+•  Den särskilda händelsen minskas i omfattning och verksamheten lämnas 
+över till berörda enheter inom Polismyndigheten när dessa är redo att ta 
+över. 
+•  Den särskilda händelsen avslutas och verksamheten lämnas över till annan 
+myndighet eller aktör som till exempel kommun, räddningstjänst eller hälso- 
+och sjukvård.136 
+Utöver ovanstående finns ingen mer utförlig vägledning för hur avslutningen av 
+den särskilda händelsen ska gå till i praktiken. Majoriteten av 
+kommenderingscheferna uppger att det inte finns någon rutin angående hur en 
+sådan planering ska genomföras. Ett skäl till detta uppges vara att det i många fall 
+ 
+133   Intervjuer med kommenderingschefer maj–september 2022.  
+134   Intervjuer med kommenderingschefer maj–september 2022. 
+135   Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, 2020, s. 60, 88. 
+136   Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, 2020, s. 112. 
+
+inte finns någonting att överlämna till linjeverksamheten, till exempel efter en 
+avslutad fotbollsmatch.137 
+Behovet av en plan för att avsluta den särskilda händelsen uppges dock ha blivit 
+alltmer uppenbart när särskilda händelser används i situationer som inte är 
+begränsade i tid och rum, till exempel grov brottslighet. I sådana fall kan en plan 
+för avslut innebära en plan för att fasa ut den särskilda händelsen eller att i förtid 
+släppa i väg resurser som inte längre behövs. Det kan även innebära en plan för att 
+implementera nya arbetsmetoder eller ett beslut om att det efterföljande 
+utredningsarbetet efter en särskild händelse ska tas om hand av en särskild 
+beslutad utredningsorganisation. En särskild händelse kan bidra till att ”släcka en 
+brand”, men om arbetet inte kan omhändertas av linjeverksamheten ger 
+kraftsamlingen ingen effekt över tid. Två respondenter uppger att det skulle behöva 
+förtydligas i handboken att det behöver finnas en plan för avslut av den särskilda 
+händelsen som innefattar hur den lokala förmågan ska ta över verksamheten när 
+den särskilda händelsen avslutats.138  
+I vår enkätundersökning uppger 45 procent av lokalpolisområdescheferna att de 
+inte har involverats i planen för avslut av särskilda händelser riktade mot grov 
+brottslighet.139 Ett skäl till detta, som framkommer i vår fallstudie, kan vara att det i 
+vissa lokalpolisområden finns en funktion som kallas operativ samordnare som 
+kan vara mer involverad i detta arbete jämfört med lokalpolisområdeschefen.140 
+4.8  Det lokala lägesbildsarbetet drabbas hårt av särskilda 
+händelser 
+Granskningen visar att arbetet med den lokala lägesbilden i lokalpolisområdena i 
+hög grad blir lidande i samband med begäran om resurser till särskilda händelser 
+riktade mot grov brottslighet. Närmare 40 procent av lokalpolisområdescheferna 
+uppger att särskilda händelser på kort sikt genererar en omfattande negativ 
+påverkan på det lokala lägesbildsarbetet, medan 50 procent uppger att de ger en 
+omfattande negativ påverkan på lång sikt. Av fritextsvaren framgår att planerade 
+aktiviteter inom det brottsförebyggande arbetet får ställas in medan 
+trygghetsskapande arbete och samverkan med externa aktörer prioriteras ned.141 
+Riksrevisionen bedömer att det är mycket viktigt att Polismyndigheten beaktar den 
+ 
+137   Intervjuer med kommenderingschefer maj–september 2022. 
+138   Intervjuer med kommenderingschefer maj–september 2022. 
+139   Riksrevisionens enkätundersökning oktober 2022. 
+140   Riksrevisionens fallstudie augusti–oktober 2022. 
+141   Riksrevisionens enkätundersökning oktober 2022. 
+
+negativa påverkan på linjeverksamheten som särskilda händelser ger upphov till vid 
+beslut om särskilda händelser. 
+En ytterligare konsekvens i det lokala lägesbildsarbetet som uppstår i samband med 
+särskilda händelser är att polisen tappar kontinuiteten i det förebyggande arbetet 
+mot unga i riskzon och medarbetare med personkännedom. Det försvårar 
+möjligheten att upptäcka och förhindra nyrekrytering av unga till grov kriminalitet. 
+Medarbetare tappar motivationen till att planera aktiviteter i sitt eget område 
+eftersom de ofta ställs in till följd av särskilda händelser. Områdespolisverksamheten 
+har till skillnad från ingripandeverksamheten ingen minimibemanning, vilket 
+innebär att det är lättare att skicka den kompetensen vid särskilda händelser. Det 
+gör det svårare för polisen att vara synlig i lokalsamhället.142  
+Även utredningsverksamheten uppges drabbas hårt och ärendebalanserna växer 
+när utredare skickas till särskilda händelser. Ofta är det erfarna medarbetare som 
+begärs vilket ökar sårbarheten.143 Utredare kommenderas ofta under betydligt 
+längre tid jämfört med uniformerad personal, det kan handla om allt från ett par 
+veckor till flera månader. Inledningsvis kan kommenderingen vara frivillig men 
+därefter utvecklas den till tvångskommendering. Ofta blir de ärenden som inte är 
+akuta liggande till dess utredaren är tillbaka.144  
+Flera lokalpolisområdeschefer lyfter att de redan från början har en ansträngd 
+resurs som knappt täcker grunduppdraget, vilket innebär att den kvarvarande 
+resursen efter kommendering till särskilda händelser inte räcker till annat än att 
+bemanna ingripandeverksamheten och att utreda ärenden med frihetsberövade. 
+Övertidsuttagen ökar för att täcka upp vid särskilda händelser och det blir svårt att 
+genomföra utbildningar.145  
+Enkätundersökningen visar att 67 procent av lokalpolisområdescheferna har behövt 
+kommendera in lediga poliser för att lösa minimibemanningen i 
+lokalpolisområdet, det så kallade vaktuppdraget146. Av fritextsvaren framgår att vissa 
+av dessa kommenderingar har skett med frivilliga som anmält sig till att arbeta 
+övertid, men att det i längden sliter på personalen. Ständigt höga övertidsuttag kan 
+påverka tiden som en polis orkar arbeta i yttre tjänst. I vår fallstudie framkommer 
+ 
+142   Riksrevisionens enkätundersökning oktober 2022. 
+143   Riksrevisionens enkätundersökning oktober 2022. 
+144   Riksrevisionens fallstudie augusti–oktober 2022. 
+145   Riksrevisionens fallstudie augusti–oktober 2022. 
+146   Vaktuppdrag innebär händelsestyrd verksamhet som kräver att polisen omedelbart eller 
+skyndsamt behöver göra ett ingripande på viss plats. Källa: Polismyndigheten, Ökat antal 
+avlidna i samband med polisens våldsanvändning med skjutvapen, 2020. 
+
+att flera medarbetare har skrivit på överenskommelser som innebär att arbeta mer 
+än 150 timmar övertid på ett år, och att det inte är ovanligt att en del kommer upp i 
+mer än 200 timmars övertid. Den genomsnittliga tiden för hur länge en polis 
+arbetar i yttre tjänst uppges vara 2–4 år.147 
+4.8.1  Liten hänsyn tas till påverkan i lokalpolisområdet 
+Vår enkätundersökning visar att drygt 70 procent av lokalpolisområdescheferna 
+anser att den som är kommenderingschef eller de som ingår i staben inte tar 
+hänsyn till negativ påverkan i lokalpolisområdet i de fall de begär resurser till en 
+särskild händelse riktad mot grov brottslighet. En lokalpolisområdeschef uppger: 
+”Inte alls. Det finns flera exempel på att situationen hos den som lånar ut är 
+värre än hos den som lånar in. Återigen – tveksamt till objektivitet och 
+helhetssyn hos de som avgör.”148 
+Flera lokalpolisområdeschefer uppger att den som är kommenderingschef ofta 
+saknar kunskap om läget i lokalpolisområdet, och att den särskilda händelsen har 
+företräde. Konsekvensanalyser av hur det lokala lägesbildsarbetet påverkas görs 
+sällan, och om de görs väger sällan konsekvensen för lokalpolisområdet tyngre än 
+behovet i den särskilda händelsen.149  
+Några lokalpolisområdeschefer uppger att de känner sig delaktiga i genomförandet 
+av särskilda händelser, till exempel genom att de bjuds in till 
+lägesuppdateringsmöten och tillfrågas om perspektivet från lokalpolisområdet. 
+Vissa lokalpolisområden har organiserat det så att den operativa samordnaren har 
+den huvudsakliga kontakten med kommenderingschefens stab.150 
+Enkätundersökningen visar att 75 procent av lokalpolisområdescheferna inte 
+upplever sig ha något att säga till om vid begäran av kommenderingschefen eller 
+staben om att skicka resurser till en särskild händelse riktad mot grov brottslighet. 
+Några lokalpolisområdeschefer uppger att de tillfrågas om eventuella konsekvenser 
+men att upplevelsen är att det sällan tas hänsyn till dessa.151  
+ 
+147   Riksrevisionens fallstudie augusti–oktober 2022. 
+148   Riksrevisionens enkätundersökning oktober 2022. 
+149   Riksrevisionens enkätundersökning oktober 2022. 
+150   Riksrevisionens fallstudie augusti–oktober 2022. 
+151   Riksrevisionens enkätundersökning oktober 2022. 
+
+En lokalpolisområdeschef uppger: 
+”Den ordinarie verksamheten behöver integreras i den särskilda händelsen 
+så mycket som det går. Detta för att skapa möjligheter att så snart det går 
+övergå till linjeverksamhet. Den särskilda händelsen är konstruerad för att 
+omhänderta ett problem som hastigt uppkommit men förstör den ordinarie 
+verksamheten i det långsiktiga perspektivet när den pågår över för lång 
+tid.”152 
+Ett exempel när en särskild händelse fick stora konsekvenser i lokalpolisområdet 
+var i samband med NSH Pass.153 Polismyndigheten kände till den kommande 
+passkrisen ett år i förväg och följde upp passkulden veckovis. Trots det beslutade 
+myndigheten att inleda en nationell särskild händelse den 6 april 2022. Då fattade 
+regionpolischefen i en polisregion beslut om att ett antal poliser som varit anställda 
+i sex månader skulle kommenderas för att handlägga pass på heltid under tre 
+månader. Det resulterade i att 14 utredare skickades från ett specifikt 
+lokalpolisområde. I det lokalpolisområdet arbetar nyanställda poliser som utredare i 
+ett år, vilket gjorde att utredningsverksamheten drabbades hårt.154  
+Beslutet om begärd resurs tog inte hänsyn till vilken funktion poliserna arbetade i, 
+och lokalpolisområdeschefen hade inte möjlighet att påverka vilken personal som 
+skulle skickas. Lokalpolisområdeschefen tvingades därmed kommendera in 
+ingripandepoliser till utredningsverksamheten för att täcka bemanningen. För att 
+minimera konsekvenserna i lokalpolisområdet är det viktigt att involvera 
+lokalpolisområdeschefen vid beslut om särskilda händelser och begäran om resurs.155 
+Riksrevisionen kan konstatera att den särskilda händelsen i detta fall minskade 
+polisens möjlighet att arbeta förebyggande och vara synliga i utsatta områden. Som 
+framgår av avsnitt 4.6 bedömer Riksrevisionen att det är viktigt att göra väl avvägda 
+bedömningar inför beslut om att skicka resurser till särskilda händelser.  
+Polismyndighetens internrevision delar bilden av att det resursuttag som särskilda 
+händelser innebär påverkar linjeverksamhetens arbete med den lokala lägesbilden i 
+lokalpolisområdet. Det blir en märkbar konsekvens för lokalpolisområden som får 
+ 
+152   Riksrevisionens enkätundersökning oktober 2022. 
+153   NSH Pass inleddes under våren 2022 och ligger därmed utanför vår granskningsperiod. Vi 
+har därmed inte granskat den händelsen mer ingående. Vi valde dock att inkludera detta 
+exempel på hur en särskild händelse kan ge negativa konsekvenser i ett lokalpolisområde, 
+eftersom det illustrerar konsekvenserna både av att inte inkludera lokalpolisområdet och hur 
+arbetet med att bekämpa grov brottslighet drabbades. 
+154   Riksrevisionens fallstudie augusti–oktober 2022. 
+155   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+bistå med resurser och försvårar förutsättningarna att uppnå en stark lokal närvaro. 
+Internrevisionen anser därför att det är viktigt att de som beslutar om och planerar 
+en särskild händelse har aktuell kunskap om den lokala lägesbilden och 
+resursläget. Internrevisionen konstaterar att det inte finns någon vägledning för 
+eller några krav på att värdera konsekvenserna för linjeverksamheten inför beslut 
+om att genomföra en särskild händelse, eller inför beslut om dimensionering och 
+resursuttag. Konsekvenser för linjeverksamheten dokumenteras inte heller i någon 
+strukturerad form.156  
+4.9  Den operativa personalen har olika erfarenheter av 
+särskilda händelser 
+Vi har inom ramen för vår fallstudie ställt frågor till personal på 
+lokalpolisområdesnivå inom IGV/områdespolisverksamheten och 
+utredningsverksamheten om deras erfarenheter av att kommenderas till eller ta 
+emot resurser till särskilda händelser och tillfälliga resursförflyttningar. Den 
+operativa personalen framhåller vikten av förberedelse, framförhållning och 
+planering för att de ska ha möjlighet att göra ett bra jobb. Det är inte alltid möjligt 
+att tillgodose vid kort varsel, men Riksrevisionen bedömer att arbetet med att 
+förbereda personal som ska skickas kan förbättras, bland annat när det gäller att 
+tydliggöra syftet med kommenderingen. 
+Merparten av respondenterna uppger att de har tagits väl emot och känt sig 
+välkomna när de skickats till andra delar av myndigheten. En respondent uppger 
+att kommendering till särskilda händelser ger en variation i arbetet som bidrar till 
+känslan av att inte behöva byta jobb för att utvecklas. Viktiga aspekter för den som 
+skickas är att den grundläggande logistiken såsom boende, passerkort och 
+förvaring av tjänstevapen är väl förberett, och majoriteten av respondenterna 
+uppger att deras erfarenhet är att detta har fungerat bra.157  
+När det gäller att ta emot personal uppger flera respondenter att det överlag är 
+positivt att få förstärkning men att det ibland kan bli rörigt om resursen 
+kommenderas in med kort varsel och resurserna ofta byts ut. Det tar tid att 
+introducera nya kollegor i arbetet. Ett sätt att lösa det på skulle kunna vara längre 
+kommenderingar, men det är många som har svårt att arbeta på annan ort en 
+längre tid på grund av familjeförhållanden.158 
+ 
+156   Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, 2022, s. 19–20. 
+157   Riksrevisionens fallstudie augusti–oktober 2022. 
+158   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+4.9.1  Personalen anser att kommendering bör ske under kortare 
+tid 
+Som framgår av avsnitt 4.8 kommenderas områdespoliser och poliser inom 
+ingripandeverksamheten i regel under kortare tid jämfört med utredare. Dessa 
+funktioner är inte lika beroende av att samma person återkommer till skillnad från 
+utredningsverksamheten som kan påverkas negativt av ett personalbyte. Både 
+företrädarna för IGV/områdespolisverksamheten och utredarna i vår fallstudie 
+uppger att kommendering under kortare tid är mer hanterbar på grund av 
+familjeförhållanden samt för att minimera negativa konsekvenser för personalens 
+ordinarie arbete. Vid kommendering av utredare finns det därmed motstående 
+intressen mellan vad som anses vara det bästa för utredningen och det bästa för 
+den enskilda medarbetaren.159 
+Även arbetsmiljöaspekten påverkas av kommenderingens längd, då 
+arbetsmiljöansvaret förflyttas till medarbetarens tillfälliga chef. Medarbetarens 
+ordinarie chef har därmed inte alltid insyn i vad medarbetaren hanterar och kan 
+behöva stöttning i. I fallstudien framgår att resurser som skickas kan ha uppemot 
+sju olika chefer under en kommendering på två veckor. Det varierar huruvida den 
+operativa personalen har skickats frivilligt eller om de blivit tvångskommenderade. 
+I första hand skickas frivilliga men i andra hand måste lokalpolisområdeschefen 
+tvångskommendera. Tvångskommenderingar uppges vara vanligt när det gäller 
+resursförflyttningen till polisregion Stockholm (se avsnitt 4.6). Medarbetarnas 
+engagemang för uppdraget påverkas av om de har skickats på frivillig basis eller 
+blivit tvångskommenderade.160  
+4.9.2  Det behöver finnas ett tydligt uppdrag vid begäran om 
+resurs 
+Flera respondenter uppger att de som tar emot förstärkande resurser behöver ha en 
+plan för den resurs som de får in i verksamheten och för hur arbetsuppgifterna ska 
+fördelas. För den enskilda medarbetarens arbetsmoral och motivation är det viktigt 
+att uppdraget är tydligt, avgränsat och lätt att förstå. Information och 
+kommunikation är också viktigt för att skapa delaktighet och motivation inför ett 
+uppdrag. Det bidrar också till att minska startsträckan för att komma i gång med 
+arbetet.161  
+ 
+159   Riksrevisionens fallstudie augusti–oktober 2022. 
+160   Riksrevisionens fallstudie augusti–oktober 2022. 
+161   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+Respondenterna inom ramen för vår fallstudie har olika erfarenheter av om det 
+fanns ett tydligt uppdrag i samband med att de skickades till särskilda händelser. 
+Två respondenter uppger att deras ankomst var väl förberedd till exempel genom 
+delning av bakgrundsfakta och målbild för insatsen. Andra respondenter uppger att 
+det var svårt att hinna sätta sig in i lokalpolisuppdraget när de inte kände till 
+området och inte hade fått tillräcklig bakgrundsinformation.162 
+En respondent uppger att särskilda händelser inte är så resurseffektiva som de 
+skulle kunna vara. Lokalpolisområden som skickar resurser blir av med resurser på 
+heltid men full effekt kan inte nås om den förstärkande resursen upplever att de 
+inte har så mycket att göra. Det är svårt att veta exakt hur mycket resurser som 
+behövs i en given situation och därför finns en risk för att man äskar för mycket. 
+Respondenten uppger att det vore bättre att skicka tillbaka överflödiga resurser om 
+det visar sig att inte alla behövs, men att så sällan sker.163 
+Fallstudien visar att det är mer effektivt att använda förstärkande poliser i 
+ingripandeverksamheten, det vill säga för att åka på larm, än att låta dem arbeta 
+som områdespoliser i ett område där de saknar lokalkännedom. Om den ordinarie 
+personalen i ett lokalpolisområde avlastas från ingripandeuppdraget kan de 
+fokusera på områdespolisverksamheten eller delta i den särskilda händelsen. Flera 
+poliser inom ingripandeverksamheten uppger att det inledningsvis kan vara bra att 
+åka med någon som tillhör det lokalpolisområde som de har skickats till, men att 
+det därefter känns mer effektivt och tryggt att låta förstärkande resurser som 
+känner varandra att åka tillsammans.164 
+I vår enkätundersökning uppger hälften av lokalpolisområdescheferna i de 
+lokalpolisområden där det pågått minst en särskild händelse riktad mot grov 
+brottslighet att den förstärkande resursen huvudsakligen används för att delta i 
+ingripandeverksamheten. Knappt 20 procent uppger att den förstärkande resursen 
+främst deltar i områdespolisverksamheten. Några lokalpolisområdeschefer uppger 
+att de har provat sig fram och testat olika alternativ.165 
+4.10  Samverkan med kommunen kan förbättras i 
+samband med särskilda händelser 
+Granskningen visar att kommunerna inte alltid informeras om polisens särskilda 
+händelser eller att det sker fördröjt i tid. Det gäller i synnerhet de hastigt uppkomna 
+ 
+162   Riksrevisionens fallstudie augusti–oktober 2022. 
+163   Riksrevisionens fallstudie augusti–oktober 2022. 
+164   Riksrevisionens fallstudie augusti–oktober 2022. 
+165   Riksrevisionens enkätundersökning oktober 2022. 
+
+händelserna. Granskningen visar också att samverkan mellan kommunen och 
+polisen vid händelser som rör grov brottslighet är viktig för att kunna prioritera de 
+gemensamma resurserna på rätt plats vid rätt tidpunkt. Riksrevisionen bedömer att 
+det finns en förbättringspotential gällande samverkan mellan polis och kommun i 
+samband med särskilda händelser. 
+4.10.1  Samverkan hanteras främst av stabens samverkansfunktion 
+Kommenderingschefens stab har en utsedd funktion vars uppgift är att stödja 
+kommenderingschefens ledning av polisoperationen eller polisinsatsen genom 
+samverkan med andra, till exempel tjänsteman i beredskap, räddningstjänsten, 
+hälso- och sjukvården eller Försvarsmakten.166  
+Kommenderingscheferna uppger att samverkan i samband med särskilda 
+händelser i huvudsak sker via samverkansfunktionen i staben, som i vissa fall 
+utgörs av en kommunpolis167. En kommenderingschef uppger att samverkan med 
+kommunen fungerar sämre i samband med hastigt uppkomna särskilda händelser, 
+när polisen blir så upptagna med att hantera den akuta situationen att de tappar 
+omvärldsperspektivet. Samverkan fungerar bättre vid i förväg kända särskilda 
+händelser, där kontakt kan etableras innan den särskilda händelsen startar. 
+Detsamma gäller i vardagen, där polisen har en annan vana vid att arbeta med 
+samverkande aktörer.168  
+4.10.2  Tjänsteman i beredskap informeras sporadiskt om 
+särskilda händelser  
+Representanter för alla de fyra kommunerna vi har intervjuat uppger att 
+kommunens ordinarie väg in till polisen är via kommunpolisen och att det finns en 
+tät samverkan dem emellan. Information om en särskild händelse kan komma via 
+kommunpolisen, ofta med viss fördröjning, men kommunen involveras inte 
+utifrån att det är en särskild händelse i sig utan för att något hänt som påverkar det 
+kommunala arbetet.169  
+Ibland beslutas särskilda händelser utanför kontorstid då kommunpoliser och 
+kommunanställda inte är i tjänst. Kommunerna har däremot alltid en tjänsteman i 
+ 
+166   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 13. 
+167   Kommunpolisens uppdrag innebär att representera polisen i strategisk samverkan med 
+ledningsgrupper för kommuner och övriga samhället. Funktionen ger förutsättningar för den 
+lokala polisen att arbeta närmare medborgarna. Källa: Polismyndigheten, Uppdragsbeskrivning 
+för kommunpolis, 2015. 
+168   Intervjuer med kommenderingschefer maj–september 2022. 
+169   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+beredskap (TiB) som bland annat är mottagare av viktig information. Samtliga 
+respondenter uppger att Polismyndigheten har en rutin för att kontakta TiB i 
+samband med att myndigheten fattar beslut om särskilda händelser, men det har 
+varierat över tid och från fall till fall om TiB faktiskt blir kontaktad. Huruvida 
+kommunerna blir kontaktade eller inte beror på vad som har inträffat och när. 
+Generellt uppges kontakten och informationen fungera bättre vid i förväg kända 
+särskilda händelser.170  
+När det gäller hastigt uppkomna särskilda händelser, exempelvis skjutningar, 
+uppger majoriteten av kommunerna att kontakten med polisen fungerar mer 
+sporadiskt. Ett skäl till det uppges vara att det utanför kontorstid är vakthavande 
+befäl som ska informera TiB, och den funktionen bemannas av olika personer som 
+är mer eller mindre vana vid rutinen att kontakta kommunen. Om polisen 
+glömmer eller inte hinner kontakta kommunen kan det hända det att de får 
+information om att polisen har inlett en särskild händelse via till exempel 
+medier.171  
+Kommunerna har nytta av information om allt som påverkar den lokala 
+lägesbilden. Till exempel skjutningar har väldigt stor påverkan på den lokala 
+lägesbilden men det är en subjektiv bedömning av den som är ansvarig för passet 
+hos polisen som avgör om kommunen blir informerad eller inte. Det har enligt 
+fallstudien förekommit att polisen har bedömt att skjutningar med ickedödlig 
+utgång inte har påverkan på den lokala lägesbilden i kommunen. I vissa fall har 
+situationen varit den motsatta, och polisen har informerat om skjutningar i 
+närområden med hänvisning till att det kan påverka situationen i kommunen då 
+personen haft anknytning dit.172 
+Två respondenter önskar att det fanns en rutin där kommunen får information om 
+polisens särskilda händelser så fort som möjligt, till exempel via sms. Skälet till att 
+kommunen inte alltid informeras tror de är att polisen inte vet om det är av 
+intresse för kommunen eller inte. Det kan även finnas en osäkerhet hos polisen om 
+vad de kan berätta och att de inte vet om de får svara på eventuella följdfrågor. En 
+respondent uppger att coronapandemin innebar ett förtroendetapp mellan 
+kommunen och polisen på grund av att de inte träffades i lika hög utsträckning. 
+Det uppges ha inneburit att båda parter är mer försiktiga med vilken information 
+de delar med varandra.173  
+ 
+170   Riksrevisionens fallstudie augusti–oktober 2022. 
+171   Riksrevisionens fallstudie augusti–oktober 2022. 
+172   Riksrevisionens fallstudie augusti–oktober 2022. 
+173   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+Kommenderingscheferna har olika uppfattning om i vilket skede TiB får 
+information om den särskilda händelsen. En kommenderingschef uppger att 
+polisområdet sedan ett par år tillbaka har en rutin där sms går ut till chefsnivån i 
+samband med att TiB har informerats. Om det kommer in ett allvarligt ärende på 
+kvällstid kan det dröja innan TiB kontaktas, men att det är viktigt att det sker så fort 
+som möjligt. En annan kommenderingschef uppger att TiB ofta informeras redan 
+innan den särskilda händelsen har beslutats. Flera kommenderingschefer uppger 
+att i vilket skede samverkande aktörer involveras beror på vad den särskilda 
+händelsen handlar om.174 
+4.10.3  Information om särskilda händelser är viktig för att 
+kommunerna ska kunna prioritera sina resurser 
+Polisens särskilda händelser kan påverka hur kommunen ska rikta sina resurser. 
+Detta gäller även om polisen avser att förändra sitt arbete under den särskilda 
+händelsen. Om kommunen till exempel får veta att polisen inte kommer att vara 
+synlig i ett visst område för att det inte finns tillräckligt med resurser, kan 
+kommunen stärka upp med andra resurser där eller vice versa. Respondenterna 
+poängterar att det är viktigt att polisen ser kommunen som en resurs i det 
+gemensamma brottsförebyggande och brottsbekämpande arbetet. För att fatta rätt 
+beslut behöver polisen så mycket information som möjligt och där är kommunerna 
+viktiga bidragsgivare.175  
+Polisens och kommunens uppdrag skiljer sig åt och de har därför inte sällan olika 
+perspektiv på det som föranlett den särskilda händelsen. En respondent uppger att 
+polisen kan ha svårt att se saker utanför sitt eget perspektiv. Enligt kommunen 
+handlar polisens uppdrag mer om situationen där och då medan kommunens 
+uppdrag handlar både om den givna situationen och om arbetet därefter. Det är 
+viktigt att polisen är tydlig med vad de förväntar sig av kommunen, särskilt som 
+medier ofta hör av sig till kommunen i samband med en särskild händelse och 
+ställer frågor om hur de avser att agera.176 
+4.10.4  Samverkan mellan polisen och kommunerna påverkas på 
+olika sätt av särskilda händelser 
+När det gäller hur samverkan fungerar inom ramen för särskilda händelser har 
+respondenterna delvis olika uppfattningar. En respondent uppger att det vid 
+ 
+174   Riksrevisionens fallstudie augusti–oktober 2022. 
+175   Riksrevisionens fallstudie augusti–oktober 2022. 
+176   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+skjutningar och andra grova våldshändelser kan vara svårt att få staben att 
+prioritera det som kommunen behöver. Kommunpolisen eller områdespolisen som 
+kommunen har kontakt med till vardags uppges ha lättare att förstå kommunens 
+behov, medan ledningen av den särskilda händelsen har ett annat fokus.177 
+En annan respondent uppger att våldshändelser som för några år sedan klassades 
+som särskilda händelser inte får den klassningen nu, eftersom polisen har fått mer 
+rutin på hur de händelserna ska hanteras. Att en allvarlig händelse inte blir en 
+särskild händelse kan innebära problem för kommunen då det inte blir samma 
+fokus på samverkan. När polisen går upp i stabsläge blir det en tydligare samverkan 
+och kommunen uppges få en kontakt in till polisen som kan se bortom det 
+polisiära utredningsarbetet, vilket de skulle önska sig mer av i vardagen.178  
+I en särskild händelse blir det en resurstillsättning hos polisen, inte bara operativt 
+ute på fältet utan också till samverkansfunktionen, vilket skapar förutsättningar för 
+kommunen att bli delaktig och löpande få information så att kommunen kan agera 
+i sin organisation utifrån rätt lägesbild. Det uppges också bli ett sätt för kommunen 
+att enkelt kommunicera sina tankar och synpunkter till polisen så att de har 
+möjlighet att agera utifrån det.179 
+ 
+177   Riksrevisionens fallstudie augusti–oktober 2022. 
+178   Riksrevisionens fallstudie augusti–oktober 2022. 
+179   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+5  Erfarenheter och kunskap om särskilda 
+händelser tillvaratas sällan 
+I det här kapitlet besvarar vi delfrågan: Gör Polismyndigheten tillräckligt för att 
+säkerställa att kunskap och erfarenheter från tidigare särskilda händelser 
+tillvaratas?  
+Vår bedömning av om Polismyndigheten gör tillräckligt för att säkerställa att 
+erfarenheter från tidigare särskilda händelser tillvaratas baseras på att 
+•  Polismyndigheten har följt upp och genomfört utvärderingar av de åtgärder som 
+vidtas inom ramen för de särskilda händelserna 
+•  Polismyndigheten har inhämtat berörda aktörers perspektiv och upplevelser i 
+arbetet med utvärderingar, till exempel från olika samverkanspartners och 
+allmänhet 
+•  Polismyndigheten har ett system för att sprida kunskap på alla nivåer i 
+organisationen och har använt detta för att sprida kunskap 
+•  Polismyndigheten har tagit med sig goda exempel utifrån resultat från tidigare 
+genomförda särskilda händelser och implementerat dem i linjeverksamheten. 
+Riksrevisionens sammantagna bedömning är att Polismyndigheten inte har gjort 
+tillräckligt för att säkerställa att kunskap och erfarenheter från tidigare särskilda 
+händelser tillvaratas.  
+Granskningen visar att Polismyndigheten sällan följer upp eller utvärderar åtgärder 
+som vidtagits inom ramen för särskilda händelser riktade mot grov brottslighet. 
+Samtliga tillfrågade kommuner uppger att Polismyndigheten inte har involverat 
+dem i uppföljning eller utvärdering på något strukturerat sätt. 
+Vidare visar granskningen att Polismyndigheten inte har en strukturerad process 
+för kunskapsspridning. I huvudsak gäller det kunskap som sprids muntligen, på 
+den enskilda medarbetarens initiativ. Trots bristande uppföljning och utvärdering 
+visar granskningen att det finns goda exempel som implementerats i 
+linjeverksamheten. Två sådana exempel är regionala driftcenter och regionala 
+bedrägericenter, som är resultatet av två särskilda händelser. 
+
+5.1  Uppföljning och utvärdering av särskilda händelser 
+görs sällan 
+Enligt Polismyndighetens riktlinjer och handbok för särskilda händelser ska en 
+särskild händelse följas upp om det inte är uppenbart onödigt. Uppföljningen ska 
+dokumenteras i en fastställd mall.180 181 Trots detta har Polismyndigheten endast 
+följt upp sammanlagt 16 särskilda händelser sedan kravet på uppföljning 
+reglerades i riktlinjerna i slutet av 2019. Detta kan jämföras med att det inleddes 
+362 särskilda händelser under perioden 2020–2021.182 Endast en av dessa 
+uppföljningar rör en särskild händelse som var inriktad mot grov brottslighet. 
+Uppföljningarna avser avslutade särskilda händelser och kan därmed inte jämföras 
+rakt av med de inledda. Skillnaden i antal ger ändå en tydlig indikation om att 
+uppföljningar inte genomförs i någon större utsträckning. 
+Enligt Polismyndigheten beror det låga antalet uppföljningar bland annat på att det 
+varit driftstörningar i systemet där uppföljningarna registreras och att 
+rapporteringen då har legat nere. Antalet uppföljningar speglar därmed inte det 
+totala antalet särskilda händelser under perioden. Polismyndigheten uppger också 
+att det inte är ett absolut krav att följa upp särskilda händelser och att exempelvis 
+fotbollsmatcher inte alltid bedöms vara nödvändiga att följa upp.183 Nuvarande mall 
+för uppföljning är inriktad på om metoden i handboken för särskilda händelser 
+följs. Polismyndigheteten uppger att arbete pågår med att utveckla detta arbete för 
+att på sikt kunna göra mer specifika uppföljningar såsom uppföljningar av 
+idrottsrelaterade händelser eller händelser mot grov brottslighet.184  
+Större händelser såsom NSH Rimfrost och NSH Dimma har utvärderats men i 
+övrigt är utvärderingar sällsynta.185 186 Flera kommenderingschefer uppger att 
+uppdraget att vara kommenderingschef vanligtvis är en tillikauppgift, det vill säga 
+en uppgift vid sidan av ordinarie arbetsuppgifter. Eftersom uppdraget då sköts 
+ 
+180   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 15.  
+181   Huvudregeln är att mallen ska användas men av instruktionen för uppföljning av särskild 
+händelse framgår att om en polisregion/avdelning bedömer att uppföljningen innehåller 
+information av högt eller mycket högt skyddsvärde ska den genomföras i pappersformat. 
+Dåvarande UC Bergslagen, som ansvarar för uppföljningarna, har dock inte kännedom om 
+hur många händelser som p.g.a. sekretesskäl följts upp utanför systemet. Källa: 
+Polismyndigheten, Svar på kompletterande frågor rörande faktagranskning, 2023-02-20. 
+182   Mejl från handläggare vid dåvarande UC Bergslagen 2022-06-02. Perioden som avses är 
+november 2019–maj 2022.  
+183   Mejl från handläggare vid dåvarande UC Bergslagen, 2022-05-13 och 2022-06-02; 
+Tjänsteanteckning 2022-06-20. 
+184   Mejl från handläggare vid dåvarande UC Bergslagen, 2022-06-15; Tjänsteanteckning 2022-06-20. 
+185   Tjänsteanteckning 2022-06-20. 
+186   Polismyndigheten, Svar på kompletterande frågor rörande faktagranskning, 2023-02-20. 
+
+parallellt med ordinarie arbetsuppgifter anses att kommenderingschefen behöver 
+vara ”sist in och först ut” i den särskilda händelsen. Det kan vara en förklaring till 
+att några kommenderingschefer uppger att de vet att särskilda händelser ska 
+utvärderas men inte känner till om det gjorts för specifika särskilda händelser.187 
+På frågan om erfarenheter utifrån resultat baserat på tidigare genomförda särskilda 
+händelser inhämtas inför eller under nya särskilda händelser uppger ungefär 
+hälften av kommenderingscheferna att det görs men att det inte sker strukturerat 
+eller systematiserat. Tidsbrist uppges vara ett skäl till det, i synnerhet om det 
+handlar om en hastigt uppkommen händelse.188  
+5.1.1  Kommuners perspektiv efterfrågas inte regelmässigt vid 
+utvärderingar 
+Representanter för alla fyra kommuner vi har intervjuat uppger att deras perspektiv 
+och erfarenheter inte har efterfrågats vid Polismyndighetens utvärderingar eller 
+uppföljningar av särskilda händelser riktade mot grov brottslighet. En respondent 
+uppger att det kan förekomma ett mer informellt samtal mellan kommunen och 
+polisen efter att en särskild händelse avslutats men att det kan vara personbundet. 
+En annan respondent uppger att kommunen önskar återkoppling från polisen när 
+de avslutar en särskild händelse så att kommunen kan förbereda sig på att 
+polisnärvaron går ner. Representanter för tre kommuner lyfter upp utvärderingar 
+av polisens och kommunens samarbete vid särskilda händelser som 
+förbättringsområden. Kommunens bild bekräftas av att flera 
+kommenderingschefer uppger att de aldrig eller sällan tar in externa aktörers 
+perspektiv vid utvärderingar av särskilda händelser.189 
+5.2  Det saknas en strukturerad process för 
+kunskapsspridning om särskilda händelser 
+Polismyndigheten har gjort vissa insatser för att muntligen sprida erfarenheter från 
+nationella särskilda händelser. Däremot finns det ingen strukturerad process för att 
+sprida den kunskap och de erfarenheter som genereras vid händelserna. 
+Informationen delas därför sällan inom myndigheten. Inte heller på lokal nivå 
+finns det något strukturerat sätt att sprida medarbetares kunskaper och 
+erfarenheter av att ha skickats till särskilda händelser. När det sker gäller det i 
+huvudsak kunskap som delas muntligen, på den enskilda medarbetarens initiativ. 
+ 
+187   Polismyndigheten, Svar på kompletterande frågor rörande faktagranskning, 2023-02-20. 
+188   Intervjuer med kommenderingschefer maj–september 2022. 
+189   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+Avsaknaden av strukturerad kunskapsspridning gäller inte enbart särskilda 
+händelser riktade mot grov brottslighet. Bilden bekräftas av Polismyndighetens 
+internrevision som har granskat påverkan på linjeverksamheten vid genomförande 
+av i förväg kända särskilda händelser. Internrevisionen konstaterar att den 
+uppföljning som görs inte leder till någon strukturerad och dokumenterad 
+kunskapsdelning varken nationellt, regionalt eller lokalt. Internrevisionen noterar 
+också att den kunskapsdelning som sker huvudsakligen är muntlig.190  
+5.2.1  Viss kunskap och vissa erfarenheter från nationella 
+särskilda händelser har spridits muntligen 
+Några kommenderingschefer framför att det i samband med nationella särskilda 
+händelser har gjorts insatser för att muntligen sprida erfarenheter och lärdomar. 
+Det gäller i synnerhet de särskilda händelserna NSH Rimfrost, NSH Dimma och 
+NSH Val 2022. De insatser som lyfts fram handlar bland annat om överföring av 
+kunskap genom att polisen, fysiskt eller digitalt, under pågående insats har samlat 
+representanter för alla polisregioner och pratat om erfarenheter, lärdomar och 
+avvägningar inför geografiska skiften eller kommande aktiviteter i den pågående 
+särskilda händelsen.191 I samband med att NSH Rimfrost avslutades hölls en 
+workshop med representanter från alla regionala staber och den nationella staben. 
+En del av workshoppen handlade specifikt om erfarenhetsanalys och 
+erfarenhetsåterföring.192  
+5.2.2  Kunskap och erfarenheter från regionala särskilda 
+händelser sprids sällan 
+Flera regionala kommenderingschefer uppger att de efter en avslutad särskild 
+händelse arbetar med strukturerade gruppdiskussioner i form av ”After Action 
+Reviews”. Det varierar däremot om några utöver de som var med vid själva 
+diskussionen får ta del av underlaget. Kommenderingschefer i en polisregion 
+uppger dock att ”After Action Reviews” rutinmässigt återrapporteras både i den 
+regionala ledningsgruppen och när polischefer i beredskap träffas några gånger per 
+termin. De uppger också att det finns dokumenterade sammanställningar av vad de 
+lärt sig.193  
+ 
+190   Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, 2022, s. 12. 
+191   Intervjuer med kommenderingschefer maj–september 2022. 
+192   Intervjuer med kommenderingschefer maj–september 2022. 
+193   Intervjuer med kommenderingschefer maj–september 2022. 
+
+Flera kommenderingschef uppger att staben för den särskilda händelsen skriver 
+erfarenhetsberättelser efter avslutade särskilda händelser. Erfarenhetsberättelserna 
+lagras i en katalog, men det är upp till den enskilda medarbetaren att gå in och titta 
+i denna. En kommenderingschef menar att kunskapen endast sprids muntligen 
+och att det är upp till individen att, med hjälp av någon mer erfaren, hitta sin väg 
+och se vad som fungerar.194  
+Vi noterar alltså att polisen inte systematiskt går igenom erfarenhetsberättelserna 
+från tidigare särskilda händelser eller regelmässigt sprider informationen på annat 
+sätt. Denna bild bekräftas även av Polismyndighetens internrevision som 
+konstaterar att erfarenhetsberättelser är en väsentlig del av polisregionernas 
+uppföljning av särskilda händelser men att det råder oklarhet om vad som faktiskt 
+händer med erfarenhetsberättelserna efter att de lämnats in. Internrevisionen har 
+inte heller sett att det finns någon tydlig koppling mellan erfarenhetsberättelser och 
+utveckling av metodik och/eller utbildning.195 
+5.2.3  Kunskapsdelning sker huvudsakligen på den enskilda 
+medarbetarens initiativ 
+Granskningen visar att medarbetare på lokal nivå uppmuntras av sina chefer att 
+berätta om sina erfarenheter eller nya kunskaper från att ha varit kommenderade 
+till särskilda händelser men att erfarenheterna i merparten av lokalpolisområdena 
+inte sprids på ett strukturerat sätt. I vår fallstudie uppger två 
+lokalpolisområdeschefer att den personal som har skickats till särskilda händelser 
+motiveras att berätta som sina erfarenheter, oavsett om det rör nya kunskaper eller 
+negativa upplevelser.196 Över hälften (56 procent) av lokalpolisområdescheferna 
+uppger i vår enkätundersökning att de inte har något strukturerat sätt för att sprida 
+medarbetares eventuella nya kunskaper och erfarenheter efter att de har varit 
+kommenderade till särskilda händelser.197 Riksrevisionen kan konstatera att 
+kunskapsspridning är ett viktigt verktyg för att öka medvetenheten om bra och 
+dåliga erfarenheter av särskilda händelser. 
+Ingripandepoliser och områdespoliser som vi har intervjuat menar att det finns 
+möjlighet på arbetsplatsen att sprida ny kunskap eller erfarenheter från att ha varit 
+kommenderad till en särskild händelse. Däremot menar de att det är upp till dem 
+själva att sprida kunskapen. Det handlar inte bara om att de tar med sig goda 
+ 
+194   Intervjuer med kommenderingschefer maj–september 2022. 
+195   Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, 2022, s. 12. 
+196   Intervjuer med kommenderingschefer maj–september 2022. 
+197   Riksrevisionens enkätundersökning oktober 2022. 
+
+exempel hem utan också om att de delat med sig av arbetssätt från det egna 
+området till området som de kommenderades till. I ett lokalpolisområde lyfter 
+respondenterna fram att kunskapsöverföring fungerar bra mellan grupper men på 
+strategisk nivå stannar väldigt många idéer i mötesrummen och når inte ut.198  
+I vår fallstudie uppger tre utredare att de har tagit med sig många av de nya 
+lärdomar som de fått genom att ha skickats till särskilda händelser till sin egen 
+arbetsgrupp, och att de också uppmuntras av chefen att sprida kunskapen. Det 
+handlar exempelvis om rutiner och mallar som gör att de kan arbeta mer effektivt 
+och likriktat, eller om kompetens inom telefontömning och filmhantering. En 
+utredare framför att kommendering till särskilda händelser är något positivt, även 
+om det handlar om kollegor som skickas, eftersom de ofta kommer tillbaka med ny 
+kunskap som gynnar hela gruppen. En annan utredare uppger att de inte fick med 
+sig så mycket nya kunskaper utan att de mest reflekterade över vissa mindre 
+detaljer om saker de skulle kunna göra annorlunda. Hade det funnits nya 
+kunskaper att ta med sig hem skulle det i så fall ha skett på eget initiativ.199  
+5.3  Vissa goda exempel har implementerats i linjearbetet 
+Granskningen visar att de nationella särskilda händelserna NSH Rimfrost och 
+NSH Dimma har genererat nya arbetsmetoder på regional nivå. Bland annat har ett 
+regionalt driftcenter (RDC) inrättats i vissa polisregioner, liksom ett regionalt 
+bedrägericentrum. Även på lokal nivå uppges att arbetssätt eller metoder från 
+tidigare genomförda särskilda händelser mot grov brottslighet har implementerats i 
+linjearbetet.  
+Ett RDC är ett forum som är bemannat med olika funktioner200 med syftet att dela 
+lägesbilder med hela polisregionen. Forumet används även för att skapa förståelse 
+för läget i olika geografiska och organisatoriska delar av polisregionen och för att 
+skapa acceptans för hur resurserna prioriteras.201 Kommenderingschefer i fyra 
+polisregioner lyfter fram att regionen som en följd av NSH Rimfrost inrättat ett 
+RDC, eller snarlika lösningar, i linjeverksamheten. Det varierar mellan 
+polisregionerna om det handlar om att samordna och prioritera både 
+underrättelseverksamheten, uniformerad personal och utredningsverksamheten 
+eller enbart en eller ett par av dem.202  
+ 
+198   Riksrevisionens fallstudie augusti–oktober 2022. 
+199   Riksrevisionens fallstudie augusti–oktober 2022. 
+200   Det kan exempelvis handla om representanter för polisområden, underrättelseenheten och 
+brottssamordningsfunktionen.  
+201   Riksrevisionens deltagande i regionalt driftscenter (RDC), 2022-10-11.  
+202   Riksrevisionens fallstudie augusti–oktober 2022. 
+
+I en polisregion finns en öronmärkt RDC-resurs som arbetar kvällar och nätter. 
+Resursen består av 22 poliser inom ingripandeverksamheten och kan sättas in där 
+representanterna för RDC gemensamt bedömer att den behövs för stunden.203 
+En respondent uppger att RDC-resursen bidrar till att linjeverksamheten inte 
+behöver brytas sönder om det uppstår en händelse som kräver stöttning med 
+resurser. Det geografiska avståndet styr hur fort det går att mobilisera RDC-
+resursen men mobiliseringen uppges vara minutoperativ via vakthavande befäl.204  
+Ett annat gott exempel är att det har inrättats regionala bedrägericentrum i två 
+polisregioner som ett resultat av planen för avslut av NSH Dimma.205 Syftet är att 
+polisen ska kunna fokusera på och mer effektivt arbeta med bedrägeribrott.206 
+Nationellt bedrägericentrum (NBC) har även flyttats från polisregion Stockholm till 
+Noa. NBC ansvarar för det strategiskt brottförebyggande arbetet på nationell nivå. 
+De kan också initiera operativa insatser inom området. I samarbetet med 
+polisregionerna kan uppgifter fördelas av NBC till polisregionerna.207  
+Andra exempel på lärande och kompetenshöjning i samband med särskilda 
+händelser som framkommer i våra intervjuer är vissa underrättelsebaserade 
+metoder och en regional konfliktkarta som delas med andra. Erfarenheterna från 
+NSH Rimfrost och andra särskilda händelser i en polisregion har lett till att 
+polisregionen tagit inspiration av arbetssätten när de byggt upp sitt nya operativa 
+ledningssystem. Även vissa lokalpolisområden har börjat bygga upp ett liknande 
+system som det som finns i särskilda händelser gällande stabsfunktioner för att få 
+till en tydlig ledning även i det ordinarie arbetet.208  
+Vår enkätundersökning visar att 11 procent av lokalpolisområdescheferna uppger 
+att arbetssätt, metoder eller liknande från tidigare genomförda särskilda händelser 
+mot grov brottslighet i hög utsträckning har implementerats i linjearbetet i det 
+egna lokalpolisområdet. Det har exempelvis handlat om stabsmetodik, metodiken i 
+Polisens utredning av grova brott (PUG) och lokala driftcenter.209 
+ 
+203   Riksrevisionens deltagande i regionalt driftscenter (RDC), 2022-10-11. 
+204   Riksrevisionens deltagande i regionalt driftscenter (RDC), 2022-10-11. 
+205   Riksrevisionens fallstudie augusti–oktober 2022. 
+206   SVT nyheter, ”Bedrägerierna ökar – nu storsatsar polisen på effektiva utredningar”. 
+207   Polismyndigheten, De organiserade bedrägerierna En rapport om bedrägerier kopplade till 
+organiserade kriminella miljöer, 2021, s. 7. 
+208   Intervjuer med kommenderingschefer maj–september 2022. 
+209   Riksrevisionens enkätundersökning oktober 2022.  
+
+6  Slutsatser och rekommendationer 
+Riksrevisionen har granskat om Polismyndighetens särskilda händelser är en 
+effektiv ledningsform för att bekämpa grov brottslighet. I detta kapitel redovisar 
+Riksrevisionen de bedömningar och slutsatser som har dragits av granskningen 
+och de rekommendationer som lämnas till Polismyndigheten. 
+6.1  Slutsatser  
+Riksrevisionens övergripande slutsats är att särskilda händelser kan vara ett 
+effektivt sätt att leda arbetet under de första timmarna eller dagarna efter att ett 
+grovt brott har begåtts. Riksrevisionens bedömning är emellertid att särskilda 
+händelser som pågår under längre tid gör större skada än nytta eftersom de ofta 
+innebär resursförflyttningar som ger negativa konsekvenser i de lokalpolisområden 
+som måste bistå med resurser. Riksrevisionen bedömer därför att bekämpning av 
+grov brottslighet inte bör ske genom långvariga särskilda händelser.  
+Resursförflyttningar ökar sårbarheten lokalt, inte minst över tid. Polisen får svårare 
+att hantera den grova brottsligheten och att vara synlig i lokalsamhället, vilket kan 
+leda till ökad otrygghet för medborgarna. En annan konsekvens är ökade 
+ärendebalanser som innebär att medborgarna får vänta längre på att få sina 
+polisanmälningar omhändertagna. Den senaste tidens utveckling har inneburit att 
+skjutningar och annan grov brottslighet sprider sig utanför storstadsregionerna, 
+vilket understryker vikten av en närvarande polis i hela landet. Därför är det viktigt 
+att Polismyndigheten utvecklar sin förmåga att följa resursmobilitet inom 
+myndigheten.  
+Brister i Polismyndighetens administrativa system gör att det inte är möjligt att 
+varken mäta effekten av särskilda händelser riktade mot grov brottslighet eller att 
+spåra den totala merkostnaden för dessa, vilket försvårar möjligheten att säkerställa 
+en god hushållning med statens medel. Polismyndighetens resurser är begränsade 
+och för att kunna använda resurserna så effektivt som möjligt är det viktigt att göra 
+väl avvägda bedömningar både inför ett eventuellt beslut om en särskild händelse 
+och under tiden händelsen pågår. Frånvaron av uppföljningar och utvärderingar av 
+särskilda händelser inom Polismyndigheten begränsar möjligheten att tillvarata 
+erfarenheter från dem och bedöma uppfyllelsen av uppsatta mål. Sammantaget blir 
+underlaget för framtida strategiska beslut om särskilda händelser mycket 
+begränsat. Riksrevisionen bedömer att det är viktigt att regeringen 
+uppmärksammar de brister som framkommer i granskningen. 
+
+Granskningens huvudsakliga slutsatser utvecklas i följande delavsnitt: 
+6.1.1  Det saknas underlag för att mäta om särskilda händelser 
+riktade mot grov brottslighet har gett effekt 
+Granskningen visar att varken Polismyndigheten eller tillfrågade kommuner kan 
+redogöra för hur eller i vilken utsträckning särskilda händelser har bidragit till att 
+bekämpa grov brottslighet. Polismyndigheten har inte någon total 
+sammanställning av antalet särskilda händelser och det underlag som finns är 
+behäftat med stora brister. Riksrevisionens bedömning är därmed att det inte är 
+möjligt att mäta om särskilda händelser riktade mot grov brottslighet har gett 
+effekt. Att Polismyndigheten registrerar och dokumenterar relevant underlag om 
+särskilda händelser är en förutsättning för att få en bild av hur polisen arbetar med 
+särskilda händelser och hur utvecklingen sett ut över tid.  
+Uppgifter om under hur lång tid en särskild händelse pågick, hur många 
+årsarbetskrafter som involverades eller från vilken eller vilka delar av myndigheten 
+som resurser skickades är viktiga för att få en bild av hur särskilda händelser 
+belastar Polismyndighetens totala resurs. Information om vilka polisiära eller 
+utredningsmässiga åtgärder som har genomförts inom ramen för särskilda 
+händelser riktade mot grov brottslighet är betydelsefull för att kunna uttala sig om 
+händelsernas eventuella positiva och negativa effekter. Det bristande underlaget om 
+särskilda händelser har begränsat Riksrevisionens möjlighet att dra vidare 
+slutsatser av sammanställningen.  
+När det gäller målsättningar som är kopplade till särskilda händelser bedömer 
+Riksrevisionen att Polismyndigheten behöver utveckla sitt arbete med att 
+säkerställa att dessa uppfylls. Information om huruvida målsättningarna har 
+uppnåtts ger värdefull kunskap om utfallet av den särskilda händelsen och är viktigt 
+för att kunna avgöra när det är läge att avsluta den särskilda händelsen. 
+Majoriteten av respondenterna i granskningen upplever att särskilda händelser har 
+störst effekt i det korta perspektivet, vilket innebär under några timmar upp till 
+ungefär en vecka. Riksrevisionen kan konstatera att grov brottslighet inte är en 
+företeelse som går att lösa över en natt. Till skillnad från exempelvis en 
+fotbollsmatch eller demonstration har händelser som rör grov brottslighet sällan ett 
+start- och ett slutdatum. I de flesta fall bottnar det i ett samhällsproblem som har 
+växt fram under lång tid. Förmågan att hantera grov brottslighet behöver finnas i 
+den ordinarie linjeverksamheten eftersom lokalkännedom och samverkan med 
+berörda aktörer över tid är avgörande för att lyckas i arbetet. 
+
+6.1.2  Polismyndigheten genomför inte särskilda händelser på ett 
+effektivt sätt 
+Granskningen visar att det inte finns några tydliga kriterier för att besluta om 
+särskilda händelser. Det innebär att bedömningen i grunden är subjektiv och kan 
+variera från person till person. Samtidigt ger beslut om en särskild händelse ett 
+kraftfullt mandat med näst intill fri tillgång till resurser, och därmed ett stort 
+ansvar för den som är kommenderingschef. Riksrevisionen konstaterar att det mot 
+bakgrund av detta mandat bör finnas en tydlighet i på vilka grunder 
+Polismyndigheten fattar beslut om att inleda en särskild händelse. Det är också 
+viktigt att mandatet inte används enbart som ett sätt att få tillgång till resurser. 
+Närmare en tredjedel av de tillfrågade lokalpolisområdescheferna uppger i 
+Riksrevisionens enkätundersökning att särskilda händelser riktade mot grov 
+brottslighet till största delen kunde ha hanterats av linjeverksamheten. Detta hade 
+dock enligt respondenterna bland annat förutsatt en tydligare ledning och styrning. 
+Riksrevisionen kan konstatera att särskilda händelser kan vara ett symptom på ett 
+större problem inom Polismyndigheten, som innebär att ledningen och styrningen 
+inte fungerar. Eftersom en särskild händelse möjliggör för polisen att arbeta 
+koncentrerat mot ett specifikt problem är det naturligt att det ökar 
+förutsättningarna för att styra arbetet. Polisens vardagliga arbete inom 
+linjeverksamheten innebär en stor variation av problem som ska hanteras, och det 
+är viktigt att det arbetet fungerar. Det är viktigt att dela information och att det 
+finns en tillit inom organisationen.  
+Vidare konstaterar Riksrevisionen att det finns en risk för att begreppet särskild 
+händelse urholkas om ledningsformen används i allt fler typer av situationer. Den 
+särskilda händelsen blir inte längre särskild, och det ökar risken för att de särskilda 
+händelserna pågår under allt längre tid. Riksrevisionen bedömer att 
+Polismyndigheten behöver se över hur ledningen och styrningen kan förbättras 
+inom myndigheten för att undvika att särskilda händelser används som en lösning 
+på problemet. 
+Vidare visar granskningen att Polismyndigheten inte kan redogöra för den totala 
+merkostnaden för särskilda händelser riktade mot grov brottslighet. För över 
+hälften av händelserna (53,5 procent) är det inte möjligt att spåra eventuella 
+merkostnader. Övriga merkostnader uppgår till närmare 116 miljoner kronor. 
+Riksrevisionen kan ändå konstatera att särskilda händelser genererar stora 
+merkostnader utöver kostnaden för personalens grundlön. Även detta bör vara ett 
+incitament för att noga överväga om ett grovt brott ska hanteras som en särskild 
+
+händelse eller inte, och för att löpande bedöma av hur länge den särskilda 
+händelsen ska pågå.  
+Den tillfälliga resursförflyttningen till polisregion Stockholm som påbörjades i 
+januari 2022, och sedermera övergick till en regional särskild händelse, visar 
+indikationer på ineffektivt resursutnyttjande. Riksrevisionen kan konstatera att 
+långvarig resursförflyttning leder till en ökad sårbarhet på lokal nivå oavsett om 
+förflyttningen sker inom eller utom ramen för en särskild händelse. Riksrevisionen 
+bedömer att det är av stor vikt att Polismyndigheten förbättrar det underlag som 
+används vid bedömning inför resursförflyttningar, både inom ramen för särskilda 
+händelser och i andra fall. Detta gäller i synnerhet om resursförflyttningarna 
+planeras i förväg.  
+Den som fattar beslut behöver göra en grundlig bedömning av om huruvida 
+problemet ska hanteras inom ramen för en särskild händelse och på vilka grunder, 
+och av vilken kompetens som behövs och vilket antal resurser som är nödvändigt. 
+I detta arbete är det viktigt att hämta in och värdera lokalpolisområdenas 
+lägesbilder eller motsvarande. Bedömningen bör ske löpande under tiden 
+resursförflyttningen pågår för att säkerställa att den förstärkande resursen används 
+på ett effektivt sätt. Överflödiga resurser bör återgå till sin ordinarie arbetsplats. 
+Riksrevisionen bedömer även att det vid tillfälliga resursförflyttningar är rimligt att 
+Noa ställer krav på att den eller de polisregioner som fått beslut om att skicka 
+resurser redogör för hur resurserna har använts. För att öka tilliten och skapa en 
+förståelse för varför det finns ett behov av att skicka resurser är det även viktigt med 
+tydlig kommunikation inom myndigheten och att dela lägesbilden för att förklara 
+hur behovet ser ut på olika ställen.  
+Polismyndighetens riktlinjer och handbok för särskilda händelser uppges i 
+intervjuer utgöra ett stöd i arbetet. Dock saknas underlag om planering för avslut av 
+särskilda händelser, vilket är en central del i genomförandet av särskilda händelser 
+riktade mot grov brottslighet. Det är Riksrevisionens uppfattning att planering för 
+avslut av den särskilda händelsen bör påbörjas så tidigt som möjligt och 
+genomföras i samverkan med det berörda lokalpolisområdet, som i de flesta fall ska 
+ta över arbetet när den särskilda händelsen avslutas. 
+Vidare visar granskningen att det är viktigt att Polismyndigheten ser över sina 
+arbetsmetoder innan de beslutar om särskilda händelser, vilket Riksrevisionen 
+bedömer är rimligt. Långvariga resursförflyttningar begränsar polisens möjlighet 
+att vara synliga i lokalsamhället och tillämpa relevanta arbetsmetoder lokalt, vilket 
+riskerar att öka problemen med grov brottslighet i det egna lokalpolisområdet. 
+
+Riksrevisionen bedömer att det är av stor vikt att polisen arbetar enligt vedertagna 
+metoder i arbetet med att bekämpa grov brottslighet. 
+Majoriteten av lokalpolisområdescheferna uppger i intervjuer att 
+kommenderingschefen eller staben inte tar hänsyn till negativa konsekvenser i 
+lokalpolisområdet vid begäran om resurs, och att de inte upplever sig ha något att 
+säga till om. Riksrevisionen bedömer att det är viktigt att involvera de berörda 
+lokalpolisområdescheferna när det gäller begäran om resurs. 
+Lokalpolisområdeschefen är den som har bäst överblick över de behov som 
+lokalpolisområdet har utifrån sin aktuella problembild. 
+Vidare konstaterar Riksrevisionen att polisens samverkan med kommunerna 
+behöver förbättras när det gäller särskilda händelser, bland annat när det gäller 
+polisens information till kommunen om att en särskild händelse har inletts. 
+Riksrevisionens bedömning är att samverkan mellan polisen och berörda aktörer 
+såsom kommunen är en förutsättning för att lyckas i arbetet med att bekämpa grov 
+brottslighet, till exempel när det gäller att förebygga och förhindra att unga 
+rekryteras till kriminella nätverk. Därmed är det viktigt att hitta forum för 
+samverkan och att dela varandras perspektiv och erfarenheter. 
+6.1.3  Polismyndigheten har inte gjort tillräckligt för att tillvarata 
+kunskap och erfarenheter från särskilda händelser  
+Granskningen visar att Polismyndigheten inte är en lärande organisation vad gäller 
+arbetet med särskilda händelser. Varken uppföljning eller utvärdering genomförs i 
+någon egentlig utsträckning vilket innebär att det blir svårt att tillvarata kunskap 
+och erfarenheter. Enligt Polismyndighetens handbok ska särskilda händelser följas 
+upp om det inte är uppenbart onödigt, vilket enligt Riksrevisionens bedömning 
+borde inkludera merparten av alla särskilda händelser. Trots det gjordes endast 
+16 uppföljningar under perioden maj 2019–maj 2022, varav endast en avser en 
+särskild händelse riktad mot grov brottslighet. Detta kan jämföras med att det 
+inleddes 362 särskilda händelser under perioden 2020–2021. 
+Riksrevisionen bedömer att det är av stor vikt att Polismyndigheten i högre 
+utsträckning följer upp och utvärderar särskilda händelser. Om Polismyndigheten 
+inte säkerställer att kunskap och erfarenheter från särskilda händelser omhändertas 
+finns det en risk för att myndigheten beslutar om särskilda händelser för ofta och 
+vid fel tillfällen, och för att resurserna inte används på ett effektivt sätt. 
+Riksrevisionen bedömer även att det vore värdefullt för Polismyndigheten att 
+utveckla sin uppföljningsmall för särskilda händelser innehållsmässigt. På så vis 
+kan myndigheten öka kunskapen om exempelvis vilka metoder som användes i 
+
+olika situationer och hur de fungerade för att hantera det aktuella problemet. En 
+del i det arbetet kan vara att involvera kommunernas perspektiv i högre grad än i 
+dagsläget, eftersom de är en viktig samverkande aktör vid bland annat särskilda 
+händelser som rör grov brottslighet.  
+Vidare visar granskningen att det inte finns någon strukturerad process för att 
+sprida kunskap inom Polismyndigheten, vilket försvårar möjligheten att dela 
+erfarenheter av exempelvis bra eller mindre bra arbetsmetoder. Kunskap och 
+erfarenheter av särskilda händelser sprids i stället huvudsakligen muntligt och på 
+den enskilda medarbetarens initiativ. Riksrevisionen kan konstatera att det är 
+betydelsefullt att Polismyndigheten i högre utsträckning och på ett strukturerat sätt 
+sprider kunskap om eventuella framgångsfaktorer och risker i arbetet med 
+särskilda händelser. Detta är viktigt bland annat för att utveckla arbetet och undvika 
+att upprepa samma misstag flera gånger. 
+Riksrevisionen kan konstatera att det finns goda exempel att hämta från tidigare 
+genomförda särskilda händelser riktade mot grov brottslighet. Ett sådant exempel 
+är den öronmärkta resurs som finns i en polisregion och som gör det möjligt att 
+utnyttja den befintliga resursen på ett bättre sätt, och därmed undvika att beslut om 
+särskilda händelser fattas i onödan. För att öka förutsättningarna att kunna 
+implementera goda exempel i samband med särskilda händelser är det enligt 
+Riksrevisionens bedömning viktigt att Polismyndigheten ökar frekvensen av 
+uppföljning, utvärdering och kunskapsspridning. Det förbättrar även möjligheten 
+att identifiera goda exempel och brister i arbetet med särskilda händelser riktade 
+mot grov brottslighet.  
+Polismyndighetens internrevision har granskat hur linjeverksamheten påverkas 
+i samband med i förväg kända särskilda händelser, och lämnat en rad 
+rekommendationer. Det handlar bland annat om att öka möjligheten till 
+kunskapsspridning inom myndigheten och att följa upp den resurstid som läggs på 
+särskilda händelser. Riksrevisionen bedömer att det är viktigt att Polismyndigheten 
+utvecklar sin verksamhet enligt de rekommendationer som myndighetens 
+internrevision har lämnat. 
+6.2  Rekommendationer 
+Med utgångspunkt i granskningens resultat lämnar Riksrevisionen följande 
+rekommendationer till Polismyndigheten:  
+•  Utveckla kriterier som underlag inför beslut om en situation ska hanteras 
+inom ramen för en regional respektive nationell särskild händelse. 
+
+•  Ta fram en nationell lägesbild att utgå från inför beslut om 
+resursförflyttningar. Lägesbilden bör uppdateras regelbundet och delas vid 
+behov. 
+•  Utveckla dokumentationen av särskilda händelser så att det är möjligt att 
+kontinuerligt följa antal, omfattning, kostnader, resursmobilitet samt 
+aktuella polisiära och utredningsmässiga åtgärder.  
+•  Följ upp och utvärdera särskilda händelser. Underlagen bör dokumenteras 
+och ge information om eventuella framgångsfaktorer eller risker med 
+särskilda händelser som kan utveckla arbetet framåt.  
+•  Säkerställ att kunskaper och erfarenheter om särskilda händelser sprids på 
+ett systematiserat sätt till alla berörda delar av organisationen. 
+
+Referenslista 
+Rapporter och granskningar 
+Brottsförebyggande rådet, Dödligt skjutvapenvåld i Sverige och andra europeiska länder 
+– En jämförande studie av nivåer, trender och våldsmetoder, rapport 2021:8, 
+Brottsförebyggande rådet, 2021. 
+Brottsförebyggande rådet, Insatser mot brott och otrygghet i socialt utsatta områden – 
+en kunskapsöversikt, rapport 2016:20, Brottsförebyggande rådet, 2016. 
+Brottsförebyggande rådet, Operationerna Alfred och Selma, rapport 2014:13, 
+Brottsförebyggande rådet, 2014. 
+Ivarsson Westerberg, A., Reform i uniform – Polisens stora omorganisation 
+Studentlitteratur AB, 2020. 
+Malmö universitet, Effektutvärdering av Sluta skjut – en strategi för att minska det 
+grova våldet, FoU rapport 2021:2, Malmö universitet, 2021. 
+Polismyndigheten, De organiserade bedrägerierna – En rapport om bedrägerier 
+kopplade till organiserade kriminella miljöer, dnr A354.340/2021, Nationella operativa 
+avdelningen, 2021.  
+Polismyndigheten, Granskning av linjeverksamhetens påverkan vid genomförande av i förväg 
+känd särskild händelse, dnr A703.412/2020, Polismyndighetens internrevision, 2022. 
+Polismyndigheten, Polismyndighetens revisionsplan för 2020–2022, PM 2020:34, 
+Polismyndighetens internrevision, 2020. 
+Polismyndigheten, Uppföljning av NSH Rimfrost – Sammanställning av erfarenheter, 
+lärdomar och identifierade problem, dnr A584.442/2019, Nationella operativa 
+avdelningen, 2021. 
+Polismyndigheten, Årsredovisning 2020, 2021. 
+Polismyndigheten, Ökat antal avlidna i samband med polisens våldsanvändning med 
+skjutvapen, tillsynsrapport 2020:3, Rikspolischefens kansli, 2020.  
+Rikspolisstyrelsen, Inspektion av Operation Alfred och Selma vid Polismyndigheten i 
+Skåne, tillsynsrapport 2013:16, Rikspolisstyrelsen, 2013. 
+Riksrevisionen, Rätt insats på rätt plats – polisens effektivitet i utsatta områden, RiR 
+2020:20, Riksrevisionen, 2020. 
+Statskontoret, Ombildningen till en sammanhållen polismyndighet, rapport 2018:18, 
+Statskontoret, 2018. 
+
+Regeringsbeslut 
+Regeringsbeslut Ju2016/08896/LP(delvis), Ju2014/07900/PO(delvis), 
+Ju2015/05405/PO m.fl., Regleringsbrev för budgetåret 2017 avseende Polismyndigheten. 
+Regeringsbeslut Ju2017/09598/LP(delvis), Ju2007/01154/Å, Ju2016/07818/PO 
+m.fl., Regleringsbrev för budgetåret 2018 avseende Polismyndigheten. 
+Lagar, förordningar och föreskrifter 
+Polislagen (1984:387). 
+Förordningen (2014:1102) med instruktion för Polismyndigheten som den 1 
+januari 2023 har ersatts av förordningen (2022:1718) med instruktion för 
+Polismyndigheten. 
+Myndighetsförordningen (2007:515). 
+Rikspolisstyrelsens föreskrifter och allmänna råd om användning av IT-stödet 
+Polisens underrättelsemodell – Applikationer (PUM-A) (RPSFS 2012:20, FAP 193-1).  
+Riksdagstryck 
+Dir. 2012:129, Ombildning av polisen till en sammanhållen myndighet.  
+Justitieutskottets betänkande 2017/18:JuU1, Utgiftsområde 4 Rättsväsendet. 
+Justitieutskottets betänkande 2019/20:JuU1, Utgiftsområde 4 Rättsväsendet. 
+Justitieutskottets betänkande 2019/20:JuU25, Polisfrågor.  
+Skr. 2016/17:126, Tillsammans mot brott – ett nationellt brottsförebyggande program. 
+Artiklar och webbsidor 
+Delin, M. och Jakobson, H., ”Polischefen varnar: Rimfrost kan kastrera lokala 
+polisen”, Dagens Nyheter, 2020-02-12, 
+https://www.dn.se/nyheter/sverige/polischefenvarnar-rimfrostkan-kastreralokala-polisen/, hämtad 2022-03-29. 
+Halldén, B., ”Kriminolog: Därför skadas allt oftare utomstående vid 
+gängskjutningar”, Dagens Nyheter, 2021-07-20 
+https://www.dn.se/sthlm/kriminologdarfor-skadasallt-oftareutomstaende-vidgangskjutningar/, hämtad 2022-03-30. 
+
+Polisen, ”Nationella förstärkningsorganisationen – polisens arbete”, 
+https://polisen.se/ompolisen/polisensarbete/forstarkningsorganisationen/, 
+hämtad 2022-09-20. 
+Polisen, ”Särskild händelse – polisens arbete”, https://polisen.se/ompolisen/polisensarbete/sarskildhandelse/, hämtad 2022-09-22. 
+Sveriges radio, ”Efter skjutningarna: Polisen inleder särskild händelse”, 2020-08-30, 
+https://sverigesradio.se/artikel/7543236, hämtad 2022-12-02. 
+Sveriges radio, ”Polisens drag efter dödsskjutningarna: Startar särskild händelse”, 
+2022-10-07, https://sverigesradio.se/artikel/polisenstartar-sarskildhandelse-efterdodsskjutningar-i-sodertalje, hämtad 2022-12-02. 
+SVT nyheter, ”Bedrägerierna ökar – nu storsatsar polisen på effektiva utredningar”, 
+2021-04-26, https://www.svt.se/nyheter/lokalt/orebro/bedragericenter, hämtad 
+2022-12-01. 
+SVT nyheter, ”Operation Lynx riktar sig mot kriminella nätverk”, 2017-12-15, 
+https://www.svt.se/nyheter/lokalt/uppsala/operationlynx-forstavecka, hämtad 
+2022-12-02. 
+SVT nyheter, ”Polisen: ”Första timmarna är viktiga i mordutredningar”, 2022-10-16, 
+https://www.svt.se/nyheter/lokalt/vast/polisenforsta-timmarnaar-viktigai-
+mordutredningar, hämtad 2022-12-02. 
+SVT nyheter, ”Så ska polisen bryta våldskurvan”, 2018-01-08, 
+https://www.svt.se/nyheter/lokalt/stockholm/saska-polisenbryta-valdskurvan, 
+hämtad 2022-12-02. 
+TT, ”Polisen: Inga tecken på minskning av skjutvapenvåldet”, Svenska Dagbladet, 
+2022-09-30, https://www.svd.se/a/WRjRLj/polisenhaller-presstraffefter-
+valdsutveckling, hämtad 2022-09-30. 
+TT, ”Gängkrigen som lyser rött – ”Skört läge””, VästerbottensKuriren, 2022-06-11, 
+https://www.vk.se/2022-06-11/gangkrigensom-lyserrott-skortlage, hämtad  
+2022-11-11. 
+Övrigt 
+Polismyndigheten, biträdesbegäran/förstärkning 2021-10-28, dnr HD 5300-
+35/2021. 
+Polismyndigheten, beslutsprotokoll 2021-12-14, dnr HD 5300-35/2021. 
+
+Polismyndigheten, beslutsprotokoll 2022-10-05, dnr A560.908/2022. 
+Polismyndigheten, beslutsprotokoll 2023-02-16, dnr A714.017/2022. 
+Polismyndigheten, Arbetsordning för Polismyndigheten, PM 2015:39, 2015. 
+Polismyndigheten, Arbetsordning för Polismyndigheten, PM 2016:01, 2016. 
+Polismyndigheten, Arbetsordning för Polismyndigheten, PM 2017:43, 2017. 
+Polismyndigheten, Arbetsordning för Polismyndigheten, PM 2018:21, 2018. 
+Polismyndigheten, Arbetsordning för Polismyndigheten, PM 2019:23, 2019.  
+Polismyndigheten, Arbetsordning för Polismyndigheten, PM 2020:26, 2020. 
+Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, PM 
+2019:36, Polismyndigheten, 2019.  
+Polismyndigheten, Polismyndighetens handbok för ledning vid särskilda händelser, PM 
+2020:21, Polismyndigheten, 2020.  
+Polismyndigheten, Uppdragsbeskrivning för områdespolis respektive kommunpolis, dnr 
+A149.893/2015, Polismyndigheten, 2015. 
+
+Bilaga 1. Metod 
+I granskningen ingår två statistikbearbetningar vars tillvägagångsätt beskrivs här. 
+Den första bearbetningen (A) avser det totala antalet särskilda händelser som finns 
+registrerade i Polismyndighetens system. Det totala antalet särskilda händelser har 
+sedan använts som utgångspunkt för att inhämta underlag till den andra 
+bearbetningen (B) som avser merkostnaden för särskilda händelser riktade mot 
+grov brottslighet under perioden 2015–2021. 
+A. Antal särskilda händelser 
+För att skapa en sammanställning av det totala antalet särskilda händelser som 
+finns registrerade i Polismyndighetens ärendehanteringssystem (Pär) och IT-stöd 
+för dokumentation av planlagd verksamhet (PUM-A) har vi genomfört 
+bearbetningar genom nedanstående steg.  
+Rensning av PUM-A och Pär 
+Datamaterialet som vi utgick från omfattade åtgärder med koppling till särskilda 
+händelser som inleddes under 2015–2021. PUM-A innehöll 1 010 rader och Pär 
+2 585 rader med koppling till särskilda händelser. 
+Samma händelse kan vara bokförd i både PUM-A och Pär. Dessutom kan samma 
+händelse vara bokförd en eller flera gånger inom respektive system. En enkel 
+summering av alla händelser i PUM-A och Pär (motsvarar 3 595 rader) innebar 
+därför en överskattning av antalet särskilda händelser. Därför identifierade vi två 
+typer av dubbletter. Vi använder begreppet horisontella dubbletter när en händelse 
+har bokförts i både PUM-A och Pär. När dubbletterna uppstått inom respektive 
+system använder vi begreppet vertikala dubbletter. 
+Vad som var en dubblett bedömdes genom en manuell kontroll. I vissa fall kunde 
+det avgöras enkelt, exempelvis om en händelse beskrevs i specifika termer och 
+datum och polisregion matchade exakt. Men ibland var beskrivningarna mer 
+generella och datumen matchade inte exakt. Ett absolut kriterium för att bedömas 
+som en dubblett var att polisregionen matchade, men sedan kunde två händelser 
+bedömas som en dubblett även om beskrivningen inte var exakt lika och datumen 
+inte matchade exakt. 
+Horisontella dubbletter 
+Om en särskild händelse var bokförd i både PUM-A och Pär behöll vi händelsen 
+såsom den bokförts i PUM-A eftersom det fanns mer informationsvärde i PUM-A. 
+
+Vad som faktiskt var en dubblett avgjordes av en manuell kontroll. Antalet möjliga 
+kombinationer som vi behövde jämföra var enormt. Om alla rader inom respektive 
+polisregion skulle jämföras manuellt fanns det 376 309 möjliga kombinationer att 
+jämföra. 
+För att minska antalet potentiella jämförelser mellan beskrivningarna av 
+händelserna använde vi två kvantitativa textanalysmetoder: syntaktisk närhet och 
+semantisk närhet. Den horisontella dubblettrensningen gjordes enligt följande 
+steg: 
+1.  När en beskrivning hade snarlik syntax210 flaggades de för manuell 
+bedömning. Om en beskrivning ansågs vara en horisontell dubblett behöll 
+vi den bokförda raden i PUM-A och raderade den överflödiga raden i Pär. 
+2.  Samma procedur upprepades med semantisk närhet211 på det rensade 
+datamaterialet för polisregionerna Syd, Väst och Stockholm (de andra 
+polisregionerna gicks igenom för hand utan maskinell flaggning). 
+3.  När alla horisontella dubbletter hade åtgärdats slog vi ihop de båda tabellerna 
+till en. 
+Sammantaget identifierade vi 192 observationer i Pär som överflödiga (dvs. det 
+fanns en dubblett i PUM-A). 
+Vertikala dubbletter 
+Den vertikala dubblettrensningen gjordes enligt följande steg: 
+1.  Perfekta dubbletter avseende beskrivning, polisregion och datum rensades 
+ut (84 observationer). 
+2.  Dubbletter avseende beskrivning och polisregion men med varierande 
+datum rensades endast ut om det fanns ett datum i beskrivningen som var 
+identiskt med en annan potentiell dubblett (14 observationer). 
+ 
+210   Snarlik syntax beräknas med Levenshteindistansen. Distansen är ett tal som återger antalet 
+teckenförändringar som krävs för att båda uttrycken som jämförs ska bli identiska. 
+Beräkningarna normaliseras sedan till ett tal mellan 0 och 100, där 100 visar att uttrycken är 
+100 procent identiska (detta görs för att hantera att uttrycken är olika långa). Alla möjliga 
+kombinationer beräknas. Uttryck som överstiger 60 har flaggats för manuell kontroll. Detta 
+resulterade i 107 flaggningar. 
+211   Alla beskrivningar av händelsen vektoriseras, dvs. transformeras till en vektor med längden 
+768 där varje element är ett kontinuerligt tal mellan -1 och 1. Sedan beräknas avstånden 
+mellan alla dessa vektorer med cosinuslikhet. Alla möjliga kombinationer beräknas och de 
+vars likhet överstiger 0,7 flaggas för manuell kontroll. Vektoriseringen görs med en s.k. 
+transformer som är tränad av KB-Lab: https://kblabb.github.io/posts/2021-08-23-a-swedishsentence-transformer/. 
+
+3.  Syntaktisk närhet beräknades inom polisregioner och år. Detta 
+kontrollerades och bedömdes manuellt. Om två eller flera rader bedömdes 
+gälla samma händelse behöll vi endast den första observationen 
+(32 observationer). 
+Sammantaget identifierade vi 130 observationer som överflödiga (dvs. det fanns en 
+dubblett i den sammanslagna tabellen som innehöll observationer från både Pär 
+och PUM-A).  
+Sammantaget exkluderade vi 322 observationer som vi bedömde som horisontella 
+eller vertikala dubbletter.  
+Felaktiga registreringar etc. 
+Vi fann 23 observationer som kunde betraktas som felregistreringar. De innehöll 
+varierande former av: ”makulerat”, ”felregistrering”, ”.”, ”inställd”, ”kopia” och 
+”dubbelförd”. 
+När dessa felaktiga observationer exkluderades hade vi 3 250 särskilda händelser 
+kvar. 
+Dessutom rörde  
+•  1120 observationer Säkerhetskontroll i domstol vilka exkluderades på grund av 
+att det i huvudsak bara var två polisregioner som registrerade det som en 
+särskild händelse 
+•  104 observationer Insatser vid kärnteknisk anläggning/transport av kärnämne 
+vilka exkluderades på grund av att det till stor del handlade om 
+dokumentation och administration snarare än operativ verksamhet 
+•  324 observationer administrativa åtgärder i samband med särskilda 
+händelser  
+•  44 observationer händelser med hänvisning till hemliga diariet vilka 
+exkluderades då vi avgränsat bort händelser som omfattas av sekretess. 
+När vi exkluderat dessa observationer hade vi 1 658 särskilda händelser kvar. 
+Kategorisering 
+Observationerna i PUM-A är redan från början kategoriserade utifrån vilken typ av 
+särskild händelse som ärendet avser. Observationerna i Pär är däremot 
+kategoriserade utifrån saknummer vilket inte ger lika detaljerad information om 
+vilken typ av händelse det handlar om. Mot bakgrund av det kategoriserade vi 
+
+Pärärendena på egen hand, baserat på ärendemeningarna, utifrån kategorierna i 
+PUM-A. Vi erbjöd sedan respektive polisregion och Noa att kvalitetssäkra de 
+kategoriseringar som vi genomfört. De observationer där det inte på ett tydligt sätt 
+framgick vilken typ av särskild händelse ärendet avsåg skickade vi till respektive 
+polisregion och Noa och bad dem att kategorisera ärendena utifrån kategorierna i 
+PUM-A.  
+När datamaterialet hade kvalitetssäkrats och kategoriserats av polisregionerna och 
+Noa och skickats åter till Riksrevisionen, hade det minskat med 53 observationer 
+till 1 605 observationer. Minskningen bestod till största del av ärenden som 
+Polismyndigheten bedömt varit felregistrerade. 
+Rensning baserat på stoppord och komplexa dubbletter 
+I nästa steg skapade vi en stoppordlista för att fånga upp de ärenden som inte 
+bedömdes vara en särskild händelse. Stoppordlistan bestod av följande regexkod: 
+”uppföljning|utvärdering|erfarenhetsberättelse|planering|återuppta| 
+avslutainriktning|operationsorder|fråga|rutin|förlängning|funktionsuppföljn
+ing|kallelse|återkallelse|ändring|ansökan|stabsarbete|samordning|biträde|ber
+edskapsläge|normativ|planläggning” 
+Dessutom undersöktes en rad ord som misstänktes vara dubbletter, exempelvis 
+"corona|covid|pandemi. Alla träffar granskades manuellt. Dessa bearbetningar 
+minskade antalet observationer med 49 till 1 556. 
+Sammanställning av särskilda händelser utifrån kategori 
+Sammantaget exkluderade vi 2039 observationer ur sammanställningen som vi 
+eller Polismyndigheten bedömde vara dubbletter, felregistreringar eller 
+administrativa åtgärder kopplade till särskilda händelser eller som av andra skäl 
+inte bedömdes vara faktiska särskilda händelser. De återstående 1 556 
+observationerna har sammanställts efter vilken kategori de tillhör i nedanstående 
+tabell. 
+
+Tabell 1 Antal särskilda händelser registrerade i Pär och PUM-A, uppdelade efter 
+inriktning, 2015–2021212 
+Kategori  Antal 
+Offentliga tillställningar  313 
+Bevakningsuppdrag  311 
+Grov brottslighet – annat utanför GOB-uppdraget  230 
+Allmänna sammankomster  198 
+Våld  152 
+Sabotage och bombhot  72 
+Ordningsstörande händelser  61 
+Räddningstjänst  39 
+Övrigt   36 
+Krisberedskap  29 
+Gemensam verksamhet  28 
+Grov brottslighet – GOB-uppdraget  15 
+Övriga BrB-brott  12 
+Övriga specialstraffrättsliga brott  12 
+Trygghet  9 
+Mängd- och seriebrottslighet  8 
+Skadegörelse  6 
+Bedrägeri  6 
+Narkotika  5 
+Tillsynsarbete  5 
+Trafik  4 
+Livsstilskriminella  2 
+Tillgrepp  2 
+Övriga brott mot person  1 
+Totalsumma  1 556 
+ 
+212   De särskilda händelserna har inletts på Noa, på nationell nivå eller på regional nivå. 
+Nationella särskilda händelser har i vissa fall även inneburit att det funnits regionala särskilda 
+händelser, varpå dessa i sådana fall utgör flera observationer i sammanställningen.  
+
+B. Merkostnader 
+Baserat på sammanställningen av särskilda händelser (tabell 1) begärde vi in 
+underlag från polisregionerna och Noa avseende merkostnader gällande de 
+230 särskilda händelserna i kategorin Grov brottslighet – annat utanför GOB-
+uppdraget. Merkostnaderna kan exempelvis utgöras av kostnader för resor, hotell, 
+traktamente, övertidstillägg eller tidsförskjutningstillägg. Underlaget avseende de 
+totala merkostnaderna har sammanställts i nedanstående tabell. Totalt 77 av de 
+230 särskilda händelserna har en merkostnad angiven, och 30 händelser uppges 
+inte ha genererat någon merkostnad. Det innebär att vi saknar uppgifter om 
+eventuella merkostnader för 123 händelser, vilket motsvarar 53,5 procent av de 
+särskilda händelserna mot grov brottslighet. Polisregionerna och Noa har erbjudits 
+att kvalitetssäkra sammanställningen utifrån respektive polisregions eller 
+avdelnings uppgifter. 
+Tabell 2 Merkostnader avseende särskilda händelser mot grov brottslighet 2015–2021 
+  Totalt 
+Kostnad (kronor)213  115 551 700 
+Antal händelser totalt  230 
+Antal händelser med kostnader  77 
+Antal händelser med 0 kr merkostnad214  30 
+Antal händelser där ev. merkostnader inte går att spåra  123 
+Andel händelser där ev. merkostnader inte går att spåra  53,5 % 
+ 
+213   En polisregion redovisade även merkostnader för andra särskilda händelser som inte ingår i 
+vår sammanställning motsvarande cirka 2,5 miljoner kronor. Dessa merkostnader har inte 
+räknats med i totalen eftersom vi inte kan säkerställa att de avser särskilda händelser riktade 
+mot grov brottslighet. 60,9 miljoner kronor utgjordes av kostnaden för den nationella 
+särskilda händelsen NSH Rimfrost. 
+214   Kategorin omfattar även särskilda händelser som slagits ihop med andra särskilda händelser 
+varpå ingen separat merkostnad bokförts för dessa särskilda händelser.  
+
+Bilaga 2. Stabens organisation  
+En särskild händelse organiseras och leds som en polisoperation eller en 
+polisinsats.215 216 Vid beslut om en särskild händelse kan en stab organiseras till 
+stöd för kommenderingschefens ledning av polisoperationen eller polisinsatsen. 
+Stabens storlek och de funktioner som ingår anpassas utifrån ledningsbehovet. 
+Figur 1 Organisation av kommenderingschefens stab 
+Personaltjänst 
+Stabschef
+(N1/R1)
+Underrättelser 
+Stabssekreterare (N2/R2)
+Operativ samordning  Operationscentrum 
+(N3/R3) (OPC)
+Logistik  Planering
+(N4/R4) (N3/R3 Plan) 
+Planering och strategisk  Samordning av utredning 
+operation/insatsanalys (N5/R5) och spaning (N3/R3-K)
+Tekniska ledningssystem  Behov
+(N6/R6) (N3/R3 Behov)
+Kommunikation 
+(N7/R7)
+Ekonomi, juridik  
+(N8/R8)
+Samverkan
+(N9/R9)
+Stabschefen leder stabens arbete så att kommenderingschef eller polisinsatschef får 
+det ledningsstöd som han eller hon behöver.  
+Stabssekreteraren stödjer stabschefen med informationshantering i form av 
+dokumentation och stabens informationsstruktur och informationsflöde. 
+ 
+215   En polisoperation är en sammanfattande benämning på flera polisinsatser eller andra 
+åtgärder som tillsammans syftar till att nå bestämda målsättningar. 
+216   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 5. 
+
+Om en stab organiseras inom Noa eller på nationell nivå benämns 
+stabsfunktionerna N 1–9 (nationell operativ stab). Organiseras staben inom en 
+polisregion benämns stabsfunktionerna R 1–9 (regional operativ stab).217 218 
+Funktioner vid nationell och regional operativ stab 
+Följande funktioner ingår vanligen i kommenderingschefens stab: 
+Funktionen för personaltjänst (N1/R1) stödjer kommenderingschefens ledning av 
+polisoperationen eller polisinsatsen med personaladministration utifrån 
+kommenderingschefens inriktning. Personaladministration innebär till exempel 
+inkvartering, personalomsättning, arbetstidsreglering, arbetsmiljö, psykosocialt 
+omhändertagande och övergripande personalfrågor. N1/R1 samordnar även 
+kommenderingschefens samverkan med skyddsombud.  
+Funktionen för underrättelser (N2/R2) stödjer kommenderingschefens ledning av 
+polisoperationen eller polisinsatsen med relevanta underrättelser och 
+omvärldsbevakning. Funktionen samordnar underrättelsetjänsten enligt 
+kommenderingschefens inriktning. 
+Funktionen för operativ samordning (N3/R3) stödjer kommenderingschefens 
+ledning av polisoperationen eller polisinsatsen genom att samordna operationens/ 
+insatsens pågående verksamhet enligt kommenderingschefens inriktning samt 
+följer kontinuerligt upp beslutade åtgärder och givna order. Funktionen stödjer 
+också kommenderingschefens ledning av polisoperationen eller polisinsatsen 
+genom att samordna planering av polisoperationens eller polisinsatsens 
+kommande verksamhet i enlighet med kommenderingschefens inriktning. 
+Funktionsansvarig för N3/R3 är polisoperationens eller polisinsatsens 
+operationsledare (OPL) och ansvarar därmed för:  
+•  Operationscentrum (OPC) som genomför uppföljning av pågående 
+verksamhet och kommunicerar med polisinsatschef eller direkt underställd 
+chef. 
+•  N3/R3 Plan som samordnar planering av kommande verksamhet. 
+•  N3/R3-K som samordnar utredning och spaning. 
+•  N3/R3 Behov som är avsedd för situationer då ytterligare enheter kan 
+organiseras vid N3/R3 efter behov. 
+ 
+217   En stab kan även organiseras på taktisk ledningsnivå där stabsfunktionerna benämns T 1–9. 
+218   Polismyndigheten, Polismyndighetens riktlinjer för ledning vid särskilda händelser, 2019, s. 11. 
+
+OPL har mandat att: 
+•  Fatta beslut om justering av pågående verksamhet inom ramen för den 
+inriktning som kommenderingschef uttrycker i operationsorder och gällande 
+koordineringsorder. Pågående verksamhet regleras genom kompletterande 
+order. 
+•  Ge direktiv till och leda en taktisk bedömandegrupp (TBG) inom ramen för 
+pågående verksamhet. 
+•  Ge direktiv till N3 Plan/R3 Plan avseende planering av kommande 
+verksamhet inom ramen för den inriktning som kommenderingschef 
+beslutat om. 
+Funktionen för logistik (N4/R4) stödjer kommenderingschefens ledning av 
+polisoperationen eller polisinsatsen genom att samordna logistiken enligt 
+kommenderingschefens inriktning för att bidra till polisoperationens eller 
+polisinsatsens uthållighet. Med logistik avses här till exempel planering och 
+effektuering av bland annat utrustningsbehov, förtäring, reparationsservice, fordon 
+och förläggning.  
+Funktionen för planering och strategisk operation/insatsanalys (N5/R5) stödjer 
+kommenderingschefens ledning av polisoperationen eller polisinsatsen genom att 
+samordna bedömningar av och planering för hela polisoperationen eller 
+polisinsatsen i enlighet med kommenderingschefens inriktning. Funktionen 
+samordnar också operationsplanens utformning. Under pågående polisoperation 
+eller polisinsats stödjer N5/R5 kommenderingschefens ledning genom fortlöpande 
+bedömningar av kommande möjliga händelseutvecklingar och utarbetande av 
+planer för alternativa åtgärder. N5/R5 stödjer också kommenderingschefens 
+ledning av polisoperationen eller polisinsatsen genom att löpande samordna 
+värderingar av situationens innebörd för polisoperationen eller polisinsatsen.  
+Funktionen för tekniska ledningssystem (N6/R6) stödjer kommenderingschefens 
+ledning av polisoperationen eller polisinsatsen genom att samordna upprättande 
+och användningen av tekniska ledningsstödssystem såsom sambands- och 
+informationssystem i enlighet med kommenderingschefens inriktning. Inom 
+ramen för detta hanteras till exempel sambandsplan och tekniskt ledningsstöd. 
+Funktionen för kommunikation (N7/R7) stödjer polisoperationen eller 
+polisinsatsen med intern och extern kommunikation. Funktionen samordnar även 
+kriskommunikation och informationsdelning. 
+
+Funktionen för ekonomi (N8E/R8E) stödjer kommenderingschefens ledning av 
+polisoperationen eller polisinsatsen med ekonomiska bedömningar av kostnader 
+för polisoperationen eller polisinsatsen samt ger stöd i den löpande hanteringen av 
+ekonomiska frågor, till exempel kontering och fakturering. 
+Funktionen för juridik (N8J/R8J) stödjer kommenderingschefens ledning av 
+polisoperationen eller polisinsatsen med rättsliga bedömningar på såväl kort som 
+lång sikt i enlighet med kommenderingschefens inriktning. Funktionen utarbetar 
+juridiska råd, till exempel avseende tillståndsfrågor och tolkningar av gällande 
+lagstiftning.  
+Funktionen för samverkan (N9/R9) stödjer kommenderingschefens ledning av 
+polisoperationen eller polisinsatsen genom att samverka med andra, såsom 
+tjänsteman i beredskap, räddningstjänsten, hälso- och sjukvården eller 
+Försvarsmakten, i enlighet med kommenderingschefens inriktning. 
+
+Sverige som sprider sig alltmer utanför storstäderna. För att bekämpa sådan 
+brottslighet  kan  Polismyndigheten  besluta  om  särskilda  händelser,  vilket 
+innebär att verksamheten leds i särskild ordning och gör det möjligt att 
+snabbt mobilisera resurser och kompetens. 
+Det  finns  flera  indikationer  på  brister  i  Polismyndighetens  arbete  med 
+särskilda händelser riktade mot grov brottslighet, både när det gäller huruvida 
+händelserna  har  haft  effekt  och  om  effekten  ens  är  möjlig  att  bedöma. 
+Riksrevisionen har därför granskat om särskilda händelser är en effektiv 
+ledningsform för att bekämpa grov brottslighet. 
+Riksrevisionens övergripande slutsats är att särskilda händelser kan vara ett 
+effektivt sätt att leda arbetet under de första timmarna eller dagarna efter 
+att ett grovt brott har begåtts. Särskilda händelser som pågår under längre 
+tid än så gör större skada än nytta, framför allt eftersom de ofta innebär 
+resursförflyttningar som ger negativa konsekvenser i de lokalpolisområden 
+som måste bistå med resurser. Riksrevisionen bedömer därför att bekämpning 
+av grov brottslighet inte bör ske genom långvariga särskilda händelser.
+ 
+Riksrevisionen
+S:t Eriksgatan 117
+Box 6181, 102 33 Stockholm

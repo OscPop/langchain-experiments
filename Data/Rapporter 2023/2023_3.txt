@@ -1,0 +1,1439 @@
+Det finanspolitiska 
+ramverket
+– regeringens tillämpning 2022  
+RiR 2023:3
+
+Riksrevisionen  är  en  myndighet  under  riksdagen  med  uppgift  att  granska  statliga 
+myndigheter och verksamheter. Vi bedriver både årlig revision och effektivitetsrevision. 
+Genom ett grundlagsskyddat oberoende har Riksrevisionen ett starkt mandat och är en 
+viktig del av riksdagens kontrollmakt som bidrar till förbättringar och demokratisk insyn.
+Denna rapport har tagits fram inom effektivitetsrevisionen, vars uppgift är att granska hur 
+effektiv den statliga verksamheten är. Vi lämnar även rekommendationer för att förbättra 
+den granskade verksamheten. Effektivitetsgranskningar lämnas direkt till riksdagen som 
+bereder dem tillsammans med en svarsskrivelse från regeringen.
+Riksrevisionen
+
+Beslutad: 2023-02-21 
+Diarienummer: 3.1.1-2022-1041 
+RiR 2023:3 
+Till: Riksdagen 
+Härmed överlämnas enligt 9 § lagen (2002:1022) om revision av statlig verksamhet m.m. 
+följande granskningsrapport: 
+Det finanspolitiska ramverket 
+– regeringens tillämpning 2022 
+Riksrevisionen har granskat om regeringen utformat och redovisat finanspolitiken 
+i de ekonomiska propositionerna under 2022 i enlighet med det finanspolitiska 
+ramverket. Resultatet av granskningen redovisas i denna granskningsrapport. 
+Den innehåller slutsatser och rekommendationer som avser regeringen. 
+Riksrevisor Helena Lindberg har beslutat i detta ärende. Revisionsdirektör Helena 
+Knutsson har varit föredragande. Enhetschef Håkan Jönsson, revisionsdirektörerna 
+Jörgen Appelgren, Anna Brink, Tomas Forsfält och Krister Jensevik har medverkat 
+i den slutliga handläggningen. 
+Helena Lindberg 
+  Helena Knutsson 
+För kännedom 
+Regeringskansliet; Finansdepartementet   
+
+Innehåll 
+Sammanfattning  4 
+1  Inledning  7 
+1.1  Motiv till granskning  7 
+1.2  Övergripande revisionsfråga och avgränsningar  8 
+1.3  Bedömningsgrunder  8 
+1.4  Metod och genomförande  13 
+2  Överskottsmålet  14 
+2.1  En budget med blandad reformagenda och med reformer främst 
+på budgetens utgiftssida  14 
+2.2  Strukturellt sparande över överskottsmålets nivå  14 
+2.3  Med den tidigare metoden skulle överskottsmålets nivå överskridits 
+med stor marginal  16 
+2.4  Det är inte tydligt vad som skiljer regeringens och 
+expertmyndigheternas prognoser åt  20 
+3  Finanspolitikens inriktning  22 
+3.1  Finanspolitikens inriktning är inte i strid med ramverket  22 
+3.2  Finanspolitikens inriktning är otydligt redovisad  24 
+4  Skuldankaret  26 
+4.1  Skuldkvoten riskerar att hamna under toleransintervallet 2023  26 
+4.2  Regeringens uppföljning av skuldankaret är kortfattad men 
+tillräckligt transparent  27 
+5  Utgiftstaket  28 
+5.1  Det höga utgiftstaket 2022 har inte varit styrande  28 
+5.2  Uppjusterade utgiftstak  29 
+5.3  Oklart vad som är styrande för valet av nivå på utgiftstaket  31 
+5.4  Regeringen fortsatt otydlig om synen på skatteuttaget  32 
+6  Balanskravet  34 
+6.1  Redovisningen av uppföljningen av balanskravet 2021 är 
+transparent  34 
+6.2  Otydligt vad som ligger till grund för regeringens prognos för 
+balanskravsresultatet  35 
+
+7  Slutsatser och rekommendationer  36 
+7.1  Ändrad beräkningsmetod har stor påverkan på tolkningen av 
+finanspolitiken men det framgår inte  36 
+7.2  Metodförändringen utgör ett avsteg från vedertagen metod  37 
+7.3  Det finns behov av ett mer utvecklat ramverk när det gäller 
+samspelet mellan finanspolitik och penningpolitik  38 
+7.4  Redovisningen av finanspolitikens inriktning är otydlig  39 
+7.5  Höjningen av utgiftstaket strider inte mot ramverket  39 
+7.6  Redovisningen av skuldankaret och balanskravet är i huvudsak 
+transparent  40 
+Referenslista  41 
+Ordlista  41 
+Bilaga 1 Strukturellt sparande beräknat med ny och tidigare metod  45 
+
+Sammanfattning 
+Riksrevisionen har granskat regeringens tillämpning av det finanspolitiska 
+ramverket i de ekonomiska propositionerna under 2022. Riksrevisionens 
+bedömning är att den föreslagna finanspolitiken inte är redovisad i enlighet med 
+ramverket. Regeringens redovisning brister i flera avseenden och är inte 
+transparent. Riksrevisionen bedömer att det är särskilt allvarligt att regeringen har 
+ändrat metoden för att beräkna det strukturella sparandet (indikatorn för att följa 
+upp överskottsmålet) på ett väsentligt sätt utan att förändringen eller dess 
+konsekvenser framgår. Att regeringen följer det finanspolitiska ramverket är en 
+förutsättning för en långsiktigt hållbar och transparent finanspolitik. 
+Ändrad beräkningsmetod har stor påverkan på tolkningen 
+av finanspolitiken men det framgår inte 
+Det strukturella sparandet är högre än överskottsmålets nivå i budgetpropositionen 
+för 2023, men avvikelsen är inte så stor att den kan betraktas som en tydlig 
+avvikelse från målet. Det framgår emellertid inte av redovisningen att regeringen 
+har ändrat beräkningsmetod vilket har fått stor effekt på det strukturella sparandet 
+och därmed också budgetutrymmet. Metodförändringen påverkar också tolkningen 
+av finanspolitikens inriktning. Det kan ha betydelse i nuläget, inte minst för 
+samspelet mellan finanspolitiken och penningpolitiken.  
+Om det strukturella sparandet hade beräknats med den tidigare metoden hade det i 
+budgetpropositionen för 2023 funnits en tydlig avvikelse från överskottsmålet, finanspolitiken hade tolkats som mer åtstramande och budgetutrymmet 2023 hade varit 
+betydligt större. Även om metodförändringen inte per automatik innebär att regeringen 
+borde föreslagit en annan utformning av finanspolitiken, hade de finanspolitiska 
+övervägandena skett i ett annat ljus. Det hade inneburit att utrymmet för en mer 
+expansiv finanspolitik hade varit tydligare, oaktat hänsynen till penningpolitiken. 
+Regeringens ändrade beräkningsmetod är ett avsteg från 
+ramverkets krav på vedertagen metod 
+Enligt det finanspolitiska ramverket ska strukturellt sparande beräknas enligt 
+vedertagen metod. Riksrevisionen bedömer att regeringens metodförändring är ett 
+avsteg från den vedertagna metoden. Regeringens expertmyndigheter har inte gjort 
+motsvarande metodförändring, vilket innebär att regeringens och 
+expertmyndigheternas metod för att beräkna strukturellt sparande nu skiljer sig åt 
+på ett väsentligt sätt. Det framgår inte heller i regeringens prognosjämförelse att 
+det finns större skillnader mellan olika prognosmakares bedömningar av det 
+
+strukturella sparandet, vilket bland annat beror på att regeringen har förändrat 
+beräkningsmetoden. Prognosjämförelser är viktiga, särskilt för att riksdagen ska 
+kunna ta ställning till regeringens prognoser. När beräkningsmetoderna skiljer sig åt 
+är det ännu viktigare att regeringen redovisar prognosskillnaderna på ett tydligt sätt. 
+En neutral finanspolitisk inriktning är inte i strid med 
+ramverket men regeringens redovisning är otydlig  
+Regeringen föreslår en neutral finanspolitik trots att konjunkturläget är svagt. 
+Regeringen motiverar sin finanspolitiska inriktning med att den tar hänsyn till 
+penningpolitiken. Även om Riksrevisionen bedömer att det är oklart vad 
+regeringen baserar sin bedömning att finanspolitiken är neutral på och att 
+redovisningen i delar är missvisande, bedömer vi att det inte strider mot ramverket 
+att i detta läge med hög inflation ta hänsyn till penningpolitiken. Den sparsamma 
+beskrivningen av samspelet mellan finanspolitik och penningpolitik i ramverket 
+gör det emellertid svårt att bedöma lämpligheten i den finanspolitiska inriktningen. 
+Höjningen av utgiftstaket strider inte mot ramverket  
+I samband med regeringsskiftet 2022 har utgiftstaket höjts väsentligt för 2023–2025. 
+Regeringen motiverar höjningen med att det möjliggör prioriterade reformer och 
+säkerställer tillräckligt stora marginaler för ovanligt stora finanspolitiska risker. 
+Riksrevisionen bedömer att höjningen inte strider mot det finanspolitiska ramverket. 
+Men om det visar sig att behovet av marginaler blir mindre än befarat finns det en 
+risk för att prioriteringen mellan utgifter inte blir lika effektiv som den skulle ha 
+blivit om utgiftstaket tydligare utgjort en begränsning för de statliga utgifterna. 
+Rekommendationer 
+Riksrevisionen rekommenderar regeringen att 
+•  ta initiativ för att säkerställa att det åter etableras en vedertagen metod för 
+regeringen, Ekonomistyrningsverket och Konjunkturinstitutet att beräkna 
+det strukturella sparandet 
+•  öka transparensen om inriktningen av finanspolitiken i de ekonomiska 
+propositionerna så att det tydligt framgår vad bedömningen baseras på 
+•  förbättra prognosjämförelserna i de ekonomiska propositionerna 
+•  överväga att sänka utgiftstaket om behovet av marginaler till följd av de 
+finanspolitiska riskerna blir mindre än befarat 
+•  utveckla handlingsreglerna för hur finanspolitiken ska samspela med 
+penningpolitiken i samband med nästa översyn av överskottsmålet.  
+
+1  Inledning 
+1.1  Motiv till granskning 
+Det finanspolitiska ramverket syftar till att säkerställa en långsiktigt hållbar och 
+transparent finanspolitik. En ohållbar budgetpolitik som leder till hög 
+skuldsättning och stigande ränteutgifter riskerar att tränga undan angelägna 
+åtgärder och omfördela välfärd på ett oönskat sätt. En hög skuldnivå kan också 
+begränsa statens möjligheter att stabilisera och hantera negativa störningar i 
+ekonomin. 
+Ramverket innehåller fyra budgetpolitiska mål: 
+•  målet för den offentliga sektorns finansiella sparande (överskottsmålet) 
+•  skuldankaret 
+•  utgiftstaket för staten 
+•  det kommunala balanskravet. 
+Ramverket innehåller även principer för öppenhet och tydlighet i finanspolitiken. 
+Principerna ska bidra till ökad transparens och till att den förda finanspolitiken får 
+avsedd effekt. En stram statlig budgetprocess och extern uppföljning ingår också i 
+det finanspolitiska ramverket. 
+Förutsättningarna för finanspolitiken ändrades drastiskt under 2022. De senaste 
+åren har hanteringen av pandemin och dess effekter stått i centrum för 
+finanspolitiken. Allteftersom samhället öppnade upp steg aktiviteten i ekonomin. 
+I februari 2022 invaderade Ryssland Ukraina. Finanspolitiken har nu att verka i en 
+ekonomisk miljö där inflationen stigit kraftigt och räntorna höjts och väntas höjas 
+ytterligare framöver. Under hösten 2022 var de flesta bedömare överens om att 
+svensk ekonomi är på väg in i en lågkonjunktur.1 
+Det finanspolitiska ramverkets viktiga funktion för att upprätthålla sunda offentliga 
+finanser gör det motiverat att granska regeringens tillämpning av det 
+finanspolitiska ramverket i de ekonomiska propositionerna. Denna granskning är 
+en del av detta återkommande arbete. Den är också ett bidrag till den externa 
+uppföljning som ingår i ramverket. 
+ 
+1   Se exempelvis Konjunkturinstitutet, Konjunkturläget september 2022, 2022. 
+
+1.2  Övergripande revisionsfråga och avgränsningar 
+Granskningens övergripande revisionsfråga är om regeringen utformat och 
+redovisat finanspolitiken i de ekonomiska propositionerna under 2022 i enlighet 
+med det finanspolitiska ramverket.  
+Vi har granskat regeringens hantering av 
+•  överskottsmålet 
+•  finanspolitikens inriktning 
+•  skuldankaret 
+•  utgiftstaket 
+•  kommunsektorns balanskrav. 
+Granskningen omfattar 2022 års ekonomiska vårproposition och 
+budgetpropositionen för 2023.2 Granskningen avgränsas till de delar av de 
+ekonomiska propositionerna där regeringen följer upp de budgetpolitiska målen 
+och beskriver finanspolitikens föreslagna inriktning. 
+1.3  Bedömningsgrunder 
+Bedömningsgrunderna för granskningen utgår från regeringens skrivelse 
+”Ramverket för finanspolitiken”. I skrivelsen beskriver regeringen de bestämmelser 
+och den praxis som utgör det finanspolitiska ramverket. Ramverkets 
+grundläggande delar utgörs av bestämmelser i regeringsformen, 
+riksdagsordningen, budgetlagen (2011:203) och kommunallagen (2017:725).  
+Ramverksskrivelsen har brett parlamentariskt stöd. Riksdagen har konstaterat att 
+skrivelsen utgör bedömningsnorm för löpande uppföljningar av finanspolitiken 
+och för den externa uppföljningen av regeringens tillämpning av det finanspolitiska 
+ramverket.3 
+Nedan sammanfattas de konkreta bedömningsgrunder som vi använt i 
+granskningen. 
+ 
+2   Prop. 2022/23:1 och prop. 2021/22:100. 
+3   Skr. 2017/18: 207, bet. 2017/18:FiU32, rskr. 2017/18:334. 
+
+1.3.1  Transparent redovisning 
+För att det finanspolitiska ramverket ska vara styrande för politiken, och för att 
+finanspolitiken ska vara möjlig att följa upp, är det enligt ramverksskrivelsen viktigt 
+att redovisningen av finanspolitiken är transparent.4 De bestämmelser och 
+principer som styr hur finanspolitiken redovisas fokuserar på sakinnehållet i de 
+ekonomiska propositionerna. Att exakt definiera hur finanspolitiken bör redovisas 
+är dock inte möjligt. 
+Vi bedömer att regeringens redovisning är transparent om den är heltäckande, 
+rättvisande, tydlig och konsekvent. Samtidigt är det viktigt att det finns en balans så 
+att inte strävan efter transparens leder till orimligt höga krav på detaljrikedom och 
+dokumentation. 
+1.3.2  Överskottsmålet och finanspolitikens inriktning 
+Riksdagen har fastställt att målet för den offentliga sektorns finansiella sparande 
+ska uppgå till en tredjedels procent av BNP i genomsnitt över en konjunkturcykel.5 
+Nivån på överskottsmålet gäller tills vidare men ska ses över vart åttonde år.6  
+En jämförelse av det finansiella sparandet i den offentliga sektorn med 
+överskottsmålet används för att i ett framåtblickande perspektiv bedöma 
+budgetutrymmet, eller behovet av budgetförstärkande åtgärder. Eftersom 
+konjunkturläget påverkar det finansiella sparandet görs jämförelsen utifrån en 
+uppskattning av det strukturella sparandet.7 Enligt ramverksskrivelsen är det 
+strukturella sparandet, trots osäkerheten i bedömningen, beräknat enligt 
+vedertagna metoder bäst lämpat för att bedöma om det aktuella finansiella 
+sparandet och finanspolitiken är förenliga med överskottsmålet.8  
+Det föreligger en avvikelse från överskottsmålet om det strukturella sparandet 
+tydligt avviker från målnivån för det innevarande eller det närmast följande året.9 
+Ramverket för finanspolitiken definierar inte hur stor avvikelsen ska vara för att 
+den ska betraktas som tydlig. För att avvikelsen ska anses vara tydlig utgår 
+Riksrevisionen från att det strukturella sparandet behöver avvika från målnivån 
+med minst 0,5 procent av potentiell BNP. Det är i linje med vad som framfördes i 
+ 
+4   Skr. 2017/18: 207, s. 24.   
+5   Bet. 2017/18:FiU1, rskr. 2017/18:54. 
+6   Prop. 2017/18:1, bet. 2017/18:FiU1, rskr. 2017/18:54. 
+7   Skr. 2017/18:207, s. 3. 
+8   Skr. 2017/18: 207, s. 13–14. 
+9   Skr. 2017/18: 207, s. 14. 
+
+samband med den senaste översynen av överskottsmålet samt Riksrevisionens 
+tidigare granskningar.10 
+Om det föreligger en tydlig avvikelse från överskottsmålet är regeringen enligt 
+budgetlagen skyldig att redogöra för hur en återgång till målet ska ske.11 
+Ramverksskrivelsen betonar vikten av att ta konjunkturell hänsyn när en avvikelse 
+ska korrigeras för att minimera risken att politiken förstärker 
+konjunktursvängningarna, så kallad procyklisk finanspolitik. Det behöver då 
+säkerställas att effekterna på efterfrågan inte är större än att penningpolitiken kan 
+hantera dem. Hur stora åtgärder som kan komma i fråga beror på den aktuella 
+ekonomiska situationen, hur mycket det offentliga sparandet bedöms överstiga 
+överskottsmålet, hur reformerna bedöms påverka efterfrågan och hur tidsprofilen 
+för effekterna ser ut.12 
+Vår bedömning av regeringens hantering av överskottsmålet och finanspolitikens 
+inriktning utgår från ramverket enligt ovan och vår precisering av vad som är att 
+betrakta som en tydlig avvikelse från överskottsmålet. Eftersom variabeln som 
+används för uppföljning beror av hur konjunkturläget bedöms konstaterar vi också 
+att prognosjämförelser med andra bedömare är av stor vikt.13 Regeringen ska därför 
+också se till att skillnaderna mellan regeringens och expertmyndigheternas 
+prognoser för strukturellt sparande tydligt framgår och att större skillnader 
+förklaras.14 Vår bedömning utgår även från bedömningskriterierna för transparent 
+redovisning (se avsnitt 1.3.1). 
+1.3.3  Skuldankaret 
+Skuldankaret är ett riktmärke för den offentliga sektorns konsoliderade bruttoskuld 
+på medellång sikt. Riksdagen har fastställt nivån på skuldankaret till 35 procent av 
+BNP.15 Skuldankaret är inte ett operativt mål, och en avvikelse från skuldankaret 
+föranleder därför inte någon omläggning av finanspolitiken på kort sikt. Skuldens 
+nivå spelar dock en central roll i beslutet om överskottsmålets nivå och behöver 
+därmed beaktas i de översyner av överskottsmålet som ska ske vart åttonde år.16 
+ 
+10   Se SOU 2016:67, s. 255. Se även Ds 2010:4, s. 216–217. 
+11   2 kap. 1 a § budgetlagen (2011:203). 
+12   Skr. 2017/18:207, s. 15. 
+13   Se exempelvis Riksrevisionen, Det finanspolitiska ramverket – regeringens tillämpning 2019, 2019. 
+14   Med expertmyndigheter menar vi Ekonomistyrningsverket och Konjunkturinstitutet. 
+15   Bet. 2017/18:FiU1, rskr. 2017/18:54. 
+16   Skr. 2017/18:207, s. 16–17. 
+
+Regeringen ska årligen redogöra för den konsoliderade bruttoskuldens utveckling 
+i den ekonomiska vårpropositionen. Om den konsoliderade bruttoskulden som 
+andel av BNP avviker från skuldankaret med mer än 5 procentenheter, enligt 
+utfallet i nationalräkenskaperna för det föregående året eller enligt prognoserna för 
+det innevarande året eller budgetåret, ska regeringen lämna en skrivelse till 
+riksdagen. I skrivelsen ska regeringen redogöra för vad som orsakat avvikelsen och 
+hur regeringen avser att hantera den.17 
+Vår bedömning av regeringens hantering av skuldankaret utgår från ramverket 
+enligt ovan, och från bedömningskriterierna för transparent redovisning 
+(se avsnitt 1.3.1). 
+1.3.4  Utgiftstaket 
+Utgiftstaket innebär att de takbegränsade utgifterna inte får överstiga ett belopp 
+som beslutats av riksdagen tre år tidigare. De utgifter som begränsas av taket 
+utgörs av statsbudgetens utgifter, exklusive ränteutgifter, och utgifterna för 
+ålderspensionssystemet. Regeringen ska enligt budgetlagen vidta sådana åtgärder 
+som den har befogenhet till, eller föreslå riksdagen nödvändiga åtgärder, om det 
+finns risk för att det fastställda utgiftstaket överskrids.18 
+Nivån på utgiftstaket ska främja en önskvärd långsiktig utveckling av de statliga 
+utgifterna. Tillsammans med överskottsmålet är utgiftstaket styrande för nivån på 
+det totala skatteuttaget och bidrar därmed till att förhindra en utveckling där 
+skatteuttaget stegvis måste höjas till följd av bristfällig utgiftskontroll. Nivån på 
+utgiftstaket ska därmed överensstämma med synen på hur stort ett rimligt 
+skatteuttag kan vara. Ett viktigt syfte med utgiftstaket är därför att ge 
+förutsättningar för att uppnå överskottsmålet, det vill säga att skapa förutsättningar 
+för en långsiktigt hållbar finanspolitik.19 
+Utgiftstaket är också en viktig restriktion för de årliga budgetbesluten eftersom 
+taket, tillsammans med prognoserna för utgiftsutvecklingen vid oförändrad politik 
+och behovet av säkerhetsmarginaler, sätter en gräns för storleken på reformerna på 
+budgetens utgiftssida eller anger storleken på besparingsbehovet om taket riskerar 
+att överskridas.20 
+ 
+17   Skr. 2017/18:207, s. 17. 
+18   2 kap. 4 § budgetlagen (2011:203). 
+19   Skr. 2017/18:207, s. 18–19. 
+20   Prop. 2013/14:173, s. 21. 
+
+Enligt ramverksskrivelsen är det praxis att regeringen vid framtagandet av förslag 
+till nivå på utgiftstaket för ett nytt år förhåller sig till följande faktorer: 
+•  utgiftstakets relation till överskottsmålet 
+•  utvecklingen av utgiftstaket och de totala offentliga utgifterna i förhållande 
+till BNP 
+•  utvecklingen av de takbegränsade utgifterna och budgeteringsmarginalens 
+storlek över tid 
+•  utvecklingen av de takbegränsade utgifterna i fasta priser.21 
+Tidigare fastställda utgiftstak ändras normalt endast vid budgettekniska 
+omläggningar, så kallade tekniska justeringar, men det finns inga formella hinder 
+för riksdagen att besluta om att ändra ett tidigare fastställt tak.22 Enligt 
+ramverksskrivelsen skulle det annars kraftigt begränsa en ny regerings möjligheter 
+att ändra finanspolitikens inriktning. Finanspolitiken skulle inte heller kunna 
+anpassas till nya, helt ändrade yttre förutsättningar.23 
+Vår bedömning av regeringens hantering av utgiftstaket utgår från ramverket enligt 
+ovan, och från bedömningskriterierna för transparent redovisning (se avsnitt 1.3.1). 
+1.3.5  Det kommunala balanskravet 
+Det kommunala balanskravet regleras i kommunallagen och anger att varje 
+kommun och region ska budgetera så att intäkterna överstiger kostnaderna, såvida 
+det inte finns synnerliga skäl för att budgetera för ett tillfälligt underskott.24 
+Kommunerna och regionerna ska enligt kommunallagen även ha en god 
+ekonomisk hushållning i sin verksamhet och i budgeten ange de finansiella mål 
+som är av betydelse för denna.25  
+Det är praxis att regeringen redovisar den kommunalekonomiska utvecklingen i de 
+ekonomiska propositionerna, men det finns inga bestämmelser om att så ska ske. 
+Då det kommunala balanskravet är en uttalad del av det finanspolitiska ramverket, 
+är det enligt Riksrevisionens bedömning ett rimligt krav att regeringen följer upp 
+balanskravets efterlevnad på aggregerad nivå i de ekonomiska propositionerna. 
+ 
+21   Skr. 2017/18:207, s. 19. 
+22   Skr. 2017/18:207, s. 18. 
+23   Skr. 2017/18:207, s. 18. 
+24   11 kap. 5 § kommunallagen (2017:725). 
+25   11 kap. 1 och 6 §§ kommunallagen (2017:725). 
+
+Anledningen är att redovisningen av finanspolitiken ska kunna anses vara 
+transparent och heltäckande och möjlig att följa upp.  
+I granskningen behandlar vi uppföljningen av balanskravet uteslutande som en 
+fråga om transparens (se avsnitt 1.3.1). 
+1.4  Metod och genomförande 
+Vi har gått igenom redovisningen av finanspolitiken i de ekonomiska 
+propositionerna 2022 i syfte att undersöka om krav och praxis, såsom det beskrivs i 
+skrivelsen om det finanspoliska ramverket, uppfylls. Förutom att granska de 
+ekonomiska propositionerna och underlag till dessa har vi ställt skriftliga och 
+muntliga frågor till tjänstemän vid Finansdepartementet. 
+Granskningen har genomförts av en projektgrupp bestående av Helena Knutsson 
+(projektledare), Jörgen Appelgren, Anna Brink, Tomas Forsfält, Krister Jensevik 
+och Håkan Jönsson. Klara Hvarfner (praktikant) har också bidragit i arbetet. 
+Tjänstemän vid Finanspolitiska rådets kansli har lämnat övergripande synpunkter 
+på ett utkast till granskningsrapporten. Företrädare för Regeringskansliet 
+(Finansdepartementet) har fått tillfälle att faktagranska och i övrigt lämna 
+synpunkter på ett utkast till granskningsrapport. 
+
+2  Överskottsmålet  
+I kapitlet redovisas våra iakttagelser av regeringens hantering av överskottsmålet. 
+Riksrevisionens bedömning är att regeringens redovisning brister. Det framgår till 
+exempel inte att regeringen har genomfört en metodförändring som på ett 
+väsentligt sätt påverkar det strukturella sparandet (indikatorn för att följa upp 
+överskottsmålet). Regeringen förklarar inte heller de stora skillnader som finns 
+mellan regeringens och expertmyndigheternas prognoser för det strukturella 
+sparandet.  
+2.1  En budget med blandad reformagenda och med 
+reformer främst på budgetens utgiftssida 
+Under 2020–2022 var finanspolitiken i första hand inriktad mot att hantera 
+pandemins negativa effekter på folkhälsa och ekonomi. I hög utsträckning var detta 
+budgetbelastningar av tillfällig karaktär. 
+I budgetpropositionen för 2023 föreslår regeringen reformer om sammanlagt 
+42 miljarder kronor, vilket motsvarar 0,7 procent av BNP. Främst handlar det om 
+reformer på utgiftssidan av statens budget. Osäkerheten om såväl den ekonomiska 
+utvecklingen som behovet av ytterligare ekonomisk stimulans betonas tydligt av 
+regeringen.  
+Det är en blandad karaktär på de åtgärder som regeringen föreslår i budgeten och 
+bland de större reformerna märks bland annat mer resurser till försvaret, lägre 
+skatt på drivmedel och högre statsbidrag till kommunsektorn. Trots att 
+propositionen innehåller reformer som försvagar det strukturella sparandet medför 
+utfasningen av tillfälliga åtgärder att det strukturella sparandet stärks 2023. 
+2.2  Strukturellt sparande över överskottsmålets nivå  
+I budgetpropositionen för 2023 överstiger det strukturella sparandet 
+överskottsmålets nivå, men inte med så mycket att det är en tydlig avvikelse. Något 
+behov av att presentera en plan för återgång till målet finns därmed inte. 
+Regeringen borde däremot ha presenterat en sådan plan i 2022 års ekonomiska 
+vårproposition eftersom det då fanns en tydlig avvikelse från målnivån. 
+
+2.2.1  Det strukturella sparandet över målet i budgetpropositionen 
+Regeringen följer upp överskottsmålet i de ekonomiska propositionerna. 
+Överskottsmålet är formulerat som ett genomsnitt över en konjunkturcykel. Det 
+betyder att uppföljningen inte kan göras direkt mot utfallet för ett enskilt år. 
+I stället ska det strukturella sparandet användas i uppföljningen. Det innebär att en 
+bedömning måste göras av konjunkturläget och dess effekt på det finansiella 
+sparandet.  
+I budgetpropositionen för 2023 bedömer regeringen att det strukturella sparandet 
+2022 och 2023 uppgår till 0,4 respektive 0,7 procent av potentiell BNP, se tabell 1. 
+Det är högre än överskottsmålets nivå och 2023 är avvikelsen nästan så stor att den 
+kan kategoriseras som en tydlig avvikelse (minst 0,5 procentenheter). 
+Tabell 1 Finansiellt sparande i den offentliga sektorn och indikator för 
+överskottsmålet (procent av BNP och procent av potentiell BNP) 
+  2021  2022  2023  2024  2025 
+Finansiellt sparande  -0,1  0,6  0,2  0,4  1,4 
+Strukturellt sparande*  0,5  0,4  0,7  1,2  1,8 
+BNP-gap*  -0,6  0,2  -1,7  -1,5  0,0 
+Anm.: * Procent av potentiell BNP. 
+Källa: Budgetpropositionen för 2023. 
+2.2.2  Plan för återgång till målet saknades i 2022 års ekonomiska 
+vårproposition 
+Om regeringen bedömer att det finns en tydlig avvikelse från överskottsmålet 
+innevarande år eller för det närmast följande budgetåret är den skyldig att redogöra 
+för en återgång till överskottsmålet.  
+I 2022 års ekonomiska vårproposition uppgår det strukturella sparandet 
+till -0,4 procent av potentiell BNP 2022, vilket är en tydlig avvikelse mot 
+överskottsmålet. En plan för återgång till målet var således påkallad enligt 
+budgetlagen och borde funnits med i 2022 års ekonomiska vårproposition enligt 
+Riksrevisionens bedömning.  
+
+Tabell 2 Finansiellt sparande i den offentliga sektorn och indikator för 
+överskottsmålet (procent av BNP och procent av potentiell BNP) 
+  2021  2022  2023  2024  2025 
+Finansiellt sparande  -0,2  -0,5  0,7  0,8  1,4 
+Strukturellt sparande*  -0,2  -0,4  0,5  0,9  1,5 
+BNP-gap*  -0,9  0,3  0,3  0,0  0,0 
+Anm.: * Procent av potentiell BNP. 
+Källa: 2022 års ekonomiska vårproposition. 
+2.3  Med den tidigare metoden skulle överskottsmålets 
+nivå överskridits med stor marginal 
+Regeringen har ändrat metoden för att beräkna det strukturella sparandet. Vi 
+bedömer att metodförändringen utgör ett avsteg från den vedertagna metoden. 
+Det saknas information om att metoden förändrats och vilka konsekvenser 
+förändringen får. Riksrevisionens granskning visar att om det strukturella 
+sparandet hade beräknats med den tidigare metoden skulle överskridandet av 
+målnivån 2022 och 2023 varit betydligt större än vad som presenteras i 
+budgetpropositionen för 2023. Det innebär att regeringen skulle ha behövt ha en 
+plan för återgång till överskottsmålet om inte beräkningsmetoden hade ändrats. 
+Riksrevisionen har efterfrågat en beräkning från Finansdepartementet som visar 
+det strukturella sparandet i budgetpropositionen för 2023 beräknat med den 
+tidigare metoden men inte fått någon sådan. Vi har fått besked om att de inte gjort 
+en sådan beräkning.26 Riksrevisionen har därför behövt uppskatta effekten av 
+metodförändringen själva.27 Finansdepartementet har bekräftat att vår beräkning 
+ser ut som ett rimligt sätt att approximera en beräkning med tidigare metod.28 
+Beräkningen beskrivs närmare i bilaga 1.  
+2.3.1  Konsekvenserna av att regeringen ändrat beräkningsmetod 
+i budgetpropositionen för 2023 
+Metodförändringen får som konsekvens att det strukturella sparandet ändras både 
+bakåt och framåt i tiden, se diagram 1. Prognosen för det strukturella sparandet 
+ 
+26   Mejl från företrädare för Finansdepartementet 2022-12-20. 
+27   Vi har beräknat "Effekt av BNP-gap", se s. 5 i promemorian ”Metod för beräkning av 
+strukturellt sparande i offentlig sektor, november 2022”, med BNP-gapet i fasta priser (enligt 
+budgetpropositionen för 2023). 
+28   Mejl från företrädare för Finansdepartementet 2023-02-07. 
+
+2022 och 2023 i budgetpropositionen för 2023 uppgår till 0,4 respektive 0,7 procent 
+av potentiell BNP. Om det strukturella sparandet hade beräknats med den tidigare 
+metoden skulle sparandet varit betydligt högre och uppgått till 0,9 respektive 1,6 
+procent av potentiell BNP, allt annat lika. Det hade då inneburit en tydlig avvikelse 
+från överskottsmålet. Budgetutrymmet 2023 hade varit större, motsvarande 55 
+miljarder kronor mer. Ett större budgetutrymme 2023 hade emellertid inte per 
+automatik inneburit att regeringen borde ha föreslagit en annan utformning av 
+finanspolitiken, särskilt med tanke på den höga inflationen och samspelet med 
+penningpolitiken. 
+I budgetpropositionen uppgick förändringen av det strukturella sparandet mellan 
+2022 och 2023 till 0,3 procentenheter. Om regeringen hade beräknat strukturellt 
+sparande med den tidigare metoden skulle förändringen av det strukturella 
+sparandet uppgått till 0,7 procentenheter, vilket indikerar en mer åtstramande 
+finanspolitik jämfört med vad som presenterades i budgetpropositionen för 2023.  
+Diagram 1 Strukturellt sparande med den nya respektive tidigare metoden 
+Procent av potentiell BNP
+2,0
+1,5
+1,0
+0,5
+0,0
+-0,5
+-1,0
+-1,5
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Strukturellt sparande, ny metod Strukturellt sparande, tidigare metod
+Anm.: Siffrorna för strukturellt sparande, ny metod (röd linje) är hämtade från 
+budgetpropositionen för 2023. Siffrorna för strukturellt sparande, tidigare metod (svart linje) 
+är uppskattade och beräknade av Riksrevisionen, se bilaga 1. 
+Källa: Prop. 2022/23:1 och Riksrevisionen.  
+
+2.3.2  Det framgår inte att regeringen har ändrat metod 
+Metodförändringen gjordes i juni 2022. Först i samband med publiceringen av 
+budgetpropositionen för 2023 publicerades två promemorior på regeringens 
+webbplats: ”Metod för beräkning av potentiella variabler, november 2022” och 
+”Metod för beräkning av strukturellt sparande i offentlig sektor, november 2022”.29 
+I dokumenten, och i noter till tabeller i budgetpropositionen, finns beskrivningar 
+av hur strukturellt sparande och potentiell BNP i löpande pris beräknas. Det 
+framgår emellertid inte att beräkningsmetoden för potentiell BNP i löpande pris 
+har förändrats vilket påverkar strukturellt sparande. 
+Informationen som lämnas i promemoriorna och budgetpropositionen är 
+kortfattad och det krävs att läsaren är insatt i beräkningarna av det strukturella 
+sparandet för att förstå att det genomförts en förändring och vilka konsekvenserna 
+är. Läsaren behöver ha kunskap om den tidigare metoden, eller utläsa i 
+budgetpropositionens tabeller att en viss justeringspost mellan det finansiella och 
+strukturella sparandet skiljer sig från hur posten tidigare förhållit sig till BNP-gapet 
+storleksmässigt. Att en metodförändring ägt rum har vi fått bekräftat när vi ställt 
+frågor till Finansdepartementet. Enligt Finansdepartementet skedde 
+metodförändringen i juni 2022, efter publiceringen av 2022 års ekonomiska 
+vårproposition.30 
+2.3.3  Motivet bakom metodförändringen har varit att utjämna det 
+strukturella sparandet  
+Finansdepartementet uppger att motivet bakom metodförändringen har varit att 
+utjämna det strukturella sparandet. Under perioder av snabbt ökande inflation kan 
+det annars, med den tidigare metoden, uppstå stora variationer i budgetutrymmet. 
+Till exempel skulle budgetutrymmet 2023 blivit betydande samtidigt som 
+budgetutrymmet 2024 och 2025 hade blivit mycket litet.31  
+Finansdepartementet uppger att analysen som låg till grund för metodförändringen 
+baserades på att inkomsterna ökar i samma takt som priserna medan utgifterna i 
+hög grad styrs av prisbasindex och pris- och löneuppräkningen som påverkar 
+utgifterna med fördröjning. Det finns dock ingen skriftlig analys som visar att 
+volatiliteten i det strukturella sparandet väsentligen beror på inflationen. 
+ 
+29   Regeringskansliet, ”Metod för beräkning av strukturellt sparande i offentlig sektor, november 
+2022” och ”Metod för beräkning av potentiella variabler, november 2022”, hämtade 2022-12-22. 
+30   Mejl från företrädare för Finansdepartementet 2022-12-15. 
+31   Mejl från företrädare för Finansdepartementet 2022-12-20. Intervju med företrädare för 
+Finansdepartementet 2022-12-21. 
+
+Finansdepartementet lyfter emellertid fram att ett sätt att illustrera effekten av att 
+volatiliteten i det strukturella sparandet beror på inflationen är att det uppkommer 
+en skillnad när man beräknar det strukturella sparandet med den nya och tidigare 
+metoden.32 
+2.3.4  Den ändrade metoden 
+Den ändrade metoden påverkar potentiell BNP i löpande pris. Denna variabel är 
+central, bland annat eftersom det strukturella sparandet som andel av potentiell 
+BNP beror på denna i såväl täljare som nämnare. Under de år som strukturellt 
+sparande har beräknats av regeringen och dess expertmyndigheter, har potentiell 
+BNP i löpande pris beräknats genom att BNP i löpande pris justerats för det 
+estimerade BNP-gapet (i fasta priser).33 Någon justering för att prisnivån är hög/låg 
+har inte skett.  
+Regeringens ändring av metod innebär att en sådan justering införts. Justeringen 
+beräknas utifrån en skattning av trenden i den faktiska BNP-deflatorn.34 När 
+faktiskt pris avviker från trendpris kommer regeringens beräkning av potentiell 
+BNP i löpande pris vara annorlunda jämfört med i tidigare beräkningar. 
+Konjunkturinstitutet och Ekonomistyrningsverket har inte gjort motsvarande 
+metodförändring. 
+Effekten av metodförändringen är att det strukturella sparandet jämnas ut, se 
+diagram 1. I budgetpropositionen för 2023 är summan av det strukturella 
+sparandet 2019–2025 ungefär detsamma oavsett metod, men för enskilda år är 
+skillnaden stor. För 2022 och 2023, de år som ska användas vid uppföljningen av 
+överskottsmålet, blir det strukturella sparandet betydligt lägre med regeringens nya 
+sätt att räkna. 
+ 
+32   Mejl från företrädare för Finansdepartementet 2022-12-20. Intervju med företrädare för 
+Finansdepartementet 2022-12-21. 
+33   Regeringen, Konjunkturinstitutet och Ekonomistyrningsverket har under årens lopp 
+beräknat strukturellt sparande med olika metodansatser, men har de senaste åren gått över 
+till samma metod. Ansatsen är beskriven i Konjunkturinstitutet, A New Method for 
+Constructing a Cyclically Adjusted Budget Balance: the Case of Sweden, 2004. Se även 
+Regeringskansliet, ”Metod för beräkning av strukturellt sparande i offentlig sektor april 
+2019”, hämtad 2023-01-06 och Ekonomistyrningsverket, Prognos Statens budget och de 
+offentliga finanserna November 2019, 2019. 
+34   Med BNP-deflator menas priskomponenten i BNP mätt i löpande priser. Den definieras som 
+BNP i löpande priser delat med BNP i fasta priser. Skattningen av trendpriset görs med ett 
+HP-filter. 
+
+2.4  Det är inte tydligt vad som skiljer regeringens och 
+expertmyndigheternas prognoser åt  
+Överskottsmålet följs upp med det strukturella sparandet för det innevarande och 
+det närmast följande året. Olika bedömningar kan leda till skilda uppfattningar om 
+det finns en tydlig avvikelse från överskottsmålet och hur finanspolitiken bör 
+utformas i förhållande till målet. Det är därför viktigt att regeringen tydligt redogör 
+för skillnaderna mellan prognoserna. Vi bedömer att det i budgetpropositionen för 
+2023 inte tydligt framgår vad som skiljer regeringens och expertmyndigheternas 
+prognoser för det strukturella sparandet åt. 
+Riksrevisionen har under lång tid påtalat att de skillnader som finns bör förklaras 
+mer ingående. I 2022 års ekonomiska vårproposition var prognosjämförelsen mer 
+utvecklad än tidigare. Det framgick på ett tydligt sätt vad som skiljde regeringens 
+och expertmyndigheternas prognoser åt. Men i budgetpropositionen för 2023 var 
+jämförelsen återigen mer kortfattad. Regeringens och andra prognosmakares 
+bedömningar av strukturellt sparande framgår av tabell 3.  
+Tabell 3 Olika bedömningar av strukturellt sparande (procent av potentiell BNP) 
+  2022  2023  2024  2025 
+Regeringen (8 november)  0,4  0,7  1,2  1,8 
+Konjunkturinstitutet (28 september)  1,0  1,0  0,5  (0,3) 
+Ekonomistyrningsverket (21 september)  0,1  0,8  1,1  1,4 
+Europeiska kommissionen (16 maj)  0,0  1,2  –  – 
+Anm.: Konjunkturinstitutets bedömning 2025 är inte en prognos, utan ett antagande. 
+Källa: Budgetpropositionen för 2023. 
+Regeringen skriver: 
+Skillnaderna mellan prognoserna är i vissa fall annorlunda vid jämförelser av 
+det strukturella sparandet än vid jämförelser av det finansiella sparandet. Detta 
+kan bero dels på olika bedömningar av potentiella variabler, dels på skillnader 
+i beräkningsmetoder. 
+Dessa skillnader medför att såväl KI som ESV räknar med ett positivt bidrag från 
+potentiella variabler som är större än regeringens bedömning 2022 och 2023.35 
+ 
+35   Prop. 2022/23:1, s. 146–147. 
+
+Det framgår inte vad regeringen menar med ”ett positivt bidrag från potentiella 
+variabler” eller om det större positiva bidraget är ett resultat av att regeringen nu 
+förändrat beräkningsmetoden. Finansdepartementet uppger att de inte har en klar 
+bild av hur olika metodskillnader bidrar till skillnader i bedömningen mellan 
+Finansdepartementet, Konjunkturinstitutet och Ekonomistyrningsverket. Det beror 
+på att det strukturella sparandet utgör ett netto som påverkas av prognosskillnader i 
+alla led. Det är dock troligt att den ändrade metoden är en delförklaring till 
+skillnaderna.36 
+Regeringens och expertmyndigheternas prognoser för strukturellt sparande är 
+relativt lika 2023. Vid en jämförelse av strukturellt sparande där metoderna är 
+jämförbara skulle regeringens prognos emellertid vara närmare dubbelt så hög som 
+vissa av expertmyndigheternas prognoser. Det strukturella sparandet i 
+budgetpropositionen för 2023 beräknat med den tidigare metoden hade varit 
+1,6 procent av potentiell BNP 2023, att jämföra med 1,0 (Konjunkturinstitutet) och 
+0,8 (Ekonomistyrningsverket). Det tyder på att det utöver metodförändringen även 
+finns annat som skiljer prognoserna åt. 
+ 
+36   Mejl från företrädare för Finansdepartementet 2022-12-15. 
+
+3  Finanspolitikens inriktning 
+I kapitlet redovisar vi våra iakttagelser om den finanspolitiska inriktningen. 
+Riksrevisionens bedömning är att den inriktning som regeringen föreslår inte står i 
+strid med det finanspolitiska ramverket. Men regeringens redovisning är otydlig 
+och i delar även missvisande. Det är till exempel oklart vad regeringen baserar sin 
+bedömning att finanspolitiken är neutral på.  
+3.1  Finanspolitikens inriktning är inte i strid med 
+ramverket  
+Den finanspolitiska inriktning som regeringen föreslår för 2023 innebär att det 
+strukturella sparandet överskrider överskottsmålets nivå. Det strukturella sparandet 
+stärks 2023, trots det svaga konjunkturläget. Regeringen betraktar finanspolitiken 
+som neutral när även elprisstödet beaktas.  
+Vi bedömer att den inriktning som regeringen föreslår i budgetpropositionen för 
+2023 inte står i strid med ramverket. Ramverket anger att hänsyn till penningpolitik 
+ska tas, men ger ingen närmare beskrivning eller vägledning för bedömningen. 
+Den sparsamma beskrivningen i ramverket gör det svårt att bedöma lämpligheten i 
+den finanspolitiska inriktningen.  
+Finanspolitikens inriktning mäts genom förändringen av strukturellt sparande  
+Den finanspolitiska inriktningen beskriver finanspolitikens impuls till efterfrågan. 
+Det gängse sättet att mäta storleken på finanspolitikens inriktning är att se på 
+förändringen av det strukturella sparandet mellan två år. Om det strukturella 
+sparandet förstärks indikerar det att finanspolitiken är åtstramande med avseende på 
+resursutnyttjandet (BNP-gapet) i ekonomin. Om det strukturella sparandet försvagas 
+indikerar det att finanspolitiken är expansiv. Neutral finanspolitik föreligger då det 
+strukturella sparandet är oförändrat som andel av potentiell BNP. Med detta sätt att 
+mäta är det impulsen av den aktiva finanspolitiken som fångas, det vill säga åtgärder 
+som det fattas aktiva beslut om.  
+3.1.1  Stram finanspolitik med hänvisning till risken att vara 
+inflationsdrivande 
+Principerna för hur avvikelser från överskottsmålet ska hanteras syftar till att 
+stimulanser och åtstramningar ska komma vid rätt konjunkturläge och på så sätt 
+inte leda till att förstärka konjunktursvängningarna, så kallad procyklisk 
+finanspolitik. I det finanspolitiska ramverket finns därför handlingsregler som 
+
+beskriver hur eventuella avvikelser gentemot överskottsmålet ska hanteras 
+beroende på hur regeringen bedömer det rådande konjunkturläget, se tabell 4. 
+Tabell 4 Konjunkturhänsyn vid hantering av målavvikelser 
+  Strukturellt sparande   Strukturellt sparande  
+över målet  under målet 
+Bra tider/högt  Saldoförsvagande åtgärder när  Saldoförstärkande åtgärder i 
+resursutnyttjande  konjunkturen försämras  snabb takt 
+Normala tider/normalt  Saldoförsvagande åtgärder i  Saldoförstärkande åtgärder i 
+resursutnyttjande  måttlig takt  måttlig takt 
+Dåliga tider/lågt  Saldoförsvagande åtgärder i  Saldoförstärkande åtgärder 
+resursutnyttjande  snabb takt  när resursutnyttjandet ökar 
+Anm.: Normala tider definieras i ramverksskrivelsen som att BNP-gapet är mellan −1,5 och 
+1,5 procent av potentiell BNP. 
+Källa: Skr. 2017/18:207. 
+Konjunkturläget försvagas 2023 och BNP-gapet bedöms i regeringens 
+budgetproposition uppgå till -1,7 procent, vilket är en tydlig indikation på 
+lågkonjunktur. Samtidigt stärks det strukturella sparandet 2023 och överskrider till 
+och med målnivån. Att det strukturella sparandet stiger i förhållande till 2022 beror 
+främst på att tillfälliga pandemiåtgärder fasas ut. 
+Enligt det finanspolitiska ramverket är det i ett svagt konjunkturläge motiverat att 
+bedriva en expansiv finanspolitik med saldoförsvagande åtgärder i snabb takt under 
+förutsättning att det strukturella sparandet överstiger målet, se tabell 4. 
+Konjunkturläget är svagt enligt den bedömning som regeringen gör och det 
+strukturella sparandet är i regeringens prognos över målet, om än inte tydligt. Trots 
+att det inte handlar om en tydlig avvikelse hade en mer expansiv finanspolitisk 
+inriktning som innebär en försvagning av det strukturella sparandet kunnat 
+motiveras av att finanspolitiken inte ska riskera att verka procykliskt. Dessutom har 
+nivån på det strukturella sparandet i hög utsträckning påverkats av den 
+metodförändring som gjorts (se kapitel 2). Utan metodförändringen skulle det 
+strukturella sparandet 2023 varit tydligt över överskottsmålets nivå.  
+Även om det finanspolitiska ramverket innehåller få referenser till 
+penningpolitiken är avsikten i ramverket att finanspolitiken inte ska ske oberoende 
+av konsekvenser för penningpolitiken. Det står i ramverket att finanspolitikens 
+effekter på efterfrågan inte ska vara större än att penningpolitiken kan hantera 
+dem.  
+
+Regeringen motiverar också sin finanspolitiska inriktning med att den tar hänsyn 
+till penningpolitiken. Regeringen argumenterar för att man genom att styra 
+finanspolitiken mot överskottsmålet och föreslå en svagt åtstramande budget och 
+neutral finanspolitik, möjliggör för penningpolitiken att verka så att inflationen inte 
+biter sig fast på en hög nivå.37 Riksrevisionen har inget att invända mot regeringens 
+bedömning då det inte strider mot ramverket att i detta läge ta hänsyn till 
+penningpolitiken, även om det finanspolitiska ramverket i delar samtidigt hade gett 
+stöd till en mer expansiv finanspolitik eftersom det finns ett överskott som kan 
+användas för att motverka lågkonjunkturen. Mot detta står risken att en 
+efterfrågestimulans kan påverka inflationen och penningpolitiken i ickeönskvärd 
+riktning.  
+Vi bedömer att det rådande läget visar på behovet av ett mer utvecklat 
+finanspolitiskt ramverk i de delar som gäller samspelet mellan finanspolitik och 
+penningpolitik. Ramverket beskriver till exempel inte vad som skulle kunna 
+omöjliggöra för penningpolitiken att verka inflationsdämpande. 
+3.2  Finanspolitikens inriktning är otydligt redovisad 
+Vi bedömer att redovisningen av finanspolitikens inriktning är otydlig och i delar 
+även missvisande. Det är till exempel oklart vad regeringen baserar sin bedömning 
+om att finanspolitiken är neutral på.   
+3.2.1  Åtstramande budget men neutral finanspolitik – oklarheter 
+i redovisningen av finanspolitikens inriktning 
+Regeringen anför i olika avsnitt i budgetpropositionen att budgeten är svagt 
+åtstramande men bedömer sammantaget att budgeten och elprisstödet innebär en 
+neutral finanspolitik.  
+Vad gäller begreppet ”budget” ligger det nära till hands att tro att regeringen avser 
+det strukturella sparandet. Det strukturella sparandet förstärks med 0,3 procent av 
+potentiell BNP mellan 2022 och 2023. Det är dock en olyckligt vald terminologi 
+eftersom själva budgeten (statens budget) inkluderar elprisstödet. Stödet återfinns i 
+posten ”Riksgäldens nettoutlåning”, som ingår i statens budget och påverkar 
+budgetsaldot (lånebehovet med omvänt tecken).  
+I budgetpropositionen för 2023 påverkar elprisstödet inte det finansiella sparandet i 
+offentlig sektor, och inte heller det strukturella sparandet. Stödet är en transaktion 
+mellan företag (Affärsverket svenska kraftnät) och hushåll/andra företag. Det 
+ 
+37   Prop. 2022/23:1, s.56. 
+
+komplicerar analysen eftersom det gängse sättet att mäta den finanspolitiska 
+inriktningen är att analysera förändringen av det strukturella sparandet. Stödets 
+effekter på efterfrågan behöver således läggas till. Det verkar regeringen göra, men 
+man redovisar bara en bedömning om att den sammantagna effekten av budgeten 
+och elprisstödet är neutral. Adderar man den åtstramande effekten (+0,3 procent av 
+potentiell BNP) med storleken på elprisstödet (55 miljarder kronor, vilket 
+motsvarar 0,9 procent av potentiell BNP), borde finanspolitiken snarare betraktas 
+som expansiv (-0,6 procent av potentiell BNP).38  
+Enligt Finansdepartementet utgår inte formuleringarna om 
+expansiv/neutral/åtstramande finanspolitik från förändringen av det strukturella 
+sparandet utan från förändringen av det primära strukturella sparandet, det vill 
+säga exklusive nettot av kapitalinkomster och kapitalutgifter. Detta eftersom 
+impulsen till efterfrågan sker från det primära sparandet.39 Beskrivningen av den 
+finanspolitiska inriktningen är emellertid svår att förstå om regeringen inte 
+redovisar att den utgår från förändringen av det primära strukturella sparandet och 
+därefter lägger till efterfrågeimpulsen från elprisstödet.     
+3.2.2  Redovisningen av tillfälliga respektive permanenta åtgärder 
+har förbättrats 
+Under 2020–2022 har en stor del av finanspolitiken bedrivits i form av tillfälliga 
+stöd för att hantera pandemin och dess konsekvenser. Avsaknaden av fullständig 
+redovisning av vad som varit permanenta respektive tillfälliga åtgärder har tidigare 
+försvårat tolkningen av bland annat den finanspolitiska inriktningen. I årets 
+budgetproposition framgår detta mycket tydligare. 
+ 
+38   Om utbetalningen av elprisstödet betraktas som finanspolitik skulle också de 
+flaskhalsintäkter som tillfaller Affärsverket svenska kraftnät kunna betraktas som 
+finanspolitik. Regeringen betraktar endast utbetalningen av elprisstödet på 55 miljarder 
+kronor som finanspolitik. 
+39   Intervju med företrädare för Finansdepartementet 2022-12-09. 
+
+4  Skuldankaret 
+I kapitlet redovisas våra iakttagelser av regeringens hantering av skuldankaret. Det 
+finns en risk att den offentliga sektorns konsoliderade bruttoskuld kan komma att 
+underskrida toleransintervallets undre gräns på 30 procent av BNP. Regeringens 
+prognos är att bruttoskulden kommer att underskrida den nedre gränsen 2023. 
+Regeringens uppföljning av skuldankaret är kortfattad men Riksrevisionen 
+bedömer att den ändå är tillräckligt transparent. 
+4.1  Skuldkvoten riskerar att hamna under 
+toleransintervallet 2023 
+Skuldankaret utgör ett riktmärke för nivån på den offentliga sektorns konsoliderade 
+bruttoskuld som andel av BNP (skuldkvoten) på medellång sikt. Riktmärket för 
+skuldankaret är 35 procent av BNP. Regeringen ska följa upp utvecklingen av 
+skuldkvoten i den ekonomiska vårpropositionen. Om skuldkvoten avviker från 
+riktmärket med mer än 5 procentenheter, ska regeringen lämna en skrivelse till 
+riksdagen och redogöra för skälen till avvikelsen samt beskriva hur regeringen 
+avser att hantera den.40 
+I 2022 års ekonomiska vårproposition visade regeringens prognos att det på några 
+års sikt finns en tydlig risk för att skuldankaret skulle bli lägre än den nedre 
+gränsen i toleransintervallet på 30–40 procent av BNP. Skuldkvoten 2023 
+beräknades till 30,7 procent, det vill säga strax över den nedre gränsen på 
+30 procent i skuldankarets toleransintervall, se diagram 2. Regeringen behövde 
+alltså inte inkomma med någon skrivelse till riksdagen. 
+I budgetpropositionen för 2023 är prognosen att skuldkvoten kommer att bli 
+29,4 procent av BNP år 2023, vilket ligger under skuldankarets nedre gräns. En 
+viktig anledning till att skuldkvoten minskar i snabb takt mellan 2021 och 2023 är 
+att BNP i löpande priser utvecklas starkt och därmed minskar skuldens relativa 
+storlek. Ytterligare en viktig anledning är att Riksbanken valt att egenfinansiera 
+valutareserven och amortera de lån Riksbanken har hos Riksgäldskontoret. Den 
+förändrade upplåningsstrategin medför att statsskulden under 2021–2023 förväntas 
+minska med sammanlagt 182 miljarder kronor41, vilket motsvarar omkring 
+3 procent av BNP. Skuldkvoten 2023 skulle alltså legat väl inom toleransintervallet 
+om Riksbanken hade fortsatt att finansiera valutareserven via Riksgäldskontoret. 
+ 
+40   Skr. 2017/18:207 s. 17. 
+41   Prop. 2022/23:1, avsnitt 7, tabell 7.2, s. 125. 
+
+Diagram 2 Den offentliga sektorns konsoliderade bruttoskuld 
+Procent av BNP
+50
+45
+Övre gräns
+40
+35
+30
+Nedre gräns
+25
+20
+2010 2013 2016 2019 2022 2025
+Budgetpropositionen för 2023 2022 års ekonomiska vårproposition
+Skuldankare
+Källa: Prop. 2021/22:100 och prop. 2022/23:1. 
+4.2  Regeringens uppföljning av skuldankaret är 
+kortfattad men tillräckligt transparent 
+Vår bedömning är att regeringens uppföljning av skuldankaret i 2022 års 
+ekonomiska vårproposition är kortfattad men tillräckligt transparent. Regeringen 
+beskriver på ett tydligt sätt att skuldkvoten skulle ha varit högre om inte 
+Riksbankens agerande påverkat statsskuldens storlek. 
+Regeringens redovisning i budgetpropositionen för 2023 är begränsad, men enligt 
+det finanspolitiska ramverket är det företrädesvis i vårpropositionen som 
+regeringen ska redovisa sin syn på bruttoskulden i förhållande till 
+toleransintervallet. I tabellerna i budgetpropositionen framgår det dock att 
+bruttoskulden beräknas ligga under toleransintervallets nedre gräns 2023–2025. 
+I regeringens skriftliga redogörelse kommenteras inte att den nedre gränsen 
+förväntas underskridas. Om prognosen står sig till vårpropositionen 2023 kommer 
+regeringen behöva informera riksdagen med en skrivelse. 
+
+5  Utgiftstaket 
+I kapitlet redovisas våra iakttagelser av regeringens hantering av utgiftstaket. 
+I samband med regeringsskiftet 2022 har utgiftstaket höjts högst väsentligt för hela 
+perioden 2023–2025. Riksrevisionen bedömer att höjningen inte strider mot det 
+finanspolitiska ramverket. Det är inte orimligt att höja utgiftstaket som regeringen 
+föreslår, givet de stora osäkerheter som nu råder. Vi bedömer dock att det är oklart i 
+regeringens framställning vad som varit styrande för valet av nivå på utgiftstaket, 
+och vilken syn som regeringen har på det framtida skatteuttaget. 
+5.1  Det höga utgiftstaket 2022 har inte varit styrande 
+Utgiftstaket 2022 har inte begränsat möjligheten till utgiftsökningar. Riksdagen 
+har, efter förslag från regeringen, tidigare höjt utgiftstaket 2022 kraftigt för att 
+kunna inrymma åtgärder på budgetens utgiftssida för att motverka pandemins 
+ekonomiska konsekvenser. Riksrevisionen har tidigare kritiserat höjningens 
+magnitud och bedömt att det finns en risk för att prioriteringen mellan utgifter inte 
+blir lika effektiv som den hade blivit om utgiftstaket tydligare utgjort en 
+begränsning för de statliga utgifterna.42 
+I budgetpropositionen för 2022 fanns en budgeteringsmarginal på 102 miljarder 
+kronor. Sedan dess har utgifterna under taket 2022 ökat med 47 miljarder kronor. 
+Förutom tillkommande pandemirelaterade kostnader har det uppstått nya 
+kostnader relaterade till kriget i Ukraina, bland annat för ökat flyktingmottagande 
+och tillskott till försvar och samhällets krisberedskap. Bland de ökade kostnaderna 
+finns också stödet till hushållen på närmare 10 miljarder kronor för de höga 
+elpriserna från december 2021 till mars 2022, som inte kan kopplas direkt till vare 
+sig pandemin eller kriget i Ukraina.  
+Budgeteringsmarginalen 2022 i budgetpropositionen för 2023 är trots det betydligt 
+högre än regeringens riktlinjer, den motsvarar 3,5 procent av de takbegränsade 
+utgifterna, jämfört med riktlinjen på 1 procent för innevarande år (se tabell 5 och 
+nedanstående faktaruta). 
+ 
+42   Se Riksrevisionen, Det finanspolitiska ramverket – regeringens tillämpning 2020, 2020. 
+
+Riktlinjen för budgeteringsmarginalens minsta storlek  
+Regeringen följer en riktlinje för budgeteringsmarginalens minsta storlek som finns 
+angiven i det finanspolitiska ramverket. Enligt riktlinjen bör det finnas en marginal 
+på minst 1 procent av de takbegränsade utgifterna för innevarande år, minst 
+1,5 procent för det följande året (T + 1), minst 2 procent för det andra följande året 
+(T + 2) och minst 3 procent för det tredje följande året (T + 3). 
+Tabell 5 Utgiftstak och takbegränsade utgifter 2021–2025 (miljarder kronor och 
+procent) 
+  2021  2022  2023  2024  2025 
+Ursprungligt beslutade utgiftstak  1 430  1 502  1 539  1 595  1 720* 
+Teknisk justering   6  2  2  2  2 
+Reell justering   259  130  124  148  103 
+Nu beslutade eller föreslagna utgiftstak  1 695  1 634  1 665  1 745  1 825 
+    i procent av potentiell BNP  30,4  27,8  27,0  27,0  27,0 
+Takbegränsade utgifter   1 551  1 579  1 594  1 643  1 662 
+Budgeteringsmarginal   144  55  71  102  163 
+    i procent av takbegränsade utgifter   9,3  3,5  4,4  6,2  9,8 
+Anm.: * Bedömning av utgiftstakets nivå i 2022 års ekonomiska vårproposition. 
+Källa: Budgetpropositionen för 2023. 
+5.2  Uppjusterade utgiftstak 
+5.2.1  Fjärde året i rad med en uppjustering av utgiftstaket  
+I 2022 års ekonomiska vårproposition bedömdes de takbegränsade utgifterna 2023 
+bli högre än utgiftstaket.43 Regeringen noterade att när det finns risk för att ett 
+beslutat utgiftstak kommer att överskridas ska regeringen enligt budgetlagen vidta 
+sådana åtgärder som den har befogenhet till eller föreslå riksdagen nödvändiga 
+åtgärder. Givet det osäkra läget i omvärlden valde den dåvarande regeringen att inte 
+vidta eller föreslå några sådana åtgärder. Den dåvarande regeringen beskrev att det 
+ 
+43   Utgiftsprognoserna i vårpropositionen baserades på föreslagna regelförändringar i 
+regeringens vårändringsbudget, som röstades ner i riksdagen. Men en extra ändringsbudget, 
+med ungefär samma omfattning, röstades sedan igenom, bland annat med höjd 
+garantipension. 
+
+hade påbörjats ett arbete för att kunna återkomma i budgetpropositionen för 2023 
+med förslag till utgiftsbegränsande åtgärder.44 
+Den nya regeringens budgetproposition för 2023 innebär ytterligare ökade utgifter 
+för staten 2023. Någon uppföljning av arbetet med utgiftsbegränsande åtgärder 
+som den förra regeringen initierade finns inte med. Regeringen föreslår i stället att 
+utgiftstaket höjs med 126 miljarder kronor 2023 (se tabell 5), där en mindre del av 
+höjningen är en så kallad teknisk justering. Det är det fjärde året i rad med en stor 
+uppjustering av tidigare beslutade utgiftstak. 
+5.2.2  Höjningen av utgiftstaket strider inte mot ramverket  
+Regeringen föreslår även en kraftig höjning av det beslutade utgiftstaket för 2024, 
+med 150 miljarder kronor. Förslaget till utgiftstak för 2025 är 105 miljarder högre 
+än bedömningen i 2022 års ekonomiska vårproposition. Det innebär att det 
+föreslagna utgiftstaket motsvarar 27,0 procent av potentiell BNP för samtliga år 
+2023–2025, enligt regeringen. 
+Det finanspolitiska ramverket ger stöd åt en ny regering att justera utgiftstaket. 
+Möjligheterna för en ny regering att förändra finanspolitiken ska inte begränsas av 
+fastlagda utgiftstak, och finanspolitiken ska kunna anpassas till nya helt ändrade 
+yttre förutsättningar.  
+Samtidigt konstaterar vi att budgeteringsmarginalerna fortsätter att vara betydligt 
+större än vad som motiveras av regeringens riktlinjer för minsta marginal. 
+Prognosen för budgeteringsmarginalen 2023 motsvarar 4,4 procent av de 
+takbegränsade utgifterna, vilket är nära tre gånger mer än vad som behövs för att 
+täcka en normal osäkerhet enligt regeringens riktlinjer (se tabell 5). Prioriteringar 
+mellan utgifter riskerar därför bli mindre effektiva jämfört med om utrymmet 
+under utgiftstaket hade varit mindre. 
+Regeringen motiverar uppjusteringen på följande sätt: 
+De nya nivåerna på utgiftstaket medger en utgiftsökning under 
+mandatperioden som möjliggör att prioriterade reformer genomförs i såväl 
+denna som kommande budgetpropositioner under mandatperioden. De nya 
+nivåerna säkerställer också tillräckligt stora marginaler för att kunna hantera 
+de ovanligt stora finanspolitiska risker som Sverige står inför. Det handlar 
+bl.a. om risken för en mer varaktigt hög inflation, en djupare lågkonjunktur 
+samt osäkerheterna kring kriget i Ukraina och dess konsekvenser. 
+ 
+44   Prop. 2021/22:100, s. 66. 
+
+Genomförandet av åtgärder på utgiftssidan kan dock endast ske efter 
+avstämning mot överskottsmålet och den förändring av skatteuttaget som 
+kan följa under mandatperioden.45 
+Riksrevisionen bedömer att motivet för uppjusteringen av taket inte är orimligt. Att 
+osäkerheten bedöms som ovanligt stor kan motivera en större 
+budgeteringsmarginal än regeringens riktlinjer, vilka ska ge utrymme för en 
+normal osäkerhet. Det är också bra att regeringen är tydlig med att överskottsmålet 
+ska värnas. Regeringen kunde möjligtvis vara tydligare med att prognoserna för 
+2023 redan beaktar en förhållandevis hög inflation och fallande BNP. 
+5.3  Oklart vad som är styrande för valet av nivå på 
+utgiftstaket 
+Regeringens förslag till höjning av utgiftstaket 2023 innebär att taket sätts till 
+samma nivå i förhållande till potentiell BNP som vid den första bedömningen i den 
+ekonomiska vårpropositionen 2020 (27,0 procent). Sedan dess har potentiell BNP 
+2023 reviderats upp med 8,0 procent i löpande priser och med 3,2 procent i fasta 
+priser. Justeringen av utgiftstaket beror således till stor del på en högre inflation, 
+men även en upprevidering av real BNP. Likaså föreslår regeringen ett utgiftstak 
+för 2024 och 2025 som motsvarar 27,0 procent av potentiell BNP båda åren. För 
+2025 innebär det att utgiftstaket höjs med 103 miljarder kronor från bedömningen 
+i den ekonomiska vårpropositionen, men behåller samma nivå i procent av 
+potentiell BNP. Potentiell BNP har reviderats upp sedan 2022 års ekonomiska 
+vårproposition, i löpande priser med 5,8 procent, i fasta priser med 0,7 procent. 
+Regeringen skriver inte om BNP-andelen har varit styrande för valet av nivå på 
+utgiftstaket utan konstaterar bara att andelen är oförändrad.  
+I budgetpropositionen finns det även tabeller och redogörelser för det föreslagna 
+utgiftstaket 2025 och dess relation till överskottsmålet, utvecklingen av utgiftstaket 
+och de totala offentliga utgifterna i förhållande till BNP, utvecklingen av de 
+takbegränsade utgifterna och budgeteringsmarginalens storlek över tid och 
+utvecklingen av de takbegränsade utgifterna i fasta priser. Enligt ramverket är det 
+praxis att regeringen vid framtagandet av förslag till nivå på utgiftstaket för ett nytt 
+år förhåller sig till dessa faktorer. Det framgår dock inte om dessa faktorer varit 
+styrande för regeringens val av nivå på utgiftstaket.  
+ 
+45   Prop. 2022/23:1, s. 59. 
+
+5.4  Regeringen fortsatt otydlig om synen på skatteuttaget 
+Riksrevisionen har tidigare återkommande kritiserat regeringen för att vara otydlig 
+med synen på skatteuttaget. Regeringen är inte tydligare med detta i 
+budgetpropositionen för 2023.  
+Utgiftstakets nivå är enligt ramverksskrivelsen ett uttryck för regeringens syn på 
+hur det offentliga åtagandet ska utvecklas. ”En meningsfull utgiftsbegränsning 
+utgår på ett eller annat sätt från en övergripande tanke om hur den offentliga 
+sektorn ska förhålla sig till den totala produktionen i landet. Nivån på utgiftstaket är 
+på sikt avgörande för det totala skatteuttaget och nivån ska därmed överensstämma 
+med synen på hur stort ett rimligt skatteuttag ska vara.”46 Att det behöver finnas ett 
+samband mellan statens utgifter och skatteuttaget, mätt med skattekvoten, givet 
+överskottsmålet visas i diagram 3. Sedan 1997 har både skattekvoten och de 
+takbegränsade utgifterna, i procent av BNP, minskat.47  
+Uppjusteringen av utgiftstaket har motiverats med att de ska inrymma regeringens 
+prioriterade reformer och en beredskap för en högre kostnadsutveckling. Någon 
+kvantifiering av fördelningen mellan dessa finns dock inte. Samtidigt innehåller 
+finansplanen skrivningar om framtida skattesänkningar som en del av de 
+prioriterade reformerna. Om de takbegränsade utgifterna ökar så att 
+budgeteringsmarginalen blir lika med riktlinjerna för minsta marginal, finns det 
+inte utrymme att sänka skattekvoten givet överskottsmålet. Regeringen är samtidigt 
+tydlig med att överskottsmålet ska nås. De skriver också att "[r]eformer på 
+utgiftssidan kan genomföras först efter avstämning mot överskottsmålet med 
+hänsyn tagen till eventuella inkomstförändringar".48 
+ 
+46   Skr. 2017/18:207, s. 19. 
+47   Se fördjupning i förra årets rapport: Riksrevisionen, Det finanspolitiska ramverket – regeringens 
+tillämpning 2021, 2021.  
+48   Prop. 2022/23:1, s. 60. 
+
+Diagram 3 Skattekvot och takbegränsade utgifter 1997–2025 (procent av BNP) 
+49
+1999
+2000
+1997
+48
+1998
+47
+2005
+2001
+2006
+46
+ot 2004
+v 2007
+k
+atte45 2003
+Sk 2017 2016 2008 2002
+44
+2018 2009
+2010
+43 2013
+2019
+2015
+2021 2020
+42 2014
+2025 2011 2012
+2024 2023 2022
+41
+24 25 26 27 28 29 30 31 32 33 34 35
+Takbegränsade utgifter
+Anm.: Streckad linje visar ett skattat linjärt samband för 1997–2022. 
+Källor: Budgetpropositionen för 2023, SCB, ESV och Riksrevisionen. 
+
+6  Balanskravet 
+I kapitlet redovisas våra iakttagelser av regeringens hantering av balanskravet. 
+Riksrevisionen bedömer att regeringen redovisar sin bakåtblickande uppföljning av 
+kommunernas och regionernas balanskrav på ett transparent sätt. Däremot är 
+regeringens prognos för om kommunerna klarar balanskravet de kommande åren 
+inte transparent redovisad. Det är otydligt om bedömningen baseras på tillgänglig 
+information eller utgörs av ett antagande.  
+Kommunsektorn som helhet klarade balanskravet 2021, och få kommuner och 
+regioner redovisade negativa balanskravsresultat. Regeringen bedömer att 
+kommunsektorn som helhet kommer att klara balanskravet även 2022–2025.  
+6.1  Redovisningen av uppföljningen av balanskravet 
+2021 är transparent 
+Det kommunala balanskravet är tänkt att stödja överskottsmålet på så sätt att 
+välskötta finanser i kommuner och regioner bidrar till att överskottsmålet nås. 
+I ramverksskrivelsen framhåller regeringen att den därför noga följer den 
+kommunalekonomiska utvecklingen och redovisar denna i den ekonomiska 
+vårpropositionen och i budgetpropositionen. 
+I 2022 års ekonomiska vårproposition fanns ännu inga tillgängliga uppgifter för 
+kommunsektorns balanskravsresultat 2021. Vår bedömning baseras därför enbart 
+på regeringens redovisning i budgetpropositionen för 2023.  
+Regeringen bedömer att kommunsektorn som helhet uppfyllde balanskravet med 
+god marginal 2021. Balanskravet utvärderas med hjälp av resultatmåttet 
+balanskravsresultat som definieras i lagen (2018:597) om kommunal bokföring och 
+redovisning. Balanskravsresultatet för kommunsektorn som helhet uppgick till 
+drygt 42 miljarder kronor, varav kommunerna svarade för 32,5 miljarder kronor.  
+Kommuner och regioner får reservera överskott till en resultatutjämningsreserv 
+som kan användas för att utjämna intäkter över en konjunkturcykel. Enligt 
+regeringen uppgick resultatutjämningsreserverna 2021 till närmare 40 miljarder 
+kronor. Det är en ökning med 9 miljarder kronor från 2020. Av kommunerna har 
+70 procent avsatt medel till en resultatutjämningsreserv, av regionerna 50 procent. 
+Enligt regeringen redovisade sex kommuner ett negativt balanskravsresultat för 
+2021, vilket är få jämfört med tidigare år. En region redovisade ett negativt 
+balanskravsresultat. Ett negativt balanskravsresultat ska som huvudregel regleras 
+
+under de tre närmast följande åren.49 Om det finns synnerliga skäl får fullmäktige 
+dock besluta att en reglering inte ska göras.50 Av de kommuner och den region som 
+2021 redovisade ett negativt balanskravsresultat var det, enligt regeringen, två 
+kommuner som anförde synnerliga skäl för att inte behöva återställa hela eller delar 
+av det negativa resultatet. Vidare var det, enligt regeringen, nio kommuner och två 
+regioner som vid utgången av 2021 hade ett negativt resultat kvar att återställa.  
+Riksrevisionens bedömning av transparensen i redovisningen avser regeringens 
+uppföljning av balanskravets efterlevnad på aggregerad nivå. Vi bedömer att den 
+bakåtblickande redovisningen är transparent. 
+6.2  Otydligt vad som ligger till grund för regeringens 
+prognos för balanskravsresultatet 
+Regeringen bedömer att kommunsektorn som helhet kommer att redovisa ett 
+positivt balanskravsresultat under prognosperioden 2022–2025. Detta framgår av 
+propositionens avsnitt om uppföljningen av det kommunala balanskravet.51  
+I avsnittet om kommunsektorns finanser framgår att prognosen för 
+kommunsektorns finanser baseras på antagandet att utgifterna utvecklas på ett sätt 
+som är förenligt med balanskravet. På några års sikt antas i normalfallet att 
+kommunsektorn som helhet även redovisar ett resultat som bedöms vara i linje 
+med en god ekonomisk hushållning. Det innebär, enligt regeringen, att högre 
+resultat troligen behövs än vad som följer av balanskravet.52  
+Enligt vår bedömning finns det en viss diskrepans mellan de två avsnitten i hur 
+regeringen förklarar sin bedömning att balanskravet klaras 2022–2025. Det ena 
+avsnittet (4.3.2) ger intrycket av att den information som regeringen har tillgång till 
+är viktig för bedömningen. Det andra avsnittet (8.5) påvisar emellertid att 
+bedömningen bygger på ett antagande som regeringen gör. Regeringens 
+redovisning är enligt Riksrevisionen därmed inte konsekvent, vilket en transparent 
+redovisning bör vara. 
+ 
+49   11 kap. 12 § kommunallagen (2017:725).  
+50   11 kap. 13 § kommunallagen (2017:725).  
+51   Prop. 2022/23:1, avsnitt 4.3.2. 
+52   Prop. 2022/23:1, avsnitt 8.5. 
+
+7  Slutsatser och rekommendationer 
+Riksrevisionen har granskat regeringens tillämpning av det finanspolitiska 
+ramverket i de ekonomiska propositionerna under 2022. Riksrevisionens 
+övergripande slutsats är att den föreslagna finanspolitiken inte är redovisad i 
+enlighet med det finanspolitiska ramverket. Regeringens redovisning brister i flera 
+avseenden och är inte transparent. Det är flera viktiga aspekter av finanspolitiken 
+som är alltför oklara i budgetpropositionen 2023 och det skapar otydlighet om 
+bedömningen av avvikelsen från överskottsmålet och inriktningen på 
+finanspolitiken.  
+Riksrevisionen bedömer att det är särskilt allvarligt att regeringen har ändrat 
+metoden för att beräkna det strukturella sparandet (indikatorn för att följa upp 
+överskottsmålet) på ett väsentligt sätt utan att förändringen eller dess konsekvenser 
+framgår. Metodförändringen får, även om det inte framgår, betydande 
+konsekvenser för hur stort budgetutrymmet bedöms vara. Förändringen får även 
+konsekvenser för tolkningen av den finanspolitiska inriktningen.  
+7.1  Ändrad beräkningsmetod har stor påverkan på 
+tolkningen av finanspolitiken men det framgår inte 
+Det strukturella sparandet är högre än överskottsmålets nivå i budgetpropositionen 
+för 2023, men avvikelsen är inte så stor att den kan betraktas som en tydlig 
+avvikelse från målet. Det framgår emellertid inte av regeringens redovisning att 
+regeringen har genomfört en metodförändring som har stor effekt på det 
+strukturella sparandet. Metodförändringen är betydelsefull eftersom den har fått 
+stora effekter på indikatorn för att mäta uppfyllelsen av överskottsmålet och 
+därmed också budgetutrymmet. Metodförändringen har också betydelse för 
+tolkningen av finanspolitikens inriktning. Det kan ha betydelse i nuläget, inte 
+minst för samspelet mellan finanspolitiken och penningpolitiken. Avsaknaden av 
+information om metodförändringen riskerar att leda till att Riksbankens 
+beslutsunderlag i denna del kan bygga på en felaktig tolkning av finanspolitikens 
+stramhet.  
+Riksrevisionens granskning visar att i budgetpropositionen för 2023 påverkar 
+metodförändringen det strukturella sparandet både bakåt och framåt i tiden. För 
+2022 och 2023, de år som ska användas i uppföljningen av överskottsmålet, är det 
+strukturella sparandet betydligt lägre jämfört med om metodförändringen inte 
+genomförts. Med den metod som användes tidigare finns det en tydlig avvikelse 
+från överskottsmålet, finanspolitiken hade tolkats som mer åtstramande och 
+
+budgetutrymmet 2023 är betydligt större, allt annat lika. Även om 
+metodförändringen inte per automatik innebär att regeringen borde föreslagit en 
+annan utformning av finanspolitiken, hade de finanspolitiska övervägandena skett i 
+ett annat ljus. Det hade inneburit att utrymmet för en mer expansiv finanspolitik 
+hade varit tydligare, oaktat hänsynen till penningpolitiken. 
+Det framgår inte heller av regeringens prognosjämförelse att det finns större 
+skillnader mellan olika prognosmakares bedömningar av det strukturella 
+sparandet, som bland annat beror på att regeringen har förändrat 
+beräkningsmetoden. Jämförelser av prognoser för strukturellt sparande är viktiga, 
+särskilt för att riksdagen ska kunna ta ställning till regeringens prognoser. 
+Riksrevisionen har under flera år efterfrågat bättre jämförelser. När 
+beräkningsmetoderna skiljer sig åt är det ännu viktigare att regeringen redovisar 
+prognosskillnaderna på ett tydligt sätt. 
+7.2  Metodförändringen utgör ett avsteg från vedertagen 
+metod 
+Uppföljningen av överskottsmålet har genom åren kritiserats för att vara otydlig, 
+bland annat till följd av att det funnits flera indikatorer. Efter en översyn av 
+överskottsmålet övergick uppföljningen 2019 till att centreras till det strukturella 
+sparandet det innevarande och nästkommande året. Det infördes också i ramverket 
+att det strukturella sparandet ska vara beräknat enligt vedertagna metoder. 
+Förändringarna var en del av en skärpt uppföljning och utvärdering. Vad som är att 
+betrakta som vedertagen metod specificerades emellertid inte närmare, men 
+regeringen och dess expertmyndigheter har de senaste åren använt en i stort sett 
+gemensam metod för att beräkna det strukturella sparandet. 
+Regeringens metodförändring aktualiserar återigen frågan om uppföljningen av 
+överskottsmålet. Det är det rådande läget med hög inflation som föranlett 
+metodförändringen och motivet till förändringen har varit att jämna ut det 
+strukturella sparandet eftersom det ger upphov till stora variationer i budgetutrymmet. Även om metodförändringen endast omfördelar sparande mellan åren 
+blir det problematiskt när ramverket stipulerar en uppföljning av det strukturella 
+sparandet för vissa år (innevarande och nästkommande år). Regeringens 
+expertmyndigheter har inte heller gjort motsvarande metodförändring. 
+Riksrevisionen bedömer att regeringens och expertmyndigheternas metod för att 
+beräkna strukturellt sparande nu skiljer sig åt på ett väsentligt sätt och att 
+regeringens metodförändring är ett avsteg från vad som fram tills nu varit den 
+vedertagna metoden för att beräkna det strukturella sparandet.  
+
+Riksrevisionen kan inte bedöma om regeringens nya metod för att beräkna 
+strukturellt sparande är bättre eller sämre än den metod som regeringen tidigare 
+använde, eftersom det inte finns något underlag som möjliggör ett sådant 
+ställningstagande. För att ta ställning till den frågan skulle det behövas ett underlag 
+som visade skillnaderna mellan de olika metoderna utifrån olika perspektiv. Det 
+skulle bland annat behöva belysas hur olika inflationsscenarion påverkar 
+beräkningen av det strukturella sparandet. Dessutom behövs en analys av hur 
+utjämningen av budgetutrymmet samspelar med det finanspolitiska ramverket, 
+finanspolitikens konjunkturstabiliserande roll och penningpolitiken. 
+Det är fullt rimligt att metoden för att beräkna strukturellt sparande ska kunna 
+utvecklas om behov finns. Det är emellertid Riksrevisionens bedömning att sådan 
+metodutveckling som väsentligt påverkar strukturellt sparande behöver vara 
+transparent och baseras på fullständigt underlag och helst ske gemensamt mellan 
+Finansdepartementet, Konjunkturinstitutet och Ekonomistyrningsverket. 
+7.3  Det finns behov av ett mer utvecklat ramverk när det 
+gäller samspelet mellan finanspolitik och 
+penningpolitik 
+Den finanspolitiska inriktning som regeringen föreslår i budgetpropositionen för 
+2023 innebär att det strukturella sparandet stärks 2023 trots det svaga 
+konjunkturläget. Regeringen betraktar finanspolitiken som neutral och motiverar 
+sin finanspolitiska inriktning med att den tar hänsyn till penningpolitiken.  
+Riksrevisionen bedömer att det inte strider mot det finanspolitiska ramverket att i 
+detta läge med hög inflation ta hänsyn till penningpolitiken, även om ramverket i 
+delar samtidigt ger stöd till en mer expansiv finanspolitik eftersom det finns ett 
+överskott som kan användas för att motverka lågkonjunkturen. Mot detta står 
+risken att en efterfrågestimulans kan påverka inflationen och penningpolitiken i 
+ickeönskvärd riktning. Det finanspolitiska ramverket ger emellertid ingen närmare 
+beskrivning eller vägledning om hur hänsynen till penningpolitiken ska tas. Den 
+sparsamma beskrivningen gör det svårt att bedöma lämpligheten i den 
+finanspolitiska inriktningen. 
+
+7.4  Redovisningen av finanspolitikens inriktning är 
+otydlig  
+Riksrevisionen bedömer att regeringens redovisning av finanspolitikens inriktning 
+är otydlig och i delar även missvisande. Regeringen anför i budgetpropositionen för 
+2023 att budgeten är svagt åtstramande men att budgeten och elprisstödet 
+sammantaget bedöms innebära en neutral finanspolitik. 
+Det är dock oklart vad regeringen baserar sin bedömning om att finanspolitiken är 
+neutral på. Det är exempelvis svårt att förstå från regeringens redovisning att 
+elprisstödet på 55 miljarder kronor endast skulle leda till att den åtstramande 
+effekten blir neutral. Det framgår inte heller att bedömningen utgår från 
+förändringen av det primära strukturella sparandet, det vill säga exklusive nettot av 
+kapitalinkomster och kapitalutgifter. Det är också en olyckligt vald terminologi att 
+använda begreppet ”budget” eftersom budgeten (statens budget) inkluderar 
+elprisstödet. 
+Regeringen hade på ett tydligare sätt behövt beskriva hur den kommer fram till sin 
+bedömning och vad den menar. Det är särskilt viktigt i rådande läge när det finns 
+ett stort behov av samspel mellan finanspolitiken och penningpolitiken. 
+7.5  Höjningen av utgiftstaket strider inte mot ramverket 
+I samband med regeringsskiftet 2022 har utgiftstaket höjts väsentligt för 2023–
+2025. Det är det fjärde året i rad med en stor upprevidering av tidigare beslutade 
+utgiftstak. Regeringen anger finanspolitiskt motiverade skäl till att höja taket: ett 
+möjliggörande av prioriterade reformer och säkerställande av tillräckligt stora 
+marginaler för ovanligt stora finanspolitiska risker.  
+Riksrevisionen bedömer att höjningen av utgiftstaket inte strider mot det 
+finanspolitiska ramverket. Det är inte orimligt att höja utgiftstaket som regeringen 
+föreslår, givet de stora osäkerheter som nu råder. När osäkerheten minskar och om 
+det visar sig att behovet av marginaler blir mindre än befarat finns det emellertid 
+en risk för att prioriteringen mellan utgifter inte blir lika effektiv som den hade 
+blivit om utgiftstaket tydligare utgjort en begränsning för de statliga utgifterna. 
+Riksrevisionen bedömer att regeringen då bör överväga att justera ner utgiftstakets 
+nivåer. Riksrevisionen bedömer vidare att det är oklart vad som varit styrande vid 
+valet av nivån på utgiftstaket. Det är inte heller tydligt vilken syn som regeringen 
+har på det framtida skatteuttaget.  
+
+7.6  Redovisningen av skuldankaret och balanskravet är i 
+huvudsak transparent 
+Den offentliga sektorns konsoliderade bruttoskuld riskerar att underskrida 
+skuldankarets toleransintervall. Regeringens prognos i budgetpropositionen för 
+2023 är att bruttoskulden kommer att underskrida den nedre gränsen 2023. 
+Regeringens uppföljning av skuldankaret är kortfattad men Riksrevisionen 
+bedömer att den är tillräckligt transparent. 
+Riksrevisionen bedömer att regeringens bakåtblickande uppföljning av 
+kommunernas och regionernas balanskrav redovisas på ett transparent sätt. 
+Regeringen bedömer att kommunsektorn som helhet kommer att klara 
+balanskravet även 2022–2025, men det är dock otydligt om bedömningen baseras 
+på tillgänglig information eller utgörs av ett antagande.  
+Rekommendationer 
+Riksrevisionen rekommenderar regeringen att 
+•  ta initiativ för att säkerställa att det åter etableras en vedertagen metod för 
+regeringen, Ekonomistyrningsverket och Konjunkturinstitutet att beräkna 
+det strukturella sparandet 
+•  öka transparensen om inriktningen av finanspolitiken i de ekonomiska 
+propositionerna så att det tydligt framgår vad bedömningen baseras på 
+•  förbättra prognosjämförelserna i de ekonomiska propositionerna 
+•  överväga att sänka utgiftstaket om behovet av marginaler till följd av de 
+finanspolitiska riskerna blir mindre än befarat 
+•  utveckla handlingsreglerna för hur finanspolitiken ska samspela med 
+penningpolitiken i samband med nästa översyn av överskottsmålet.  
+
+Ordlista 
+Balanskrav   Kommunsektorns balanskrav innebär att kommuner 
+och regioner ska upprätta budgeten för nästa 
+kalenderår så att intäkterna överstiger kostnaderna. 
+Om underskott ändå uppstår ska den negativa 
+avvikelsen återställas inom tre år.  
+BNP-gap  Den procentuella skillnaden mellan faktisk och 
+potentiell BNP. Ett mått på konjunkturläget och på hur 
+stort resursutnyttjandet är i ekonomin. 
+Budgeteringsmarginal   Utrymmet mellan utgiftstaket och de beräknade 
+takbegränsade utgifterna. 
+Budgetutrymme  Omfattningen av budgetförsvagande åtgärder (positivt 
+budgetutrymme) eller behovet av budgetförstärkningar 
+(negativt budgetutrymme) som är förenliga med att 
+överskottsmålet nås. 
+Finansiellt sparande  Den offentliga sektorns finansiella sparande är 
+skillnaden mellan (periodiserade) inkomster och 
+utgifter i hela den offentliga sektorn under ett år. Det 
+omfattar staten, ålderspensionssystemet, kommunerna 
+och regionerna. 
+Konsoliderad bruttoskuld  Den offentliga sektorns konsoliderade bruttoskuld är 
+summan av den konsoliderade statsskulden och 
+kommunsektorns skulder på kapitalmarknaden, med 
+avdrag för AP-fondernas innehav av statsobligationer. 
+Konsoliderad innebär att skulder inom sektorn inte 
+räknas med. Brutto används för att förtydliga att ingen 
+avräkning gjorts för innehavet av finansiella tillgångar. 
+Potentiell BNP  Nivån på den produktion som skulle uppnås om det 
+hade varit ett fullt utnyttjande av de i dag tillgängliga 
+produktionsfaktorerna arbete och kapital, och som på 
+lång sikt är förenligt med en stabil löneökningstakt och 
+inflationstakt. Det är alltså den nivå på BNP som skulle 
+uppnås i avsaknad av konjunkturella fluktuationer. 
+Skuldankare  Ett riktmärke för den offentliga sektorns konsoliderade 
+bruttoskuld, den så kallade Maastrichtskulden, på 
+35 procent av BNP. 
+
+Strukturellt sparande  En beräkning av vad den offentliga sektorns finansiella 
+sparande skulle vara vid ett balanserat 
+resursutnyttjande (neutralt konjunkturläge) och en 
+normal sammansättning av viktiga skattebaser. 
+Används för att bedöma om överskottsmålet uppnås. 
+Takbegränsade utgifter   De statliga utgifter som begränsas av utgiftstaket. Alla 
+utgifter ingår, med undantag för statsskuldsräntorna 
+(utgiftsområde 26), men med tillägg för utgifterna i 
+ålderspensionssystemet vid sidan av statens budget.  
+Utgiftstak  Den maximala nivån för utgifterna i statsbudgeten och 
+ålderspensionssystemet, det vill säga en gräns för hur 
+mycket pengar staten får spendera varje år. Riksdagen 
+fattar beslut om var gränsen ska ligga, på förslag av 
+regeringen.  
+Överskottsmål  Målet för den offentliga sektorns finansiella sparande. 
+Uppgår till en tredjedels procent av BNP i genomsnitt 
+över en konjunkturcykel. 
+
+Referenslista 
+Utredningar och rapporter  
+Ds 2010:4, Utvärdering av överskottsmålet. 
+Ekonomistyrningsverket, Prognos Statens budget och de offentliga finanserna 
+November 2019, Ekonomistyrningsverket, 2019. 
+Konjunkturinstitutet, Konjunkturläget september 2022, Konjunkturinstitutet, 2022. 
+Konjunkturinstitutet, A New Method for Constructing a Cyclically Adjusted Budget 
+Balance: the Case of Sweden, Working Paper No. 90, Konjunkturinstitutet, 2004. 
+Riksrevisionen, Sambandet mellan utgiftstaket, överskottsmålet och skattepolitiken – 
+regeringens redovisning, RiR 2007:22, Riksrevisionen, 2007. 
+Riksrevisionen, Det finanspolitiska ramverket – regeringens tillämpning 2019, RiR 
+2019:38, Riksrevisionen, 2019. 
+Riksrevisionen, Det finanspolitiska ramverket – regeringens tillämpning 2020, RiR 
+2020:29, Riksrevisionen, 2020. 
+Riksrevisionen, Det finanspolitiska ramverket – regeringens tillämpning 2021, RiR 
+2021:31, Riksrevisionen, 2021. 
+SOU 2016:67, En översyn av överskottsmålet. 
+Riksdagstryck 
+Bet. 2017/18:FiU1, Statens budget 2018 Rambeslutet, rskr. 2017/18:54. 
+Prop. 2013/14:173, En utvecklad budgetprocess. 
+Prop. 2017/18:1, Budgetpropositionen för 2018. 
+Prop. 2022/23:1, Budgetpropositionen för 2023. 
+Prop. 2021/22:100, 2022 års ekonomiska vårproposition. 
+Skr. 2017/18:207, Ramverket för finanspolitiken, bet. 2017/18:FiU32, rskr. 
+2017/18:334. 
+Lagar och förordningar 
+Budgetlag (2011:203). 
+Kommunallag (2017:725). 
+Lag (2018:597) om kommunal bokföring och redovisning. 
+Regeringsform. 
+Riksdagsordning. 
+
+Webbsidor 
+Regeringskansliet, ”Metod för beräkning av strukturellt sparande i offentlig sektor 
+april 2019”, 
+https://www.regeringen.se/contentassets/27980ae5bf8f483196e58d782767b52d/me
+todfor-berakningav-strukturelltsparande-i-offentligsektor-april2019.pdf, hämtad 
+2023-01-06. 
+Regeringskansliet, ”Metod för beräkning av strukturellt sparande i offentlig sektor, 
+november 2022”, 
+https://www.regeringen.se/contentassets/185b3875521d4ffc9061926291fbc37a/me
+todfor-berakningav-strukturelltsparande-i-offentligsektor-november2022.pdf.pdf, hämtad 2022-12-22.  
+Regeringskansliet, ”Metod för beräkning av potentiella variabler, november 2022”, 
+https://www.regeringen.se/contentassets/9957682d29014cf2b8b1534b86bd85fb/m
+etodfor-berakningav-potentiellavariabler-november2022.pdf, hämtad 2022-12-22.  
+
+Bilaga 1 Strukturellt sparande beräknat med 
+ny och tidigare metod 
+I denna bilaga visar vi Riksrevisionens beräkning av skillnaden mellan strukturellt 
+sparande med regeringens nya och tidigare metod. Vi har beräknat skillnaden 
+utifrån de uppgifter som finns i budgetpropositionen för 2023 och promemorian 
+”Metod för beräkning av strukturellt sparande i offentlig sektor, november 2022”.53 
+Strukturellt sparande beräknas utifrån utfall eller prognos för det finansiella 
+sparandet. Det finansiella sparandet justeras med summan av fyra delar: justering 
+för BNP-gapet, justering för arbetslöshetsgapet, justering för skattebasernas 
+sammansättning i förhållande till trender och justering för engångseffekter.  
+Vår beräkning utgår från att regeringen inte har förändrat hur trenderna i 
+skattebaserna beräknas, dessa är uttryckta som respektive skattebas i förhållande 
+till BNP i löpande pris. Metodförändringen antas inte heller påverka justeringen för 
+engångseffekter. 
+Justeringen för BNP-gapet består av en vikt som multipliceras med BNP-gapet i 
+löpande priser. Vi har inte tillgång till den exakta storleken på vikten, men vi har 
+utifrån tillgängliga data uppskattat den till runt 0,46.54  I den tidigare metoden 
+antogs att BNP-deflatorn var densamma i konjunkturell balans som den faktiska. 
+Det innebar att BNP-gapet i fasta och löpande priser var lika stort. Vi beräknar 
+därför justeringen av BNP-gapet enligt tidigare metod som vikten multiplicerat 
+med regeringens bedömning av BNP-gapet i fasta priser. 
+Justeringen för arbetslöshetsgapet består på liknande sätt av en vikt multiplicerad 
+med arbetslöshetens avvikelse från jämviktsarbetslösheten. Denna vikt kan också 
+ha påverkats av metodförändringen eftersom den är uttryckt som andel av 
+potentiell BNP. Vikten är dock förhållandevis liten och torde inte ha påverkats 
+väsentligt av att nämnaren ändrats. Vi har därför inte gjort någon beräkning av en 
+eventuell sådan effekt. 
+ 
+53   Regeringskansliet, ”Metod för beräkning av strukturellt sparande i offentlig sektor, november 
+2022”, hämtad 2022-12-22. 
+54   Utifrån tabell 2.14 i budgetpropositionens tabellsamling kan vikten beräknas som värdet för 
+”Justering för BNP-gap” multiplicerat med BNP-gapet i löpande priser, enligt tabell 1.8 i 
+budgetpropositionens tabellsamling. Vi har använt genomsnittet 2017–2024 och har därmed 
+tagit bort orimligt höga värden 2016 och 2025, utifrån vetskapen om att vikten definieras som 
+(större delen av) de offentliga utgifterna som andel av BNP. 
+
+Tabell 6 Strukturellt sparande (procent av potentiell BNP om inget annat anges) 
+  2020  2021  2022  2023  2024  2025 
+Finansiellt sparande, procent av  -2,8  -0,1  0,6  0,2  0,4  1,4 
+BNP 
+Justering för BNP-gap  2,3  1,0  -0,6  -0,1  0,5  0,3 
+Justering för arbetslöshetsgap  0,2  0,2  0,0  0,0  0,0  0,0 
+Justering för skattebasernas  -0,2  -0,6  0,4  0,6  0,3  0,1 
+sammansättning 
+Justering för engångseffekter  0,0  0,0  0,0  0,0  0,0  0,0 
+Strukturellt sparande  -0,5  0,5  0,4  0,7  1,2  1,8 
+Justering för BNP-gap, tidigare  1,7  0,3  -0,1  0,8  0,7  0,0 
+metod 
+Strukturellt sparande, tidigare  -1,1  -0,2  0,9  1,6  1,4  1,5 
+metod 
+Källa: Budgetpropositionen för 2023 och Riksrevisionen. 
+
+ramverket  i  de  ekonomiska  propositionerna  under  2022.  Riksrevisionens 
+bedömning är att den föreslagna finanspolitiken inte är redovisad i enlighet 
+med ramverket. Regeringens redovisning brister i flera avseenden och är inte 
+transparent. 
+Vi bedömer att det är särskilt allvarligt att regeringen har ändrat metoden för att 
+beräkna det strukturella sparandet (indikatorn för att följa upp överskottsmålet) 
+på ett väsentligt sätt utan att förändringen eller dess konsekvenser framgår. 
+Regeringens  metodförändring  är  också  ett  avsteg  från  ramverkets  krav  på 
+vedertagen metod.
+Riksrevisionens bedömning är att regeringens förslag på en neutral finanspolitisk  inriktning  och  höjning  av  utgiftstak  inte  strider  mot  ramverket.  
+Men regeringens redovisning är otydlig. Och om det visar sig att behovet av 
+marginaler till följd av de finanspolitiska riskerna blir mindre än befarat, finns 
+det en risk för att prioriteringen mellan utgifter inte blir lika effektiv som den 
+skulle ha blivit om utgiftstaket tydligare utgjort en begränsning.
+Riksrevisionen rekommenderar regeringen att ta initiativ för att säkerställa att 
+det åter etableras en vedertagen metod för att beräkna det strukturella sparandet. 
+Vi rekommenderar också regeringen att öka transparensen om inriktningen 
+av  finanspolitiken  och  förbättra  prognosjämförelserna  i  de  ekonomiska 
+propositionerna.  Vidare  rekommenderas  regeringen  att  överväga  att  sänka 
+utgiftstaket om behovet av marginaler blir mindre än befarat, och att utveckla 
+handlingsreglerna för hur finanspolitiken ska samspela med penningpolitiken 
+i samband med nästa översyn av överskottsmålet.
+Riksrevisionen
+S:t Eriksgatan 117
+Box 6181, 102 33 Stockholm
